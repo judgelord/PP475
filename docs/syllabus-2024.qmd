@@ -4,7 +4,7 @@ subtitle: "Winter, 2024"
 format: html
 ---
 
-
+> “we live in a big science fiction novel we are all writing together” - [Kim Stanley Robinson](https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html)
 
 	
 # Course Objectives
@@ -91,25 +91,54 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 # Readings 
 
-## Week 1: 
+## Week 1: Hope and Politics
 
+in an unequal and chaotic world
 
-## Week : Climate Engineering
+> [*Home is Always Worth It* - Mary Annaïse Heglar](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9)
 
+> [*But the Greatest of These is Love* - Mary Annaïse Heglar](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c)
+
+> Purdy, 1-69
+
+## Week 2: God's Gardeners
+
+> Purdy, 70-95
+
+## Week 3: Nature as Teacher
+
+## Week 4: Utilitarianism and Techno-optomism 
+
+Learning curves 
+
+> The Big Fix, Chapter 1
+
+Climate Engineering
+
+> All We Can Save 
 
 Recommended
 
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith
+- *Under a White Sky*
 
 
-https://www.volts.wtf/p/minnesota-forces-transportation-planners#details
+## Week 4: Ecological Critique
+
+## Week : 
 
 
-## Planning and Building for Change
+
+
+
+## Planning for Change
 
 > Charleston 
 
-Recomended: 
+> Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
+
+
+Recommended: 
 
 - https://www.npr.org/2023/11/06/1204923950/arizona-california-new-jersey-climate-flood-wildfire-drought-building-homes
 
@@ -137,3 +166,17 @@ https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-inc
  (https://jackconness.com/ira-chips-investments)
 2) Report detailing IRA's impact on US emissions + economy and public health (https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
 3) and a Science paper compiling multiple such studies (https://science.org/doi/10.1126/science.adg3781)
+
+
+## Indegenous Critique 
+
+## Eco-feminist Critique 
+
+> Battistoni 
+
+## Eco-facist Critique 
+
+
+## Critics of Marxism and Liberalism
+
+> Unger 

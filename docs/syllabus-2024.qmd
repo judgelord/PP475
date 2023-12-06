@@ -9,16 +9,61 @@ format: html
 	
 # Course Objectives
 
+In the past century---the blink of an eye in ecological time---a small portion of humans concentrated wealthier and more industrialized countries began to radically transform the ecology of our planet at a unprecedented scale.^[OK, sure, cyanobacteria were [similarly tranfromative](https://asm.org/articles/2022/february/the-great-oxidation-event-how-cyanobacteria-change), but that was billions of years ago, and cyanobacteria cannot reflect on their actions. They make oxygen, but neither politics nor policy.] 
+
+The aim of this class is to help you develop your own critique of various policy fights over what to do about our new relationship with our biosphere. That critique may lead you to suggest a minor change or a transformative one. 
+
+Experts increasingly see the slow policy response to climate science as having little to do with climate science and almost everything to do with politics. Climate change is increasingly seen as a problem for social science. Thus, this class is about politics. "Politics" can mean many things and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is what we will do together about the challenges we face. Climate policy debates reflect well-established political and economic perspectives, but also raise new, unique issues. 
+
+The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalist covering climate policy debates. Both the theories of politics and political arguments explicitly cover a wide range of perspectives. We will read a range of critiques based on visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critique these visions of politics when we see them in the wild. 
+
+The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques developed in this class will target organizations. It is easy to critique those with whom we severely disagree, but they are the least likely to listen to you. Thus, your critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. 
+
+As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your collegues' writing are a major part of this class and 15% of your grade.
+
+
 # Course Readings/Other Materials
 
 ##	Required
 
+We will read large portions of three books: 
+
+- *After Nature* by Jeddidiah Purdy, Harvard University Press (2015)
+
+- *All We can Save*, Edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021) --- available as an audio book from the library!
+
+- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023)
+
+The other readings will be available for free online (you many need to go through the library website for journal articles) or on Canvas.
+
 ##	Recommended
 
-## Course Assignments/Due Dates/Percent of Final Grade
+We will read smaller portions of the following books, which will be available on Canvas 
 
+- [Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
+- *Politics: The Central Texts* by Roberto Mangabeira Unger
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
+- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
+- Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing
 
-### Learning environment
+## Other books you may find useful
+
+- *Politics is for Power* by Eitan Hersh
+- *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through library!
+- *Rules for Radicals* by Saul Alinsky
+
+## Resources 
+
+### American Government Module
+
+If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
+
+- [Day 1](http://leccap.engin.umich.edu/leccap/player/r/jdCaYX)
+- [Day 2](http://leccap.engin.umich.edu/leccap/player/r/r4jN5e)
+- [Day 3](http://leccap.engin.umich.edu/leccap/player/r/bSYi7Y)
+- [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
+
+## Learning environment
 
 Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
 
@@ -27,7 +72,7 @@ To realize this goal, I expect us to respect our colleagues and cultivate inclus
 <!--[Best Practices for Navigating the Classroom Environment - 
 Fall 2022](https://docs.google.com/document/d/1uSAbeIoEHqZwBzBlbDsz_jl5J_mapwoRxyOK1OGhBdM)--> 
 
-### Ford School and University of Michigan Policies
+## Ford School and University of Michigan Policies
 
 **Ford School Inclusivity Statement:**
 Members of the Ford School community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity. While working together to build this community we ask all members to: 
@@ -74,7 +119,7 @@ Please review additional information and policies regarding [academic expectatio
 Please see the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
 
 
-## Assignments
+## Assignments 
 
 Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of assignments building to a highly-polished op-ed style critique of policy advocacy organization. A key part of the process will be critiquing the writing of others.
 
@@ -89,30 +134,33 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 [Subscribe to the due dates calendar]().
 
-## Find your voice - 8%
+## Find your voice - 10% of final grade
 
-- Week 1: a 20-30 second video introducing yourself to the class (1 point)
-- Week 2: list the 20 top organizations for whom you would like to work (1 point) 
-- Week 3: 10 op-ed-style headlines (in-class peer workshop on headlines) (1 point)
-- Week 4: 5 revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5 points)
-- Week 5: meet with me (part of previous assignment grade)
+- Week 1: a 20-30 second video introducing yourself to the class (1%)
+- Week 2: list the 20 top organizations for whom you would like to work (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 3: 10 op-ed-style headlines (in-class peer workshop on headlines) (2%) <!---COULC BE 1--> 
+- Week 4: 5 revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5%)
+- Week 5: 
+  - Meet with me about your op-ed ideas (part of previous assignment grade)
+  - Write to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. (1%) For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
 
-## Craft your critique - 24%
+## Craft your critique - 25% of final grade
 
-- Week 6: 3 first 400 words + annotated bibliographies  (9 points)
-- Week 7: peer critique of first 400 words  (5 points)
-- Week 8: 2 revised first 400 words + annotated bibliographies  (10 points)
+- Week 6: 3 first 400 words + annotated bibliographies  (9%)
+- Week 7: peer critique of first 400 words  (5%)
+- Week 8: 2 revised first 400 words + annotated bibliographies  (10%)
 - Week 9: my feedback on your first 400 words 
+  - Write 100-200 words about why it is important to engage in a particular policy process and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least five other people on a public forum---post a link or screenshots to Canvas (1%)
 
-## Hone your critique - 50%
+## Hone your critique - 50% of final grade
 
-- Week 10: 750-800 word op-ed + annotated bibliography  (10 points)
-- Week 11: peer critique of op-ed  (5 points)
-- Week 12: revised op-ed (10 points)
+- Week 10: 750-800 word op-ed + annotated bibliography  (10%)
+- Week 11: peer critique of op-ed  (5%)
+- Week 12: revised op-ed (10%)
 - Week 13: my feedback on op-ed 
-- Week 14: revised op-ed (10 points)
-- Week 15: peer critique of revised op-ed  (5 points)
-- Week 16: final due (10 points)
+- Week 14: revised op-ed (10%)
+- Week 15: peer critique of revised op-ed  (5%)
+- Week 16: final due (10%)
 
 ## Participation 15% (15 X 1%) 
 
@@ -122,31 +170,64 @@ In addition to attending class, we will continue the conversation by discussing 
 
 # Readings 
 
-## Week 1: Hope and Politics
+## Week 1: Hope 
 
-in an unequal and chaotic world
+...in an unequal and chaotic world.
 
 > [*Home is Always Worth It* - Mary Annaïse Heglar](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9)
 
 > [*But the Greatest of These is Love* - Mary Annaïse Heglar](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c)
 
-> Purdy, 1-50
+> [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
 
-## Week 2: God's Gardeners
+## Week 2: Politics
 
-> Purdy, 70-95
+...in the anthropocene
 
-## Week 3: Nature as Teacher
+> Purdy, Prologue and Introduction (1-50)
 
-## Week 4: Utilitarianism and Techno-optomism 
+Further Readings: 
+
+- [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedulus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
+- [Global warming will happen faster than we think, Y Xu, V Ramanathan, DG Victor, *Nature* (2018)](https://www.nature.com/articles/d41586-018-07586-5)
+
+
+## Week 2: God and Nature
+
+The religious, colonial, and mystic foundations of western environmental law and politics
+
+> Purdy, Chapter 1: An Unequal Terrain (51-70), Chapter 2: God's Avid Gardeners (70-95) and Chapter 4: Natural Utopias (116-152)
+
+<!--## Nature as Teacher
+
+Aesthetics--> 
+
+## Justice 
+
+> “Three faces of climate justice”, Annual Review of Political Science, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
+
+>  ["Race, Class, Gender, and American Environmentalism." by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> 
+
+https://www.fs.usda.gov/research/treesearch/3259
+
+Further reading: 
+
+> Roosevelt Project Gulf coast case, Jason Beckfield et al, pages 1-30, https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf
+
+
+## Week 3: Utilitarianism and Techno-optomism 
+
+Utilitarianism and managerialism
+
+> Purdy, Chapter 5: A Conservationist Empire (153-187)
 
 Learning curves 
 
-> The Big Fix, Chapter 1
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35)
 
 Climate Engineering
 
-> All We Can Save 
+> All We Can Save, A Handful of Dust by Kate Marvel 
 
 Recommended
 
@@ -156,58 +237,227 @@ Recommended
 
 ## Week 4: Ecological Critique
 
-## Week : 
+> *A Sand County Almanac* by Aldo Leopold (201-226)
 
+> Purdy, Chapter 6: A Wilderness Passage into Ecoloogy (188-227), Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
 
+## Indegenous Critique 
 
+TBD Selections from *All We Can Save* and others
 
 
 ## Planning for Change
 
-> Charleston 
+> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
 
 > Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
 
 
 Recommended: 
 
-- https://www.npr.org/2023/11/06/1204923950/arizona-california-new-jersey-climate-flood-wildfire-drought-building-homes
+- [3 cities face a climate dilemma: to build or not to build homes in risky places](https://www.npr.org/2023/11/06/1204923950/arizona-california-new-jersey-climate-flood-wildfire-drought-building-homes)
+- [Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
 
 
-## Utopia
+## Institutions 
 
-https://link.springer.com/article/10.1057/s41296-023-00661-1#citeas
+Collective action 
 
-
-
-## What the US is doing 
-
-https://twitter.com/emilypawley/status/1722028085816541338
-
-https://www.charged-the-book.com/na-ev-supply-chain-map
-
-### IRA
-
-https://hammerandhope.org/article/climate-green-new-deal
-
-https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/
-
-1) Investments tracker by  
-@JackConness
- (https://jackconness.com/ira-chips-investments)
-2) Report detailing IRA's impact on US emissions + economy and public health (https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
-3) and a Science paper compiling multiple such studies (https://science.org/doi/10.1126/science.adg3781)
+- Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American economic review*, 100(3), 641-72.
 
 
-## Indegenous Critique 
+Electoral institutions
 
-## Eco-feminist Critique 
+> Skim: ["Legislative Staff and Representation in Congress" by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. *The American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66)
 
-> Battistoni 
+> Skim [“Institutions, Climate Change, and the Foundations of Long-term Policymaking.” Finnegan, Jared, 2022 *Comparative Political Studies*.
+]()
 
-## Eco-facist Critique 
+
+Further reading
+
+- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
+
+
+## Markets
+
+Voices of New Keynesian, neoliberal, and libertarian economists: 
+
+- ["Information" - Joseph E. Stiglitz
+](https://www.econlib.org/library/Enc/Information.html)
+- ["The Use of Knowledge in Society"
+By Friedrich A. Hayek](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader)
+- [Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law)
+
+Research: 
+
+> Listen: [Paying for Pollution](https://scholars.org/podcast/paying-pollution)
+
+Criticism: 
+
+> [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist)
+> [Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
+
+Criticism of the critics: 
+
+- [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
+
+
+## Movements 
+
+> [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
+
+> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change
+Activism in the United States.” Annual Review of Political Science 20:189–2008.
+
+> “Three faces of climate justice”, Annual Review of Political Science, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
+
+## Incumbents
+
+Explaining action and inaction 
+
+- Why are groups effective at shaping policy? 
+- What industries will lose from climate policies, and could they pivot?
+<!--- Identify examples of “odd bed-fellows”--> 
+- What industries have most effectively obstructed policy? How do they work with/against political actors?
+
+Globally:
+
+> Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
+
+In the US: 
+
+> [Carbon Captured: How Business and Labor Control Climate Politics, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+
+> [Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
+
+<!--
+> Watch: [Leah Stokes - The Future is Electric | Bioneers 2023](https://www.youtube.com/watch?v=57Ry9LnUW0g)
+--> 
+
+
+> Catie's article on utility lobbying? 
+
+Further Reading: 
+
+- [Op-Ed: Yes, ExxonMobil misled the public by NAOMI ORESKES AND GEOFFREY SUPRAN](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html)
+- [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
+
+
+## Doomerism and Delay
+
+Tuesday: Doomerism
+
+Light doomerism: 
+
+> Watch [Weekend Update: U.N.'s Climate Change Report - SNL](https://www.youtube.com/watch?v=07oe1m67eik)
+
+Heavy doomerism: 
+
+> 
+
+Thursday: Reactionary Rhetoric 
+
+Research: 
+
+> ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
+
+> Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.
+
+Further Reading: 
+
+
+https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html
+
+Brookings Institute, Elaine Kamarck, The Challenging Politics of Climate Change 
+
+
+<!--## Utopia
+
+
+Recommended
+
+- Review of new books on Utopian thinking: https://link.springer.com/article/10.1057/s41296-023-00661-1#citeas
+
+--> 
+
+## US Climate Policy 
+
+> All We Can Save: Litigating in a Time of Crisis (51-59), The Politics of Policy (85-91)
+
+> TBD 
+
+
+Further reading: 
+
+ - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
+
+Resources for understanding the Inflation Reduction Act: 
+
+- ["Inflation Reduction Act (IRA) Summary: Energy and Climate Provisions" - Bipartisan Policy Center ](https://bipartisanpolicy.org/blog/inflation-reduction-act-summary-energy-climate-provisions/)
+ - [Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive. A sortable and filterable list for stakeholders big and small.](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)
+- [Investments trackers](https://jackconness.com/ira-chips-investments)
+- [Report detailing IRA's impact on US emissions + economy and public health](https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
+- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781)
+- https://www.charged-the-book.com/na-ev-supply-chain-map
+
+Criticism: 
+
+> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
+
+
+## Feminist Critique 
+
+Eco-feminist Critique: 
+
+> ["Alive in the Sunshine" by Alyssa Battistoni ](https://jacobin.com/2014/01/alive-in-the-sunshine)
+
+## Nationalist Critique
+
+Nationalist, ethno-nationalist, and eco-fascist critique: 
+
+> [Climate-Trap Diplomacy](https://www.city-journal.org/article/china-is-no-climate-partner)
+
+Reseach: 
+> [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+
+Research: 
+- [Information about climate-induced migration spurs negative attitudes about immigrants](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
+- [‘Ecobordering’: casting immigration control as environmental protection](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
+
 
 
 ## Critics of Marxism and Liberalism
 
-> Unger 
+> *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)
+
+<!-- MORE IDEAS 
+
+https://www.climateandcommunity.org/
+
+[A Planet to Win: Why We Need a Green New Deal by Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen and Thea Riofrancos](https://www.versobooks.com/products/2546-a-planet-to-win)
+
+
+Climate Crisis and the Global Green New Deal: The Political Economy of Saving the Planet
+by Noam Chomsky and Robert Pollin
+
+Climate Leviathan: A Political Theory of Our Planetary Future
+by Geoff Mann and Joel Wainwright
+
+
+The Conservation Revolution: Radical Ideas for Saving Nature Beyond the Anthropocene
+by Bram Büscher and Robert Fletcher
+
+
+Climate Change as Class War: Building Socialism on a Warming Planet
+by Matthew T. Huber
+
+Who Will Build the Ark?: Debates on Climate Strategy from 'New Left Review'
+Edited by Benjamin Kunkel and Lola Seaton
+
+
+- https://www.nytimes.com/interactive/2021/10/25/climate/world-climate-pledges-co26.html
+- [Countries’ climate pledges built on flawed data (2021)](https://www.washingtonpost.com/climate-environment/interactive/2021/greenhouse-gas-emissions-pledges-data/)
+- [Climate Pledges COP26 (2021)](https://www.nytimes.com/interactive/2021/10/25/climate/world-climate-pledges-co26.html)
+- [Why tackling global warming is a challenge without precedent](https://www.economist.com/schools-brief/2020/04/23/why-tackling-global-warming-is-a-challenge-without-precedent)
+---> 

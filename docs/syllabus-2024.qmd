@@ -1,7 +1,10 @@
 ---
 title: "PubPol 475.011 Topics: Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
-format: html
+format: 
+  html:
+   toc: true
+   toc-location: left
 ---
 
 Tuesdays and Thursdays 2:30-3:50 AM, 1210 Weill Hall
@@ -145,7 +148,7 @@ As mentioned in the memo template, <mark>**references must be hyperlinked**</mar
 
 I reserve the right to discuss your papers in length with you if I have concerns.
 
-## Assignments 
+# Assignments 
 
 Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others.
 

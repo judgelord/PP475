@@ -297,9 +297,16 @@ Further Reading:
 
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
+> [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
+
 ::: {.callout-caution collapse="true"}
 TBD Selections from *All We Can Save* and others
 :::
+
+
+Further reading:
+
+-[Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
 
 ## Planning for Change
 

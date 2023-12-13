@@ -177,8 +177,9 @@ There is an assignment due **every** Tuesday.
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
-
-[Subscribe to the due dates calendar]().
+::: {.callout-tip}
+[Subscribe to the due dates calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+:::
 
 ## Find your voice - 10% of final grade
 

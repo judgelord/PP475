@@ -15,6 +15,8 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
+[Subscribe to the course calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
 <!--Updated `r Sys.Date() |> format("%B %d, %Y")` https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)--> 
 
 
@@ -32,7 +34,7 @@ Experts increasingly see the slow policy response to climate science as having l
 
 The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. 
 
-The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in most effective way? Is their theory of change (or resistance to change) realistic?
+The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
 It is easy to critique those with whom we severely disagree, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may have no idea what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policy---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
@@ -40,7 +42,7 @@ It is easy to critique those with whom we severely disagree, but they are also t
 As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 15% of your grade.
 
 
-# Course Readings/Other Materials
+# Course Materials
 
 Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
 
@@ -50,11 +52,11 @@ I call on students during class and expect you to do all assigned readings for e
 
 We will read large portions of three books: 
 
-- *After Nature* by Jedediah Purdy, Harvard University Press (2015)
+- *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
 
-- *All We can Save*, Edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021) --- available as an audio book from the library!
+- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an audiobook from the library!
 
-- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023)
+- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
 
@@ -65,7 +67,6 @@ We will read smaller portions of the following books, which will be available on
 - [Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
 - *Politics: The Central Texts* by Roberto Mangabeira Unger
 - [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
-- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
 - Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing
 
 
@@ -73,6 +74,7 @@ We will read smaller portions of the following books, which will be available on
 
 - *Politics is for Power* by Eitan Hersh
 - *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
+- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
 - *Rules for Radicals* by Saul Alinsky
 - *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
   - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
@@ -151,7 +153,7 @@ See the end of the syllabus for information about our commitment to best practic
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a generative text tool. I expect the same. 
 
-Text extruded by LLMs is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects than for a language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning to me. LLMs have no thought process and do no reason. 
+Text extruded by LLMs is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects than for a language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning to me. LLMs have no thought process and do no reason. 
 
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
@@ -184,7 +186,7 @@ There is an assignment due **every** Tuesday.
 ## Find your voice - 10% of final grade
 
 - Week 1: a 20-30 second video introducing yourself to the class (1%)
-- Week 2: list the 20 top organizations for whom you would like to work and a once-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 2: list the 20 top organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: 10 op-ed-style headlines (in-class peer workshop on headlines) (1%) <!---COULD BE 1--> 
 - Week 4: 5 revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5%)
 - Week 5: 
@@ -240,26 +242,26 @@ In addition to attending class, we will continue the conversation by discussing 
 
 > Purdy, Prologue and Introduction (1-50)
 
-> Ansolabehere S, Konisky DM. Cheap and Clean: How Americans Think about Energy in the Age of Global Warming. Cambridge: MIT Press; 2014, Chapter 3
+> Ansolabehere S, Konisky DM. *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming.* Cambridge: MIT Press; 2014, Chapter 3  `(Canvas)`
 
-> Climate Change: US Public Opinion, Patrick J. Egan and Megan Mullin, Annual Review of Political Science Vol. 20, 2017
+> Climate Change: US Public Opinion, Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017
 
-> Skim: Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." American Political Science Review (2022): 1-19.
+> Skim: Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.
 
 
 Further Readings: 
 
 - [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedalus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
 
-- [“Witnessing for the Middle to Depolarize the Climate Change Conversation”, Daedulus Fall 2020](Robert Harry Socolow,  https://www.amacad.org/publication/witnessing-middle-depolarize-climate-change-conversation)
+- [“Witnessing for the Middle to Depolarize the Climate Change Conversation”, *Daedalus* Fall 2020](Robert Harry Socolow,  https://www.amacad.org/publication/witnessing-middle-depolarize-climate-change-conversation)
 
-- [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, Daedulus Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
+- [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, *Daedalus* Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
 
 - [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020,](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
 
 - [Global warming will happen faster than we think, Y Xu, V Ramanathan, DG Victor, *Nature* (2018)](https://www.nature.com/articles/d41586-018-07586-5)
 
-- Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.
+- [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
 
 
 ## Week 3: God and Nature
@@ -278,7 +280,7 @@ Aesthetics-->
 
 ## Week 4: Justice 
 
-> “Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
+> [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514)
 
 >  ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
@@ -286,12 +288,12 @@ Aesthetics-->
 
 Further reading: 
 
-- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, Daedulus Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
+- [Racism as a Motivator for Climate Justice, Mark A. Mitchell, *Daedalus* Fall 2020](https://www.amacad.org/publication/racism-motivator-climate-justice)
 
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
 
-## Week 5: Utilitarianism and Techno-optimism 
+## Week 5: Utilitarianism and Technology
 
 Utilitarianism and managerialism: 
 
@@ -299,7 +301,7 @@ Utilitarianism and managerialism:
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35)
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)`
 
 Climate engineering: 
 
@@ -307,18 +309,18 @@ Climate engineering:
 
 Further Reading: 
 
-- Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith
+- Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
 
 
 ## Week 6: Ecological Critique
 
-> *A Sand County Almanac* by Aldo Leopold (201-226)
+> *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227), Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
 
-## Indigenous Critique 
+## Week 7: Indigenous Critique 
 
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
@@ -332,27 +334,67 @@ Further reading:
 
 - [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
 
-## Planning for Change
+## Week 8: Feminist Critique 
 
-<!--Learning Objectives
--Understand the basic role of local governments in planning and development.  How planners control individuals of individual parcels of land, but must constantly deal with broader economic and social forces at work in an urban area.
--Understand different planning approaches:  top-down and bottom-up planning, consensus planning, centralized and fragmenting budgeting.
--Understand the planning paradox:  making decisions attuned to the interests of existing stakeholders and planning to change the urban area to adapt to a changing economic, environmental, and social forces.
--Understand how climate change affects different cities’ environments and economies and, thus, changes the agendas of city governments.
--Understand the linkages between cities and surrounding suburban and rural areas.   How do cities affect the economies of surrounding areas?  How do cities depend on these surrounding areas? How do these surrounding areas (especially suburbs) rely on cities? How do land use changes in surrounding areas lead to changes in cities?  
+Eco-feminist Critique: 
 
-Adaptation planning 
-Learning Objectives
--Explain the meaning of vulnerability, risk and resilience planning and provide examples
--Differentiate between mitigation and adaptation, and how they can relate to each other
--Identify technologies that could help with adaptation and challenges behind their adaptation.
+> ["Alive in the Sunshine" by Alyssa Battistoni ](https://jacobin.com/2014/01/alive-in-the-sunshine)
+
+## Week 9: Nationalist Critique
+
+<!--Blood and Soil
+
+Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
+
+Great power competition, neo-Malthusian, and ethno-nationalist critique: 
+
+> ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
+
+> ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+
+> [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
 
 
---> 
+::: {.callout-warning}
+The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.splcenter.org/fighting-hate/extremist-files/group/federation-american-immigration-reform) and [Hardin as an Extreamist White Nationalist](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin). While all assigned readings have a perspective, these views most starkly contrast the University of Michigan's stated goals and policies. And yet, these views are increasingly prominent in climate policy discourse, so it is important to understand them.
 
-> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
 
-> Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
+Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
+:::
+
+Critique of the neo-Malthusian and ethno-nationalist critique: 
+
+> ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+
+> ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
+
+> [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+
+> [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
+
+Further reading: 
+
+- https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/
+
+Further critique of neo-Malthusian ideas: 
+
+[Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion](https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism) (Climate change is only discussed in the Introduction, the rest is not so relevant)
+
+
+Further Research: 
+
+- [Information about climate-induced migration spurs negative attitudes about immigrants by  Kaitlin Raimi](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
+- [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
+- [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
+- [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](10.1073/pnas.2007597117)
+- [H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” *Nature Climate Change*, 12, 634-641](https://www.nature.com/articles/s41558-022-01401-w)
+- Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.
+- [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
+
+
+
+
+
 
 
 Further Reading: 
@@ -365,17 +407,20 @@ Further Reading:
 - https://legal-planet.org/2018/12/05/were-never-going-to-meet-our-ghg-transportation-goals-until-we-radically-rethink-our-cities/
 
 
-## Institutions 
+##  Week 10: Institutions 
 
 Collective action: 
 
->  Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American economic review*, 100(3), 641-72.
+>  Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.
 
 Governing institutions: 
 
-> *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)
+> *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
 
 > Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
+
+> Selections (TBD) from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change
+
 
 Electoral institutions: 
 
@@ -389,7 +434,22 @@ Further reading:
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
 
-## Markets
+
+
+##  Week 11: Movements 
+
+- To what extent have climate movements been effective, and why?
+- To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+
+> [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
+
+> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008.
+
+<!--- currently under Justice 
+> “Three faces of climate justice”, *Annual Review of Political Science*, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
+---> 
+
+##  Week 12: Markets
 
 Voices of New Keynesian, neoliberal, and libertarian economists: 
 
@@ -417,36 +477,24 @@ Further reading:
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
-## Movements 
 
-- To what extent have climate movements been effective, and why?
-- To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+##  Week 13: Incumbents
 
-> [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
-
-> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008.
-
-<!--- currently under justice 
-> “Three faces of climate justice”, *Annual Review of Political Science*, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
----> 
-
-## Incumbents
-
-as a force explaining action and inaction. 
+...as a force explaining action and inaction. 
 
 - Why are groups effective at shaping policy? 
 - What industries will lose from climate policies, and could they pivot?
 <!--- Identify examples of “odd bed-fellows”--> 
 - What industries have most effectively obstructed policy? How do they work with/against political actors?
 
-The global political economy of climate policy:
+### The global political economy of climate policy:
 
-> Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
+> Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
 
-> Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” Global Environmental Politics 20(4): 4-27.
+> Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” Global Environmental Politics 20(4): 4-27.
 
 
-US political economy of climate policy: 
+### US political economy of climate policy: 
 
 > [Carbon Captured: How Business and Labor Control Climate Politics, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
@@ -456,8 +504,9 @@ US political economy of climate policy:
 > Watch: [Leah Stokes - The Future is Electric | Bioneers 2023](https://www.youtube.com/watch?v=57Ry9LnUW0g)
 --> 
 
-
+<!--
 > Catie's article on utility lobbying? 
+--> 
 
 Further Reading: 
 
@@ -465,25 +514,19 @@ Further Reading:
 - [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
 
 
-## Doomerism and Delay
+### Doomerism and Delay
 
-Tuesday: Doomerism
+Doomerism: 
 
-Light doomerism: 
+- [Weekend Update: U.N.'s Climate Change Report - SNL](https://www.youtube.com/watch?v=07oe1m67eik)
 
-> Watch [Weekend Update: U.N.'s Climate Change Report - SNL](https://www.youtube.com/watch?v=07oe1m67eik)
-
-Heavy doomerism: 
-
-> TBD
-
-Thursday: Reactionary Rhetoric 
+### Reactionary rhetoric 
 
 Research: 
 
-> ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
+> Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.  `(Canvas)`
 
-> Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.
+> Skim: ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
 
 Further Reading: 
 
@@ -501,11 +544,17 @@ Further Reading
 
 --> 
 
-## US Climate Policy 
+## Week 14: The State of US Climate Policy 
 
 > All We Can Save: Litigating in a Time of Crisis (51-59), The Politics of Policy (85-91)
 
-> Selections (TBD) from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change
+> SKIM: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICE Act-(https://www.congress.gov/bill/117th-congress/house-bill/3039)
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
+
+> SKIM: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
+- https://energyinnovationact.org/
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
+
 
 > More summaries of US policy TBD 
 
@@ -513,7 +562,7 @@ Further Reading
 
 Further reading: 
 
-- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.
+- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
 
 Resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
 
@@ -538,61 +587,28 @@ Criticism:
 > [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
 
 
-## Feminist Critique 
+## Week 15: Planning for Change
 
-Eco-feminist Critique: 
+<!--Learning Objectives
+-Understand the basic role of local governments in planning and development. 
+- Understand how planners control individuals of individual parcels of land but must constantly deal with broader economic and social forces at work in an urban area.
+-Understand different planning approaches:  top-down and bottom-up planning, consensus planning, and centralized and fragmenting budgeting.
+-Understand the planning paradox:  making decisions attuned to the interests of existing stakeholders and planning to change the urban area to adapt to changing economic, environmental, and social forces.
+-Understand how climate change affects different cities’ environments and economies and, thus, changes the agendas of city governments.
+-Understand the linkages between cities and surrounding suburban and rural areas.   How do cities affect the economies of surrounding areas?  How do cities depend on these surrounding areas? How do these surrounding areas (especially suburbs) rely on cities? How do land use changes in surrounding areas lead to changes in cities?  
 
-> ["Alive in the Sunshine" by Alyssa Battistoni ](https://jacobin.com/2014/01/alive-in-the-sunshine)
-
-## Nationalist Critique
-
-<!--Blood and Soil
-
-Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
-
-Great power competition, neo-Malthusian, and ethno-nationalist critique: 
-
-> [Climate-Trap Diplomacy](https://www.city-journal.org/article/china-is-no-climate-partner)
-
-> [The Tragedy of the Commons by Garrett Hardin ](The Tragedy of the Commons)
-
-> [*U.S. Immigration Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf)
+Adaptation planning 
+Learning Objectives
+-Explain the meaning of vulnerability, risk, and resilience planning and provide examples
+-Differentiate between mitigation and adaptation and how they can relate to each other
+-Identify technologies that could help with adaptation and the challenges behind their adaptation.
 
 
-::: {.callout-warning}
-The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.splcenter.org/fighting-hate/extremist-files/group/federation-american-immigration-reform) and [Hardin as an Extreamist White Nationalist](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin). While all assigned readings have a perspective, these views most starkly contrast the University of Michigan's stated goals and policies. And yet, these views are increasingly prominent in climate policy discourse, so it is important to understand them.
-:::
+--> 
 
-Critique of the neo-Malthusian and ethno-nationalist critique: 
+> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
 
-> [The Tragedy of the Tragedy of the Commons by Matto Mildernberger](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
-
-> [The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition.](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/)
-
-> [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
-
-> [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
-
-Further reading: 
-
-- https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/
-
-Further critique of neo-Malthusian ideas: 
-
-[Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion](https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism) (Climate change is only discussed in the Introduction, the rest is not so relevant)
-
-
-Further Research: 
-
-- [Information about climate-induced migration spurs negative attitudes about immigrants by  Kaitlin Raimi](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
-- [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
-- [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
-- [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](10.1073/pnas.2007597117)
-- [H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” Nature Climate Change , 12, 634-641](https://www.nature.com/articles/s41558-022-01401-w)
-- Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.
-- [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
-
-
+> Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
 
 ## Ammendments 
 
@@ -639,7 +655,7 @@ Shue, Henry, “Subsistence Emissions and Luxury Emissions,” Law and Policy 15
 John Barry, Arthur P.J. Mol & Anthony R. Zito (2013) Climate change ethics, rights, and policies: an introduction, Environmental Politics, 22:3, 361-376, DOI: 10.1080/09644016.2013.788861
 Miller, David. National Responsibility and Global Justice. Oxford University Press, 2007
 
-Kennard, Amanda and Keith Schnakenberg “Global Climate Policy and Collective Action: A Comment” XXX, Global Environmental Politics.
+Kennard, Amanda, and Keith Schnakenberg “Global Climate Policy and Collective Action: A Comment” XXX, Global Environmental Politics.
 Victor, D. G. (2011). Global warming gridlock: creating more effective strategies for protecting the planet. Cambridge University Press. 
 Scott Barrett, Climate treaties and the imperative of enforcement, 24 Oxford Review of Economic Policy 239 (2008)
 Milkoreit, Manjana. "The Paris Agreement on Climate Change—Made in USA?." Perspectives on Politics 17.4 (2019): 1019-1037.
@@ -665,7 +681,7 @@ Cullenward, D., & Victor, D. G. (2020). Making climate policy work. John Wiley &
 “Save the Environment, Save American Democracy How a Pro-Climate Vision Can Strengthen America’s Social Fabric, Robert O. Keohane and Jeff D. Colgan, Foreign Affairs, https://www.foreignaffairs.com/articles/united-states/2021-09-20/save-environment-save-american-democracy. 
 Understanding Multilateral Institutions in Easy and Hard Times, Robert O. Keohane, Annual Review of Political Science, Vol. 23, 2020, https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-050918-042625
 
-Skjaerseth, Jon Birger. "The ‘successful’ozone-layer negotiations: Are there any lessons to be learned?." Global Environmental Change 2.4 (1992): 292-300.
+[Skjaerseth, Jon Birger. "The ‘successful' ozone-layer negotiations: Are there any lessons to be learned?." Global Environmental Change 2.4 (1992): 292-300.](https://www.sciencedirect.com/science/article/abs/pii/095937809290046A)
 
 Climate Impacts on Governance and Government Capacity 
 Learning Objectives
@@ -731,7 +747,7 @@ Perez, Ines. 2013. Climate Change and Rising Food Prices Heightened Arab Spring.
 Glaser, Sarah M., Cullen S. Hendrix, Brittany Franck, Karin Wedig, and Les Kaufman. 2019. Armed Conflict and Fisheries in the Lake Victoria Basin. Ecology and Society 24 (1).
 Al-Jazeera Television. 2011. Inside Story - Is Climate Change a Global Security Threat?
 https://tipofthesphere.substack.com/p/climate-security-bookshelf
-Burke, M., González, F., Baylis, P., Heft-Neal, S., Baysan, C., Basu, S., & Hsiang, S. (2018). Higher temperatures increase suicide rates in the United States and Mexico. Nature climate change, 8(8), 723-729.
+Burke, M., González, F., Baylis, P., Heft-Neal, S., Baysan, C., Basu, S., & Hsiang, S. (2018). Higher temperatures increase suicide rates in the United States and Mexico. Nature Climate Change, 8(8), 723-729.
 
 
 ---> 

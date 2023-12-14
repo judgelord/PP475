@@ -41,7 +41,7 @@ This class aims to help you develop your own critique of various policy fights o
 
 Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. 
 
-The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. 
+The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. 
 
 The assignments class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
@@ -187,9 +187,12 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 ## Participation 15% (15 X 1%) 
 
-#### Participation posts to Canvas are <mark>due by 7 p.m. every Monday</mark>
+Attendence is required. You must let me know *ahead of time* if you must miss. 
 
-In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
+In addition to attending class, we will start/continue the conversation by discussing readings and assignment tasks on Canvas. 
+
+Discussion posts to Canvas are <mark>due by 7 p.m. every Monday</mark>
+
 
 
 # 📚  Materials
@@ -260,6 +263,8 @@ The State of US Climate Policy:
 
 > Listen: [Volts Podcast: The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important)
 
+> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
+
 > All We Can Save: Litigating in a Time of Crisis (51-59), The Politics of Policy (85-91)
 
 > SKIM: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICE Act-(https://www.congress.gov/bill/117th-congress/house-bill/3039)
@@ -274,6 +279,20 @@ The State of US Climate Policy:
 
 
 Further reading: 
+
+- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details)
+
+- [David Hsu on the grassroots policy that lets communities control own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details)
+
+State-level policy:
+
+- [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details)
+
+- [Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details)
+
+- [Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details)
+
+- [Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details)
 
 - Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
 
@@ -295,9 +314,7 @@ Resources for understanding the Inflation Reduction Act:
 - ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781)
 - https://www.charged-the-book.com/na-ev-supply-chain-map
 
-Criticism: 
 
-> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
 
 
 ## Week 3: Politics
@@ -306,7 +323,7 @@ Criticism:
 
 > Purdy, Prologue and Introduction (1-50)
 
-> Ansolabehere S, Konisky DM. *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming.* Cambridge: MIT Press; 2014, Chapter 3  `(Canvas)`
+> *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
 > Climate Change: US Public Opinion, Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017
 
@@ -383,6 +400,8 @@ Further Reading:
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
+
+- [Dr. Ye Tao on a grand scheme to cool the Earth: Mirrors. Lots of mirrors.](https://www.volts.wtf/p/volts-podcast-dr-ye-tao-on-a-grand#details)
 
 
 ## Week 7: Ecological Critique
@@ -508,6 +527,8 @@ Further reading:
 
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
+- [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details)
+
 - [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans)
 
 
@@ -542,6 +563,10 @@ Research:
 
 Criticism: 
 
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details)
+
+OR
+
 > [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist)
 
 > [Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
@@ -551,6 +576,8 @@ Criticism of the critics:
 > [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
 
 Further reading: 
+
+-[Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details)
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
@@ -604,6 +631,8 @@ Research:
 
 > Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.  `(Canvas)`
 
+> [Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details)
+
 > Skim: ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
 
 Further Reading: 
@@ -646,6 +675,10 @@ Learning Objectives
 > [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
 
 > Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
+
+Further reading:
+
+- [the challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
 
 ## Ammendments 
 

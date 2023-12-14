@@ -1,4 +1,4 @@
-# PubPol 475.011 Topics: Climate Change: Politics for the Anthropocene
+# PubPol 475.011  --- Climate Change: Politics for the Anthropocene
 
 In the past century---the blink of an eye in ecological time---a small portion of humans concentrated in wealthier and more industrialized countries began to radically transform the ecology of our planet at an unprecedented scale. Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. 
 

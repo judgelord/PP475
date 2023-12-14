@@ -1,5 +1,5 @@
 ---
-title: "PubPol 475.011 Topics: Climate Change: Politics for the Anthropocene"
+title: "PubPol 475.011 --- Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
 format: 
  html:
@@ -186,9 +186,9 @@ There is an assignment due **every** Tuesday.
 ## Find your voice - 10% of final grade
 
 - Week 1: a 20-30 second video introducing yourself to the class (1%)
-- Week 2: list the 20 top organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 3: 10 op-ed-style headlines (in-class peer workshop on headlines) (1%) <!---COULD BE 1--> 
-- Week 4: 5 revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5%)
+- Week 2: list the twenty top organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 3: Ten op-ed-style headlines (in-class peer workshop for headlines) (1%) <!---COULD BE 1--> 
+- Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5%)
 - Week 5: 
   - Meet with me about your op-ed ideas (part of previous assignment grade)
   - Write to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. (1%) For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
@@ -196,9 +196,9 @@ There is an assignment due **every** Tuesday.
 
 ## Craft your critique - 25% of final grade
 
-- Week 6: 3 first 400 words + annotated bibliographies  (9%)
+- Week 6: Three first 400 words + annotated bibliographies  (9%)
 - Week 7: peer critique of first 400 words  (5%)
-- Week 8: 2 revised first 400 words + annotated bibliographies  (10%)
+- Week 8: Two revised first 400 words + annotated bibliographies  (10%)
 - Week 9: my feedback on your first 400 words 
   - Write 100-200 words about why it is important to engage in a particular policy process and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least five other people on a public forum---post a link or screenshots to Canvas (1%)
 
@@ -210,7 +210,7 @@ Through multiple rounds of revision, you will hone your critique, improving your
 I am mostly grading on how you respond to feedback. If you would like, you can include revision comments (200 words max) on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 :::
 
-- Week 10: 750-800 word op-ed + annotated bibliography  (10%)
+- Week 10: One 750-800 word op-ed + annotated bibliography  (10%)
 - Week 11: peer critique of op-ed  (5%)
 - Week 12: revised op-ed (10%)
 - Week 13: my feedback on op-ed 
@@ -558,7 +558,6 @@ Further Reading
 
 > More summaries of US policy TBD 
 
-:::
 
 Further reading: 
 

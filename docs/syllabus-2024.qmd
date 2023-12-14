@@ -52,7 +52,7 @@ As practice for developing your skills in both effective writing and constructiv
 
 
 
-# 🏛️ Learning environment
+# 🏛️ Learning Environment
 
 Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
 
@@ -110,6 +110,9 @@ Accommodations for Students with Disabilities: The University of Michigan recogn
 Please review additional information and policies regarding [academic expectations and resources](https://intranet.fordschool.umich.edu/academic-expectations) at the Ford School of Public Policy.
 
 See the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
+
+
+## 📵 
 
 ## Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
 
@@ -203,7 +206,6 @@ We will read large portions of three books:
 
 - *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be concious of your classmates.)
 
-- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
 
@@ -215,6 +217,7 @@ We will read smaller portions of the following books, which will be available on
 - [*Politics: The Central Texts* by Roberto Mangabeira Unger, Verso Books](https://www.versobooks.com/products/1570-politics)
 - [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis, Simon & Schuster](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
 - [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway, Bloomsbury Publishing](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
+- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
 
 
 Other books you may find useful
@@ -252,6 +255,8 @@ If you are looking for more foundation in how government works, the Ford School 
 ## Week 2: Policy 
 
 The State of US Climate Policy: 
+
+> Listen: [Volts Podcast: An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years)
 
 > Listen: [Volts Podcast: The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important)
 
@@ -316,9 +321,14 @@ Further Readings:
 
 - [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, *Daedalus* Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
 
-- [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020,](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
+- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get)
+
+<!--
+- [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
+
 
 - [Global warming will happen faster than we think, Y Xu, V Ramanathan, DG Victor, *Nature* (2018)](https://www.nature.com/articles/d41586-018-07586-5)
+--> 
 
 - [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
 
@@ -367,6 +377,8 @@ Climate engineering:
 > *All We Can Save: A Handful of Dust* by Kate Marvel 
 
 Further Reading: 
+
+- [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation)
 
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 
@@ -476,6 +488,8 @@ Collective action:
 
 Governing institutions: 
 
+> [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important)
+
 > *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
 
 > Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
@@ -494,13 +508,15 @@ Further reading:
 
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
-
+- [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans)
 
 
 ##  Week 12: Movements 
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
+
+> [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take)
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
@@ -538,6 +554,7 @@ Further reading:
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
+- [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)
 
 ##  Week 14: Incumbents
 

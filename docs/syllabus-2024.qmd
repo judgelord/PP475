@@ -249,7 +249,53 @@ If you are looking for more foundation in how government works, the Ford School 
 
 > [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
 
-## Week 2: Politics
+## Week 2: Policy 
+
+The State of US Climate Policy: 
+
+> Listen: [Volts Podcast: The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important)
+
+> All We Can Save: Litigating in a Time of Crisis (51-59), The Politics of Policy (85-91)
+
+> SKIM: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICE Act-(https://www.congress.gov/bill/117th-congress/house-bill/3039)
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
+
+> SKIM: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
+- https://energyinnovationact.org/
+- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
+
+
+> More summaries of US policy TBD 
+
+
+Further reading: 
+
+- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
+
+Resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
+
+- [Naming the Problem: What It Will Take to Counter Extremism and Engage Americans in the Fight against Global Warming by Theda Skocpol](https://grist.org/wp-content/uploads/2013/03/skocpol-captrade-report-january-2013y.pdf)
+
+- [What Theda Skocpol gets right about the cap-and-trade fight by David Roberts](https://grist.org/climate-energy/what-theda-skocpol-gets-right-about-the-cap-and-trade-fight/)
+
+
+Resources for understanding the Inflation Reduction Act: 
+
+ - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
+
+- ["Inflation Reduction Act (IRA) Summary: Energy and Climate Provisions" - Bipartisan Policy Center ](https://bipartisanpolicy.org/blog/inflation-reduction-act-summary-energy-climate-provisions/)
+ - [Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive. A sortable and filterable list for stakeholders big and small.](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)
+- [Investments trackers](https://jackconness.com/ira-chips-investments)
+- [Report detailing IRA's impact on US emissions + economy and public health](https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
+- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781)
+- https://www.charged-the-book.com/na-ev-supply-chain-map
+
+Criticism: 
+
+> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
+
+
+## Week 3: Politics
 
 ...in the Anthropocene
 
@@ -277,7 +323,7 @@ Further Readings:
 - [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
 
 
-## Week 3: God and Nature
+## Week 4: God and Nature
 
 The religious, colonial, and mystic foundations of Western environmental law and politics: 
 
@@ -291,7 +337,7 @@ The black church as a site of modern climate advocacy:
 
 Aesthetics--> 
 
-## Week 4: Justice 
+## Week 5: Justice 
 
 > [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514)
 
@@ -306,7 +352,7 @@ Further reading:
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
 
-## Week 5: Utilitarianism and Technology
+## Week 6: Utilitarianism and Technology
 
 Utilitarianism and managerialism: 
 
@@ -327,13 +373,13 @@ Further Reading:
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
 
 
-## Week 6: Ecological Critique
+## Week 7: Ecological Critique
 
 > *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227), Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
 
-## Week 7: Indigenous Critique 
+## Week 8: Indigenous Critique 
 
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
@@ -347,7 +393,7 @@ Further reading:
 
 - [Whyte, K., Bruscato, N., David-Chavez, D., Dockry, M., Johnson, M., Jones, C., and Leonard, K. 2023. Chapter 16, Tribes and Indigenous Peoples. U.S. 5th National Climate Assessment.](https://nca2023.globalchange.gov/chapter/16/)
 
-## Week 8: Feminist Critique 
+## Week 9: Feminist Critique 
 
 Eco-feminist Critique: 
 
@@ -355,7 +401,7 @@ Eco-feminist Critique:
 
 > More TBD (including selections from *All We Can Save*)
 
-## Week 9: Nationalist Critique
+## Week 10: Nationalist Critique
 
 <!--Blood and Soil
 
@@ -422,7 +468,7 @@ Further Reading:
 - https://legal-planet.org/2018/12/05/were-never-going-to-meet-our-ghg-transportation-goals-until-we-radically-rethink-our-cities/
 
 
-##  Week 10: Institutions 
+##  Week 11: Institutions 
 
 Collective action: 
 
@@ -451,7 +497,7 @@ Further reading:
 
 
 
-##  Week 11: Movements 
+##  Week 12: Movements 
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
@@ -464,7 +510,7 @@ Further reading:
 > “Three faces of climate justice”, *Annual Review of Political Science*, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
 ---> 
 
-##  Week 12: Markets
+##  Week 13: Markets
 
 Voices of New Keynesian, neoliberal, and libertarian economists: 
 
@@ -493,7 +539,7 @@ Further reading:
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
 
-##  Week 13: Incumbents
+##  Week 14: Incumbents
 
 ...as a force explaining action and inaction. 
 
@@ -559,46 +605,6 @@ Further Reading
 
 --> 
 
-## Week 14: The State of US Climate Policy 
-
-> All We Can Save: Litigating in a Time of Crisis (51-59), The Politics of Policy (85-91)
-
-> SKIM: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICE Act-(https://www.congress.gov/bill/117th-congress/house-bill/3039)
-- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
-
-> SKIM: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
-- https://energyinnovationact.org/
-- [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
-
-
-> More summaries of US policy TBD 
-
-
-Further reading: 
-
-- Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
-
-Resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
-
-- [Naming the Problem: What It Will Take to Counter Extremism and Engage Americans in the Fight against Global Warming by Theda Skocpol](https://grist.org/wp-content/uploads/2013/03/skocpol-captrade-report-january-2013y.pdf)
-
-- [What Theda Skocpol gets right about the cap-and-trade fight by David Roberts](https://grist.org/climate-energy/what-theda-skocpol-gets-right-about-the-cap-and-trade-fight/)
-
-
-Resources for understanding the Inflation Reduction Act: 
-
- - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
-
-- ["Inflation Reduction Act (IRA) Summary: Energy and Climate Provisions" - Bipartisan Policy Center ](https://bipartisanpolicy.org/blog/inflation-reduction-act-summary-energy-climate-provisions/)
- - [Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive. A sortable and filterable list for stakeholders big and small.](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)
-- [Investments trackers](https://jackconness.com/ira-chips-investments)
-- [Report detailing IRA's impact on US emissions + economy and public health](https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
-- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781)
-- https://www.charged-the-book.com/na-ev-supply-chain-map
-
-Criticism: 
-
-> [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
 
 
 ## Week 15: Planning for Change

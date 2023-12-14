@@ -1,13 +1,24 @@
 ---
 title: "PubPol 475.011 --- Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
+#date: "`r Sys.time()`"
 format: 
  html:
    toc: true
    toc-location: left
+   theme: michigan.scss
 execute:
   echo: false
+  engine: knitr
 ---
+
+
+> “We live in a big science fiction novel we are all writing together” - Kim Stanley Robinson
+
+<!--https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html-->
+
+
+	
 
 Tuesdays and Thursdays 2:30-3:50 AM, 1210 Weill Hall
 
@@ -15,15 +26,13 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 
-[Subscribe to the course calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+📅 [Subscribe to the course calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+🚧 Syllabus updated: [`r Sys.time() |> format("%I:%M%p, %A, %d %B %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
 
 <!--Updated `r Sys.Date() |> format("%B %d, %Y")` https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)--> 
 
 
-> [“We live in a big science fiction novel we are all writing together” - Kim Stanley Robinson](https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html)
-
-
-	
 # Course Objectives
 
 In the past century---the blink of an eye in ecological time---a small portion of humans concentrated in wealthier and more industrialized countries began to radically transform the ecology of our planet at an unprecedented scale.^[OK, sure, cyanobacteria were [similarly tranfromative](https://asm.org/articles/2022/february/the-great-oxidation-event-how-cyanobacteria-change), but that was billions of years ago, and cyanobacteria cannot reflect on their actions. They make oxygen, but neither politics nor policy.] 
@@ -64,13 +73,13 @@ The other readings will be available for free online (you may need to go through
 
 We will read smaller portions of the following books, which will be available on Canvas: 
 
-- [Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
-- *Politics: The Central Texts* by Roberto Mangabeira Unger
-- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
-- Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing
+- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
+- [*Politics: The Central Texts* by Roberto Mangabeira Unger, Verso Books](https://www.versobooks.com/products/1570-politics)
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis, Simon & Schuster](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
+- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway, Bloomsbury Publishing](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
 
 
-## Other books you may find useful
+Other books you may find useful
 
 - *Politics is for Power* by Eitan Hersh
 - *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
@@ -171,7 +180,7 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 > <mark>**Discussion posts are due Mondays at 7 PM.** </mark>
 
-> <mark>**All other assignments and critiques are due every Tuesday at 7 PM.** </mark>
+> <mark>**All other assignments and critiques are due Tuesdays at 7 PM.** </mark>
 
 ::: {.callout-important}
 There is an assignment due **every** Tuesday. 
@@ -182,6 +191,8 @@ There is an assignment due **every** Tuesday.
 ::: {.callout-tip}
 [Subscribe to the due dates calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 :::
+
+Below is the schedule of due dates. Detailed instriuctions for each assignment are available in the [assigments guide](https://judgelord.github.io/PP475/). 
 
 ## Find your voice - 10% of final grade
 
@@ -224,7 +235,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
-# Readings 
+# 📖 Readings 
 
 ## Week 1: Hope 
 

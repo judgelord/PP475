@@ -33,7 +33,7 @@ Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
 <!--Updated `r Sys.Date() |> format("%B %d, %Y")` https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)--> 
 
 
-# Course Objectives
+# 🗺️  Objectives
 
 In the past century---the blink of an eye in ecological time---a small portion of humans concentrated in wealthier and more industrialized countries began to radically transform the ecology of our planet at an unprecedented scale.^[OK, sure, cyanobacteria were [similarly tranfromative](https://asm.org/articles/2022/february/the-great-oxidation-event-how-cyanobacteria-change), but that was billions of years ago, and cyanobacteria cannot reflect on their actions. They make oxygen, but neither politics nor policy.] 
 
@@ -51,55 +51,8 @@ It is easy to critique those with whom we severely disagree, but they are also t
 As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 15% of your grade.
 
 
-# Course Materials
 
-Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
-
-I call on students during class and expect you to do all assigned readings for each week before Tuesday’s class (discussion posts are due Monday evening). 
-
-##	Required Books
-
-We will read large portions of three books: 
-
-- *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
-
-- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an audiobook from the library!
-
-- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
-
-The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
-
-##	Recommended Books
-
-We will read smaller portions of the following books, which will be available on Canvas: 
-
-- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
-- [*Politics: The Central Texts* by Roberto Mangabeira Unger, Verso Books](https://www.versobooks.com/products/1570-politics)
-- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis, Simon & Schuster](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
-- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway, Bloomsbury Publishing](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
-
-
-Other books you may find useful
-
-- *Politics is for Power* by Eitan Hersh
-- *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
-- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
-- *Rules for Radicals* by Saul Alinsky
-- *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
-  - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
-
-## Resources 
-
-### American Government Module
-
-If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
-
-- [Day 1](http://leccap.engin.umich.edu/leccap/player/r/jdCaYX)
-- [Day 2](http://leccap.engin.umich.edu/leccap/player/r/r4jN5e)
-- [Day 3](http://leccap.engin.umich.edu/leccap/player/r/bSYi7Y)
-- [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
-
-# Learning environment
+# 🏛️ Learning environment
 
 Learning from each other is only possible if we show the respect due to our fellow citizens of this class.
 
@@ -174,7 +127,7 @@ If you use people or tools other than your brain and spelling/grammar checkers t
 
 I reserve the right to discuss your papers in length with you if I have concerns.
 
-# Assignments 
+# 🪶 Assignments 
 
 Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others.
 
@@ -235,7 +188,56 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 In addition to attending class, we will continue the conversation by discussing readings and assignment tasks on Canvas. 
 
-# 📖 Readings 
+
+# 📚  Materials
+
+Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
+
+I call on students during class and expect you to do all assigned readings for each week before Tuesday’s class (discussion posts are due Monday evening). 
+
+##	Required Books
+
+We will read large portions of three books: 
+
+- *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
+
+- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be concious of your classmates.)
+
+- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
+
+The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
+
+##	Recommended Books
+
+We will read smaller portions of the following books, which will be available on Canvas: 
+
+- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
+- [*Politics: The Central Texts* by Roberto Mangabeira Unger, Verso Books](https://www.versobooks.com/products/1570-politics)
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis, Simon & Schuster](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
+- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway, Bloomsbury Publishing](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
+
+
+Other books you may find useful
+
+- *Politics is for Power* by Eitan Hersh
+- *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
+- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
+- *Rules for Radicals* by Saul Alinsky
+- *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
+  - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
+
+## Resources 
+
+### American Government Module
+
+If you are looking for more foundation in how government works, the Ford School organized an Intro to American Government Module taught by Political Science Ph.D. candidate Ciera Hammond: 
+
+- [Day 1](http://leccap.engin.umich.edu/leccap/player/r/jdCaYX)
+- [Day 2](http://leccap.engin.umich.edu/leccap/player/r/r4jN5e)
+- [Day 3](http://leccap.engin.umich.edu/leccap/player/r/bSYi7Y)
+- [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
+
+# 📖 Reading by Week
 
 ## Week 1: Hope 
 

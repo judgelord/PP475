@@ -61,7 +61,7 @@ To realize this goal, I expect us to respect our colleagues and cultivate inclus
 <!--[Best Practices for Navigating the Classroom Environment - 
 Fall 2022](https://docs.google.com/document/d/1uSAbeIoEHqZwBzBlbDsz_jl5J_mapwoRxyOK1OGhBdM)--> 
 
-## Ford School and University of Michigan Policies
+## 📜 Ford School and University of Michigan Policies
 
 **Ford School Inclusivity Statement:**
 Members of the Ford School community represent a rich variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity. While working together to build this community, we ask all members to: 
@@ -112,13 +112,15 @@ Please review additional information and policies regarding [academic expectatio
 See the end of the syllabus for information about our commitment to best practices of instructor/student interactions. 
 
 
-## 📵 
+## 📵 Technology in Class
 
-## Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
+No screens in class (unless I give permission). Research shows that they inhibit learning and distract your colleagues. Out of respect to the instructor and your fellow students, put your cell phone away for the duration of class. 
+
+## 🛠️ Generative Text Tools Using [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/) 
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a generative text tool. I expect the same. 
 
-Text extruded by LLMs is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects than for a language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning to me. LLMs have no thought process and do no reason. 
+Text extruded by Large Language Models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects than for a language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning to me. LLMs have no thought process and do no reason. 
 
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reinforcing biases.
 
@@ -185,11 +187,11 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 - Week 15: peer critique of revised op-ed  (5%)
 - Week 16: final due (10%)
 
-## Participation 15% (15 X 1%) 
+## Participation 15% (15 weeks X 1% per week) 
 
-Attendence is required. You must let me know *ahead of time* if you must miss. 
+Attendance is required. You must let me know *ahead of time* if you must miss. 
 
-In addition to attending class, we will start/continue the conversation by discussing readings and assignment tasks on Canvas. 
+In addition to attending class, we will start/continue the conversation by discussing readings and assignment tasks on Canvas. One post asking at least one question each week is required. Please keep posts under 200 words.
 
 Discussion posts to Canvas are <mark>due by 7 p.m. every Monday</mark>
 
@@ -280,11 +282,14 @@ The State of US Climate Policy:
 
 Further reading: 
 
+
 - [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details)
 
 - [David Hsu on the grassroots policy that lets communities control own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details)
 
 State-level policy:
+
+- [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira)
 
 - [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details)
 
@@ -322,6 +327,9 @@ Resources for understanding the Inflation Reduction Act:
 ...in the Anthropocene
 
 > Purdy, Prologue and Introduction (1-50)
+
+
+- [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero)
 
 > *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
@@ -378,6 +386,8 @@ Further reading:
 
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge.](https://www.volts.wtf/p/putting-more-climate-philanthropy)
+
 
 ## Week 6: Utilitarianism and Technology
 
@@ -387,13 +397,17 @@ Utilitarianism and managerialism:
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)`
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that)
 
 Climate engineering: 
 
 > *All We Can Save: A Handful of Dust* by Kate Marvel 
 
 Further Reading: 
+
+- [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with)
+
+- [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely)
 
 - [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation)
 
@@ -637,6 +651,8 @@ Research:
 
 Further Reading: 
 
+- [The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable)
+
 - https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html
 
 - Brookings Institute, Elaine Kamarck, The Challenging Politics of Climate Change 
@@ -678,7 +694,11 @@ Learning Objectives
 
 Further reading:
 
-- [the challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
+- [The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
+
+- [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)
+
+- [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)
 
 ## Ammendments 
 

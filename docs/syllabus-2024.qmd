@@ -2,7 +2,8 @@
 title: "PubPol 475.011 --- Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
 #date: "`r Sys.time()`"
-format: 
+format:
+# pdf: default
  html:
    toc: true
    toc-location: left
@@ -24,11 +25,11 @@ Tuesdays and Thursdays 2:30-3:50 AM, 1210 Weill Hall
 
 Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
-Office hours: Tuesday and Thursday 10-11 AM, 3215 Weill Hall
+Office hours: Tuesday and Thursday 1:30-2:30 PM, 3215 Weill Hall
 
 📅 [Subscribe to the course calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-🚧 Syllabus updated: [`r Sys.time() |> format("%I:%M%p, %A, %d %B %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
+🚧 Syllabus updated: [`r Sys.Date() |> format("%d %b %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
 
 <!--Updated `r Sys.Date() |> format("%B %d, %Y")` https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)--> 
 
@@ -154,8 +155,8 @@ Below is the schedule of due dates. Detailed instriuctions for each assignment a
 
 ## Find your voice - 10% of final grade
 
-- Week 1: a 20-30 second video introducing yourself to the class (1%)
-- Week 2: list the twenty top organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
+- Week 1: A 20-30 second video introducing yourself to the class (1%)
+- Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: Ten op-ed-style headlines (in-class peer workshop for headlines) (1%) <!---COULD BE 1--> 
 - Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (5%)
 - Week 5: 
@@ -163,12 +164,22 @@ Below is the schedule of due dates. Detailed instriuctions for each assignment a
   - Write to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. (1%) For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
 - At some point during the first half of the semester, pitch one of your critiques to the class. Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
 
+### Late Submissions
+
+Because nearly all assignments are either revised versions of previous submissions that someone else must review on a tight timeline or peer-reviews that your peers depend on in order to make revisions on a tight timeline, late work is not an option. 
+
+- If you do not submit a revised version of your op-ed(s) on time, I will re-submit your previous version for review on your behalf. This will make sure you still get feedback on your work. If you submit by the end of the week, I will award partial points, but your reviewer is not expected to wait for the revised version to submit their review. 
+- Late reviews are unfair to your classmates. If you do not submit a peer-review on time, I will submit a review on your behalf, and you will not receive points for that review. 
+
+Under extenuating circumstances, I will attempt to work out some alternative review cycle.
+
 ## Craft your critique - 25% of final grade
 
 - Week 6: Three first 400 words + annotated bibliographies  (9%)
 - Week 7: peer critique of first 400 words  (5%)
 - Week 8: Two revised first 400 words + annotated bibliographies  (10%)
-- Week 9: my feedback on your first 400 words 
+- Week 9: 
+  - My feedback on your first 400 words 
   - Write 100-200 words about why it is important to engage in a particular policy process and link to the opportunity on Canvas OR Write no more than 240 characters (plus a link to the opportunity) on why people should engage that is shared by at least five other people on a public forum---post a link or screenshots to Canvas (1%)
 
 ## Hone your critique - 50% of final grade
@@ -180,12 +191,12 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 :::
 
 - Week 10: One 750-800 word op-ed + annotated bibliography  (10%)
-- Week 11: peer critique of op-ed  (5%)
-- Week 12: revised op-ed (10%)
-- Week 13: my feedback on op-ed 
-- Week 14: revised op-ed (10%)
-- Week 15: peer critique of revised op-ed  (5%)
-- Week 16: final due (10%)
+- Week 11: Peer critique of op-ed  (5%)
+- Week 12: Revised op-ed (10%)
+- Week 13: My feedback on op-ed 
+- Week 14: Revised op-ed (10%)
+- Week 15: Peer critique of revised op-ed  (5%)
+- Week 16: Final due (10%)
 
 ## Participation 15% (15 weeks X 1% per week) 
 
@@ -193,8 +204,7 @@ Attendance is required. You must let me know *ahead of time* if you must miss.
 
 In addition to attending class, we will start/continue the conversation by discussing readings and assignment tasks on Canvas. One post asking at least one question each week is required. Please keep posts under 200 words.
 
-Discussion posts to Canvas are <mark>due by 7 p.m. every Monday</mark>
-
+Discussion posts to Canvas are <mark>due by 7 p.m. every Monday</mark>. Late posts are not counted. 
 
 
 # 📚  Materials
@@ -261,9 +271,9 @@ If you are looking for more foundation in how government works, the Ford School 
 
 The State of US Climate Policy: 
 
-> Listen: [Volts Podcast: An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years)
+> [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) 🎧 
 
-> Listen: [Volts Podcast: The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important)
+> [ The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) 🎧
 
 > [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
 
@@ -279,25 +289,34 @@ The State of US Climate Policy:
 
 > More summaries of US policy TBD 
 
+The State of Michigan Climate Policy: 
+
+> [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
+
+> [Clean energy package policy changes earn mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
+
+The State of Ann Arbor Climate Policy:
+
+- [Carbon Neutrality --- A^2ZERO - Building a just transition to community-wide carbon neutrality by 2030.](9https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
 
 Further reading: 
 
 
-- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details)
+- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details) 🎧
 
-- [David Hsu on the grassroots policy that lets communities control own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details)
+- [David Hsu on the grassroots policy that lets communities control own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
 
 State-level policy:
 
-- [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira)
+- [🎧 It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira)
 
-- [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details)
+- [🎧 Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details)
 
-- [Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details)
+- [🎧 Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details)
 
-- [Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details)
+- [🎧 Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details)
 
-- [Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details)
+- [🎧 Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details)
 
 - Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
 
@@ -329,7 +348,7 @@ Resources for understanding the Inflation Reduction Act:
 > Purdy, Prologue and Introduction (1-50)
 
 
-- [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero)
+> [🎧 The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero)
 
 > *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
@@ -346,7 +365,7 @@ Further Readings:
 
 - [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, *Daedalus* Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
 
-- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get)
+- [🎧 How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get)
 
 <!--
 - [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
@@ -386,10 +405,15 @@ Further reading:
 
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
-- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge.](https://www.volts.wtf/p/putting-more-climate-philanthropy)
+- [🎧 Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge.](https://www.volts.wtf/p/putting-more-climate-philanthropy)
 
 
 ## Week 6: Utilitarianism and Technology
+
+- How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable in your opinion? 
+
+
+- What kinds politics do different technologies create? Who they empower and disempower? What kinds of policy fights do they inspire? 
 
 Utilitarianism and managerialism: 
 
@@ -397,7 +421,7 @@ Utilitarianism and managerialism:
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that)
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [🎧 Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that)
 
 Climate engineering: 
 
@@ -405,17 +429,19 @@ Climate engineering:
 
 Further Reading: 
 
-- [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with)
+- [🎧 Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with)
 
-- [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely)
+- [🎧 Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely)
 
-- [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation)
+- [🎧 How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation)
 
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
 
-- [Dr. Ye Tao on a grand scheme to cool the Earth: Mirrors. Lots of mirrors.](https://www.volts.wtf/p/volts-podcast-dr-ye-tao-on-a-grand#details)
+- [Dr. Ye Tao on a grand scheme to cool the Earth: Mirrors. Lots of mirrors.](https://www.volts.wtf/p/volts-podcast-dr-ye-tao-on-a-grand#details) 🎧 
+
+- [Why we shouldn’t shut nuclear power plants --- starts at minute 35](https://kpfa.org/player/?audio=377066) 🎧 
 
 
 ## Week 7: Ecological Critique
@@ -521,7 +547,7 @@ Collective action:
 
 Governing institutions: 
 
-> [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important)
+> [🎧 The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important)
 
 > *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
 
@@ -541,9 +567,9 @@ Further reading:
 
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
-- [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details)
+- [🎧 Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details)
 
-- [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans)
+- [🎧 The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans)
 
 
 ##  Week 12: Movements 
@@ -551,7 +577,7 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
 
-> [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take)
+> [🎧 Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take)
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
@@ -577,11 +603,7 @@ Research:
 
 Criticism: 
 
-> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details)
-
-OR
-
-> [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist)
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 
 > [Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
 
@@ -589,13 +611,15 @@ Criticism of the critics:
 
 > [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
 
+> [Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn't think so.](https://kpfa.org/player/?audio=399010) (minutes 6:10-44:55)🎧 
+
 Further reading: 
 
--[Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details)
+-[🎧 Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details)
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
-- [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)
+- [🎧 Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)
 
 ##  Week 14: Incumbents
 
@@ -645,13 +669,13 @@ Research:
 
 > Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.  `(Canvas)`
 
-> [Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details)
+> [🎧 Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details)
 
 > Skim: ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
 
 Further Reading: 
 
-- [The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable)
+- [🎧 The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable)
 
 - https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html
 
@@ -690,15 +714,15 @@ Learning Objectives
 
 > [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
 
-> Listen: [Volts: Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
+> [🎧 Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
 
 Further reading:
 
-- [The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
+- [🎧 The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
 
-- [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)
+- [🎧 What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)
 
-- [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)
+- [🎧 Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)
 
 ## Ammendments 
 

@@ -4,6 +4,11 @@ subtitle: "Winter 2024"
 #date: "`r Sys.time()`"
 format:
 # pdf: default
+  # dashboard:
+  #    theme: default
+  #    orientation: rows
+  #    expandable: true
+  #    scrolling: false
  html:
    toc: true
    toc-location: left
@@ -27,9 +32,9 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 Office hours: Tuesday and Thursday 1:30-2:30 PM, 3215 Weill Hall
 
-📅 [Subscribe to the course calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+Subscribe to the course calendar: [📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-🚧 Syllabus updated: [`r Sys.Date() |> format("%d %b %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
+Syllabus updated: [`r Sys.Date() |> format("%d %b %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
 
 <!--Updated `r Sys.Date() |> format("%B %d, %Y")` https://github.com/judgelord/PP510/commits/main/docs/syllabus-PP510-fall-2023.html)--> 
 
@@ -228,18 +233,22 @@ The other readings will be available for free online (you may need to go through
 
 We will read smaller portions of the following books, which will be available on Canvas: 
 
-- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)
-- [*Politics: The Central Texts* by Roberto Mangabeira Unger, Verso Books](https://www.versobooks.com/products/1570-politics)
-- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis, Simon & Schuster](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
-- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway, Bloomsbury Publishing](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
-- *Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)  --- available on reserve, $19 new
+- [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)
+
+- [*Politics: The Central Texts* by Roberto Mangabeira Unger (1997, Verso Books)](https://www.versobooks.com/products/1570-politics)
+
+- [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis (2022, Simon & Schuster)](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994)
+
+- [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway (2011, Bloomsbury Publishing)](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
+
+- [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)](https://www.simonandschuster.com/books/Charleston/Susan-Crawford/9781639363575)  --- available on reserve, $19 new
 
 
-Other books you may find useful
+Other books you may find useful: 
 
 - *Politics is for Power* by Eitan Hersh
 - *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
-- [Gazmararian, Alexander F., and Dustin Tingley. Uncertain Futures: How to Unlock the Climate Impasse. Cambridge University Press](www.uncertainfuturesbook.com)
+- *Uncertain Futures: How to Unlock the Climate Impasse* by Alexander Gazmararian,  and Dustin Tingley. Cambridge University Press
 - *Rules for Radicals* by Saul Alinsky
 - *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
   - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
@@ -256,6 +265,8 @@ If you are looking for more foundation in how government works, the Ford School 
 - [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
 
 # 📖 Reading by Week
+
+🎧 = audio version available
 
 ## Week 1: Hope 
 
@@ -308,15 +319,15 @@ Further reading:
 
 State-level policy:
 
-- [🎧 It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira)
+- [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira) 🎧 
 
-- [🎧 Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details)
+- [Washington state now has the nation's most ambitious climate policy](https://www.volts.wtf/p/washington-state-now-has-the-nations#details) 🎧 
 
-- [🎧 Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details)
+- [Washington Rep. Joe Fitzgibbon on the Evergreen State's excellent new climate laws](https://www.volts.wtf/p/volts-podcast-washington-rep-joe#details) 🎧 
 
-- [🎧 Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details)
+- [Will Toor on Colorado's burst of clean energy policy](https://www.volts.wtf/p/volts-podcast-will-toor-on-colorados#details) 🎧 
 
-- [🎧 Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details)
+- [Illinois' brilliant new climate, jobs, and justice bill](https://www.volts.wtf/p/illinois-brilliant-new-climate-jobs#details) 🎧 
 
 - Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
 
@@ -332,11 +343,19 @@ Resources for understanding the Inflation Reduction Act:
  - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
 
 - ["Inflation Reduction Act (IRA) Summary: Energy and Climate Provisions" - Bipartisan Policy Center ](https://bipartisanpolicy.org/blog/inflation-reduction-act-summary-energy-climate-provisions/)
+
  - [Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive. A sortable and filterable list for stakeholders big and small.](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)
+ 
 - [Investments trackers](https://jackconness.com/ira-chips-investments)
+
 - [Report detailing IRA's impact on US emissions + economy and public health](https://energyinnovation.org/publication/updated-inflation-reduction-act-modeling-using-the-energy-policy-simulator/)
-- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781)
+
+- ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781) 
+
 - https://www.charged-the-book.com/na-ev-supply-chain-map
+
+-[Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
+
 
 
 
@@ -348,7 +367,7 @@ Resources for understanding the Inflation Reduction Act:
 > Purdy, Prologue and Introduction (1-50)
 
 
-> [🎧 The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero)
+> [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
 
 > *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
@@ -365,7 +384,7 @@ Further Readings:
 
 - [“Less Talk, More Walk: Why Climate Change Demands Activism in the Academy”, Jessica F. Green, *Daedalus* Fall 2020](https://www.amacad.org/publication/climate-change-demands-activism-academy)
 
-- [🎧 How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get)
+- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
 
 <!--
 - [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
@@ -405,7 +424,7 @@ Further reading:
 
 - Bullard, R. D. (2005). *The quest for environmental justice: Human rights and the politics of pollution*
 
-- [🎧 Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge.](https://www.volts.wtf/p/putting-more-climate-philanthropy)
+- [Putting more climate philanthropy toward economic and racial justice: A conversation with Abdul Dosunmu about the Climate Funders Justice Pledge.](https://www.volts.wtf/p/putting-more-climate-philanthropy) 🎧 
 
 
 ## Week 6: Utilitarianism and Technology
@@ -421,7 +440,7 @@ Utilitarianism and managerialism:
 
 Learning curves: 
 
-> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [🎧 Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that)
+> [*The Big Fix: Seven Practical Steps to Save Our Planet* by Hal Harvey and Justin Gillis](https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994), Chapter 1: The Learning Curve (1-35) `(Canvas)` OR [Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices](https://www.volts.wtf/p/focusing-on-the-climate-actions-that) 🎧 
 
 Climate engineering: 
 
@@ -429,11 +448,11 @@ Climate engineering:
 
 Further Reading: 
 
-- [🎧 Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with)
+- [Decarbonizing US transportation with an eye toward global justice: A conversation with Thea Riofrancos about reducing the need for lithium](https://www.volts.wtf/p/decarbonizing-us-transportation-with) 🎧 
 
-- [🎧 Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely)
+- [Learning curves will lead to extremely cheap clean energy: Doyne Farmer discusses the explosive implications of his new research](https://www.volts.wtf/p/learning-curves-will-lead-to-extremely) 🎧 
 
-- [🎧 How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation)
+- [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation) 🎧 
 
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 
@@ -516,11 +535,16 @@ Further critique of neo-Malthusian ideas:
 Further Research: 
 
 - [Information about climate-induced migration spurs negative attitudes about immigrants by  Kaitlin Raimi](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
+
 - [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
+
 - [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
+
 - [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](10.1073/pnas.2007597117)
+
 - [H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” *Nature Climate Change*, 12, 634-641](https://www.nature.com/articles/s41558-022-01401-w)
 - Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.
+
 - [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
 
 
@@ -541,19 +565,33 @@ Further Reading:
 
 ##  Week 11: Institutions 
 
+Tuesday: 
+
 Collective action: 
 
 >  Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.
 
 Governing institutions: 
 
-> [🎧 The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important)
-
 > *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
+
+- What is Unger's critique of deep structure theorists (e.g., Marx)? 
+- What is Unger's critique of modern social science? 
+- Why does Unger think that debates among critics and defenders of capitalism are incoherent? 
+-  What does Unger mean by the "plasticity" of institutions? 
 
 > Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
 
+- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
+
+
+Thursday: 
+
+> [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
+
 > Selections (TBD) from [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) that address climate change
+
+- As discussed by Rahman, Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan different? 
 
 
 Electoral institutions: 
@@ -567,9 +605,9 @@ Further reading:
 
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
-- [🎧 Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details)
+- [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details) 🎧 
 
-- [🎧 The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans)
+- [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans) 🎧 
 
 
 ##  Week 12: Movements 
@@ -577,7 +615,7 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
 
-> [🎧 Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take)
+> [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
@@ -615,11 +653,11 @@ Criticism of the critics:
 
 Further reading: 
 
--[🎧 Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details)
+-[Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 
-- [🎧 Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)
+- [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)  🎧 
 
 ##  Week 14: Incumbents
 
@@ -634,14 +672,14 @@ Further reading:
 
 > Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
 
-> Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” Global Environmental Politics 20(4): 4-27.
+> Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.
 
 
 ### US political economy of climate policy: 
 
-> [Carbon Captured: How Business and Labor Control Climate Politics, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+> [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
-> [Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
+> [*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
 
 <!--
 > Watch: [Leah Stokes - The Future is Electric | Bioneers 2023](https://www.youtube.com/watch?v=57Ry9LnUW0g)
@@ -654,6 +692,7 @@ Further reading:
 Further Reading: 
 
 - [Op-Ed: Yes, ExxonMobil misled the public by NAOMI ORESKES AND GEOFFREY SUPRAN](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html)
+
 - [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
 
 
@@ -669,13 +708,13 @@ Research:
 
 > Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.  `(Canvas)`
 
-> [🎧 Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details)
+> [Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details) 🎧 
 
 > Skim: ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
 
 Further Reading: 
 
-- [🎧 The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable)
+- [The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable) 🎧 
 
 - https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html
 
@@ -710,19 +749,21 @@ Learning Objectives
 -Identify technologies that could help with adaptation and the challenges behind their adaptation.
 
 
---> 
+-->
 
-> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover)
+> [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
 
-> [🎧 Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details)
+> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
+
+> [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
 
 Further reading:
 
-- [🎧 The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details)
+- [The challenges of building transmission in the US, and how to overcome them, with Liza Reed](https://www.volts.wtf/p/volts-podcast-the-challenges-of-building#details) 🎧 
 
-- [🎧 What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)
+- [What's up with Manchin's plan to reform energy permitting? Earthjustice president Abigail Dillen thinks it's a bad deal](https://www.volts.wtf/p/whats-up-with-manchins-plan-to-reform)  🎧 
 
-- [🎧 Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)
+- [Charles Marohn on unsustainable suburbs: They can't pay for themselves](https://www.volts.wtf/p/volts-podcast-charles-marohn-on-unsustainable)  🎧 
 
 ## Ammendments 
 

@@ -1,6 +1,8 @@
 ---
 title: "PubPol 475.011 --- Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
+title-block-banner: true
+title-block-banner-color: body
 #date: "`r Sys.time()`"
 format:
 # pdf: default
@@ -283,7 +285,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 ## Week 2: Policy 
 
-### Tuesday: The State of US Climate Policy: 
+### Tuesday The State of US Climate Policy: 
 
 > [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) 🎧 
 
@@ -304,7 +306,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 > More summaries of US policy TBD 
 
-### Thursday: The State of Michigan Climate Policy: 
+### Thursday: The State of Michigan Climate Policy
 
 > [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
 
@@ -368,7 +370,9 @@ Resources for understanding the Inflation Reduction Act:
 
 ...in the Anthropocene
 
-### Tuesday: World Views
+### Tuesday
+
+World Views
 
 > Purdy, Prologue and Introduction (1-50)
 
@@ -376,7 +380,7 @@ Resources for understanding the Inflation Reduction Act:
 
 ### Thursday: Public Opinion
 
-<!--> *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`-->
+<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`-->
 
 > ["Climate Change: US Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
 
@@ -434,7 +438,7 @@ Aesthetics-->
 - How are policies addressing environmental justice consistent or inconsistent with different definitions? 
 - How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
 
-Tuesday: 
+### Tuesday 
 
 > [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
 
@@ -460,9 +464,11 @@ Further reading:
 - How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
 - What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
 
-Utilitarianism and managerialism: 
+### Tuesday: Utilitarianism and managerialism
 
 > Purdy, Chapter 5: A Conservationist Empire (153-187)
+
+### Thursday: Technology
 
 Learning curves: 
 
@@ -491,7 +497,13 @@ Further Reading:
 
 ## Week 7: Ecological Critique
 
-> Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227), Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
+### Tuesday
+
+> Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
+
+### Thursday
+
+> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
 
 Further reading: 
 
@@ -499,7 +511,11 @@ Further reading:
 
 ## Week 8: Indigenous Critique 
 
+### Tuesday
+
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
+
+### Thursday
 
 
 > [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
@@ -513,11 +529,13 @@ Further reading:
 
 ## Week 9: Feminist Critique 
 
-Eco-feminist Critique: 
+### Tuesday: Eco-feminist Critique
 
 > ["Alive in the Sunshine" by Alyssa Battistoni ](https://jacobin.com/2014/01/alive-in-the-sunshine)
 
 > More TBD (including selections from *All We Can Save*)
+
+### Thursday: TBD
 
 ## Week 10: Nationalist Critique
 
@@ -525,7 +543,7 @@ Eco-feminist Critique:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-Great power competition, neo-Malthusian, and ethno-nationalist critique: 
+### Tuesday: Great power competition, neo-Malthusian, and ethno-nationalist critique
 
 > ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
 
@@ -541,7 +559,7 @@ The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.sp
 Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
 :::
 
-Critique of the neo-Malthusian and ethno-nationalist critique: 
+### Thursday: Critiques of the neo-Malthusian and ethno-nationalist critiques 
 
 > ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
 
@@ -551,9 +569,13 @@ Critique of the neo-Malthusian and ethno-nationalist critique:
 
 > [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
 
-Further reading: 
+Further reading on great power competition: 
 
 - https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/
+
+Further reading on climate migration: 
+- [Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
+
 
 Further critique of neo-Malthusian ideas: 
 
@@ -576,21 +598,19 @@ Further Research:
 - [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
 
 
-Further Reading: 
 
 
-- [Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
 
 
 ##  Week 11: Institutions 
 
-Tuesday: 
+### Tuesday: Governance
 
-Collective action: 
+Collective action
 
 >  Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.
 
-Governing institutions: 
+Governing institutions
 
 > *Politics: The Central Texts* by Roberto Mangabeira Unger: Introduction (V-XVI) and Chapter 1 (1-18)  `(Canvas)`
 
@@ -604,7 +624,7 @@ Governing institutions:
 - What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
 
-Thursday: 
+### Thursday: Regulation and Electoral Institutions
 
 > [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
 
@@ -634,19 +654,21 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
 
+### Tuesday: Structure
+
+> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008
+
 > [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
+
+### Thursday: Issue frames
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
-> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008.
 
-<!--- currently under Justice 
-> “Three faces of climate justice”, *Annual Review of Political Science*, 2022, by Nives Dolšak and Aseem Prakash. Vol. 25:283-301
----> 
 
 ##  Week 13: Markets
 
-Voices of New Keynesian, neoliberal, and libertarian economists: 
+### Tuesday: New Keynesian, neoliberal, and libertarian economics
 
 > ["Information" - Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html)
 
@@ -658,7 +680,7 @@ Research:
 
 > Listen: [Paying for Pollution](https://scholars.org/podcast/paying-pollution)
 
-Criticism: 
+### Thursday: Market critics
 
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 
@@ -687,14 +709,14 @@ Further reading:
 <!--- Identify examples of “odd bed-fellows”--> 
 - What industries have most effectively obstructed policy? How do they work with/against political actors?
 
-### The global political economy of climate policy:
+### Tuesday: The global political economy of climate policy:
 
 > Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
 
 > Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.
 
 
-### US political economy of climate policy: 
+### Thursday: US political economy of climate policy: 
 
 > [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
@@ -714,7 +736,7 @@ Further Reading:
 
 - [Winners and Losers of Energy and Climate Policy – How Can the Costs Be Redistributed?](https://www.cesifo.org/en/publikationen/2021/journal-complete-issue/cesifo-forum-052021-winners-and-losers-energy-and-climate)
 
-
+<!---
 ### Doomerism and Delay
 
 Doomerism: 

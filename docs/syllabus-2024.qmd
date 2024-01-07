@@ -1,9 +1,8 @@
 ---
-title: "PubPol 475.011 --- Climate Change: Politics for the Anthropocene"
+title: "PubPol 475.011 <br> Climate Change: Politics for the Anthropocene"
 subtitle: "Winter 2024"
-title-block-banner: true
-title-block-banner-color: body
-#date: "`r Sys.time()`"
+title-block-banner: banner.png
+title-block-banner-color: body-bg
 format:
 # pdf: default
  html:
@@ -29,12 +28,12 @@ Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
 Office hours: Mondays 3–4 p.m., 3215 Weill Hall
 
-[Subscribe to the course calendar:  📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+[Subscribe to the course calendar here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
 
 
-This is a small 400-level reading and writing intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
+This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
 
 # 🗺️  Objectives
@@ -52,7 +51,7 @@ The assignments for this class are motivated by the observation that politics is
 It is easy to critique those with whom we severely disagree, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may have no idea what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policy---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
 
-As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 15% of your grade.
+As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 10% of your grade.
 
 
 
@@ -150,12 +149,15 @@ There is an assignment due **every** Tuesday.
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
 ::: {.callout-tip}
-[Subscribe to the due dates calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+[Subscribe to the due dates calendar here](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 :::
+
+
+### Due dates 
 
 Below is the schedule of due dates. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/). 
 
-On all but three weeks, the assignments are incremental steps to one larger assignment. On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. (1%) For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see Pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
+On all but three weeks, the assignments are incremental steps to one larger assignment. On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
 
 ## Find your voice - 15% of final grade
 
@@ -197,7 +199,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
-- Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Tuesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
+- Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
 
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
@@ -223,7 +225,7 @@ We will read large portions of three books:
 
 - *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
 
-- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be conscious of your classmates.)
+- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be conscientious of your classmates.)
 
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
@@ -287,6 +289,8 @@ There are many "further" readings, and some required readings (especially the lo
 
 ### Tuesday The State of US Climate Policy: 
 
+> [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) 🎧 
+
 > [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) 🎧 
 
 > [Climate Bidenomics by Alyssa Battistoni and Geoff Mann](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics)
@@ -295,11 +299,11 @@ There are many "further" readings, and some required readings (especially the lo
 
 > [ The Farm Bill is the most important climate bill this Congress will pass](https://www.volts.wtf/p/the-farm-bill-is-the-most-important) 🎧
 
-> SKIM: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
+> Skim: [Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act or the MARKET CHOICEAct](https://www.congress.gov/bill/117th-congress/house-bill/3039)
 
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/ccl-welcomes-reintroduction-of-bipartisan-carbon-pricing-bill)
 
-> SKIM: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
+> Skim: [H.R.5744 - Energy Innovation and Carbon Dividend Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/5744) (A carbon tax with the revenue going to households as a monthly cash dividend) 
 
 - <https://energyinnovationact.org/>
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
@@ -314,16 +318,10 @@ There are many "further" readings, and some required readings (especially the lo
 
 The State of Ann Arbor Climate Policy:
 
-- [Carbon Neutrality --- A^2ZERO - Building a just transition to community-wide carbon neutrality by 2030.](9https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
-
-Further reading: 
+> Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](9https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
 
 
-- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details) 🎧
-
-- [David Hsu on the grassroots policy that lets communities control their own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
-
-State-level policy:
+Further reading on state-level policy:
 
 - [It's up to states to implement IRA. Are they ready? A conversation with Sam Ricketts of Evergreen Action](https://www.volts.wtf/p/its-up-to-states-to-implement-ira) 🎧 
 
@@ -337,14 +335,23 @@ State-level policy:
 
 - Rabe, B. G. (2004). Statehouse and greenhouse: The emerging politics of American climate change policy. Brookings Institution Press. Chapter 1.  `(Canvas)`
 
-Resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
+- [David Hsu on the grassroots policy that lets communities control their own energy supply](https://www.volts.wtf/p/volts-podcast-david-hsu-on-the-grassroots#details) 🎧
+
+
+
+Further reading on federal policy: 
+
+- [Using DOE loan guarantees to accelerate clean energy, with Jigar Shah](https://www.volts.wtf/p/volts-podcast-using-doe-loan-guarantees#details) 🎧
+
+
+Further resources for understanding cap-and-trade (e.g., the Waxman-Markey bill): 
 
 - [Naming the Problem: What It Will Take to Counter Extremism and Engage Americans in the Fight against Global Warming by Theda Skocpol](https://grist.org/wp-content/uploads/2013/03/skocpol-captrade-report-january-2013y.pdf)
 
 - [What Theda Skocpol gets right about the cap-and-trade fight by David Roberts](https://grist.org/climate-energy/what-theda-skocpol-gets-right-about-the-cap-and-trade-fight/)
 
 
-Resources for understanding the Inflation Reduction Act: 
+Further resources for understanding the Inflation Reduction Act: 
 
  - [Our Green Transition May Leave Black People Behind](https://hammerandhope.org/article/climate-green-new-deal)
 
@@ -358,7 +365,7 @@ Resources for understanding the Inflation Reduction Act:
 
 - ["Emissions and energy impacts of the Inflation Reduction Act" *Science*](https://science.org/doi/10.1126/science.adg3781) 
 
-- https://www.charged-the-book.com/na-ev-supply-chain-map
+- [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
 -[Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, the challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
 
@@ -370,9 +377,7 @@ Resources for understanding the Inflation Reduction Act:
 
 ...in the Anthropocene
 
-### Tuesday
-
-World Views
+### Tuesday: World Views
 
 > Purdy, Prologue and Introduction (1-50)
 
@@ -508,6 +513,8 @@ Further Reading:
 Further reading: 
 
 - *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
+
+## --- SPRING BREAK ---
 
 ## Week 8: Indigenous Critique 
 
@@ -660,6 +667,8 @@ Further reading:
 
 > [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
 
+> [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
+
 ### Thursday: Issue frames
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
@@ -678,7 +687,7 @@ Further reading:
 
 Research: 
 
-> Listen: [Paying for Pollution](https://scholars.org/podcast/paying-pollution)
+> [Paying for Pollution](https://scholars.org/podcast/paying-pollution) 🎧 
 
 ### Thursday: Market critics
 

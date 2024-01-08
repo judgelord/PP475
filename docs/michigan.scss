@@ -17,14 +17,14 @@ $h3-font-size: 1.15em !default;
 $code-color: #001B35 !default;
 $font-family-monospace: 'Open Sans', monospace  !default;
 
-// general  
-$body-bg: #E6F0FA;
+// general
+$body-bg: #FFFFFF;
 $body-color: #001B35;
 $link-color: #42affa;
 $link_color: #006EB2;
-$text-muted: #001B35;
+$text-muted: #4c6782;
 $code_highlight_color: #FFCB05;
-$background_color: #E6F0FA;
+$background_color: #FFFFFF;
 $text_font_size: 1rem;
 $code_font_size: 1rem;
 $header_h1_font_size: 1.75rem;
@@ -44,7 +44,7 @@ $base_font_size: 35px !default;
 }
 
 
-.subtitlefweraf {
+.subtitleqwerty {
   color: $body-color;
   font-size: $h2-font-size;
   font-family: $presentation-heading-font;
@@ -69,7 +69,7 @@ $base_font_size: 35px !default;
 }
 
 .reveal .footer {
-    color: #006EB2;
+    color: #4c6782;
 }
 
 
@@ -97,11 +97,11 @@ $font-family-monospace: 'Open Sans', monospace  !default;
 /*-- scss:rules --*/
 
 .reveal blockquote {
-  border-left: 3px solid;
+  border-left: 3px solid $text-muted;
   padding-left: 0.1em;
   font-style: italic;
   font-weight: bold;
-  color: #003c76;
+  color: #4c6782;
 }
 
 

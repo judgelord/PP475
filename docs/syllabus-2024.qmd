@@ -4,7 +4,7 @@ subtitle: "Winter 2024"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
-# pdf: default
+ pdf: default
  html:
    toc: true
    toc-location: left
@@ -33,7 +33,7 @@ Office hours: Mondays 3–4 p.m., 3215 Weill Hall
 
 [Subscribe to the course calendar here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
 
 
 This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
@@ -47,7 +47,7 @@ This class aims to help you develop your own critique of various policy fights o
 
 Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. -->
 
-The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focuses on policy debates in the United States, the underlying political struggles can be seen everywhere. 
+The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focus on policy debates in the United States, the underlying political struggles can be seen everywhere. 
 
 The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
@@ -139,7 +139,7 @@ I reserve the right to discuss your papers in length with you if I have concerns
 
 # 🪶 Assignments 
 
-Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/). 
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/). 
 
 > <mark>**Discussion posts are due Mondays and Wednesdays at 7 p.m.** </mark>
 
@@ -270,7 +270,7 @@ If you are looking for more foundation in how government works, the Ford School 
 
 # 📖 Reading by Week
 
-🎧 Most weeks have include audio content, either in addition to or as an alternative to required reading. 
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. 
 
 There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
 
@@ -315,7 +315,7 @@ There are many "further" readings, and some required readings (especially the lo
 - <https://energyinnovationact.org/>
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
 
-<!--> More summaries of US policy TBD --> 
+<!-- More summaries of US policy TBD --> 
 
 ### Thursday: The State of Michigan Climate Policy
 
@@ -376,7 +376,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 - [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
--[Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, the challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
+-[Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
 
 
 
@@ -530,9 +530,9 @@ Further reading:
 
 
 
-## Week 8: Indigenous and Feminist Critique  
+## Week 8: Indigenous and Feminist Critiques  
 
-### Tuesday: Indigenous Crtique
+### Tuesday: Indigenous Critique
 
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 

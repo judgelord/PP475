@@ -328,7 +328,7 @@ There are many "further" readings, and some required readings (especially the lo
 - <https://energyinnovationact.org/>
 - [Summary from Citizens Climate Lobby](https://citizensclimatelobby.org/blog/news/carbon-pricing-bill-would-supercharge-effect-of-ira-subsidies-cut-carbon-pollution)
 
-<!--> More summaries of US policy TBD --> 
+<!-- More summaries of US policy TBD --> 
 
 ### Thursday: The State of Michigan Climate Policy
 

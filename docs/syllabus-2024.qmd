@@ -47,7 +47,7 @@ This class aims to help you develop your own critique of various policy fights o
 
 Experts increasingly see the slow policy response to climate science as having less to do with climate science and more to do with politics. That is, climate change is increasingly seen as a problem for the social sciences to address. Thus, this class is about politics. "Politics" can mean many things, and a core objective of this class is understanding different forms of politics---different ways of having and resolving debates about who our community is and what we will do together about the challenges we face. <!--Climate policy debates reflect well-established political and economic perspectives but also raise new, unique issues. -->
 
-The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focuses on policy debates in the United States, the underlying political struggles can be seen everywhere. 
+The core readings are mostly drawn from political science, political theory, and law. They are accompanied by op-eds and podcasts from advocates and journalists covering climate policy debates. Both the theories of politics and political arguments cover a wide range of perspectives. We will read a range of critiques based on different visions of good politics---from left to right, religious to utilitarian, populist to technocratic---with the aim of recognizing and critiquing these forms of politics when we see them in the wild. While we will mainly focus on policy debates in the United States, the underlying political struggles can be seen everywhere. 
 
 The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
@@ -148,11 +148,19 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 > [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by THE NYT EDITORIAL BOARD, March 18, 2023
 
+> [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)
+
+> [The Climate Solution That’s Horrible for the Climate](https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html)
+
+> [I’m a Scientist Who Spoke Up About Climate Change. My Employer Fired Me.](https://www.nytimes.com/2023/01/10/opinion/scientist-fired-climate-change-activism.html)
+
 > [Rumble at the Sierra Club](https://www.proquest.com/docview/432709597)
 
 > [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells
 
+And here's a piece by two climate activists trying to influence policy:
 
+> [Will Lawmakers Sacrifice Our Health and Safety to Get a Debt Ceiling Deal?](https://www.nytimes.com/2023/05/26/opinion/debt-ceiling-clean-energy-oil-gas-environmental-justice.html)
 
 
 ## Due dates 
@@ -162,7 +170,7 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 > <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
 
 ::: {.callout-important}
-There is an incremental assignment due **every** Tuesday. 
+There is an incremental assignment building to your final op-ed due **every** Tuesday. 
 :::
 
 
@@ -283,7 +291,9 @@ If you are looking for more foundation in how government works, the Ford School 
 
 # 📖 Reading by Week
 
-🎧 Most weeks have include audio content, either in addition to or as an alternative to required reading. 
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. 
+
+`(Canvas)` means that the reading is in the "/Files/Reading" folder on Canvas.
 
 There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
 
@@ -294,13 +304,16 @@ There are many "further" readings, and some required readings (especially the lo
 ### Thursday: Syllabus review and in-class discussion [best-practices exercise](best-practices.html)
 
 
-> [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9)
+> [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
 
 <!--TODO POST TO CANVAS--> 
 
-> [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c)
+> [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
 
-> [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
+
+Further reading: 
+
+- [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
 
 
 ## Week 2: Policy 
@@ -545,7 +558,7 @@ Further reading:
 
 ## Week 8: Indigenous and Feminist Critique  
 
-### Tuesday: Indigenous Crtique
+### Tuesday: Indigenous Critique
 
 > [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 

@@ -126,14 +126,14 @@ No screens in class (unless I give permission). Research shows that they inhibit
 
 You learn by doing work, and I assess your learning by the work you do. You may use tools to help craft your writing, but you must learn the crafts of constructive critique and persuasive writing to succeed in class. To add value to any employer or cause, you must craft arguments and recommendations that are significantly better than they would get by asking a [SALAMI](https://blog.quintarelli.it/2019/11/lets-forget-the-term-ai-lets-call-them-systematic-approaches-to-learning-algorithms-and-machine-inferences-salami/). I expect the same. 
 
-Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects than for a pre-trained language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning to me. LLMs have no thought process and do not reason. 
+Text extruded by large language models (LLMs) is, by construction, derivative of patterns of words already linked together on the internet. In some sense, everything we do is derivative of our experiences, but the generative process is very different for thinking subjects (you) than for a pre-trained language model. Language models are incapable of producing original critiques. If they produce something that sounds insightful, it is only because we are able to assign meaning to the strings of words they extrude. (It also probably sounds right because it resembles things already written by a human on the internet.) Language models have no sense of meaning and cannot judge the consistency, coherence, or logic of an argument.  I expect the critiques you produce to be yours and for you to stand by them as intellectual projects. No LLM can help you justify your thought process and reasoning. LLMs have no thought process and do not reason. 
 
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
 
 Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will be checking to make sure sources of evidence are used appropriately. 
 
-If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used it for, what it got right, and what it got wrong. 
+If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what it got right, and what it got wrong. 
 
 I reserve the right to discuss your papers in length with you if I have concerns.
 
@@ -146,21 +146,21 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 ## Example op-eds
 
-> [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by THE NYT EDITORIAL BOARD, March 18, 2023
+> [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by the NYT Editorial Board
 
-> [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)
+> [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)  by Jeff Colgan via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
 
-> [The Climate Solution That’s Horrible for the Climate](https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html)
+> [The Climate Solution That’s Horrible for the Climate](https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html) via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
 
 > [I’m a Scientist Who Spoke Up About Climate Change. My Employer Fired Me.](https://www.nytimes.com/2023/01/10/opinion/scientist-fired-climate-change-activism.html)
 
-> [Rumble at the Sierra Club](https://www.proquest.com/docview/432709597)
+> Rumble at the Sierra Club via [proquest](https://www.proquest.com/docview/432709597)
 
-> [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells
+> [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells via [proquest](https://www.proquest.com/docview/2875467846/E16DE7745E4B4754PQ)
 
 And here's a piece by two climate activists trying to influence policy:
 
-> [Will Lawmakers Sacrifice Our Health and Safety to Get a Debt Ceiling Deal?](https://www.nytimes.com/2023/05/26/opinion/debt-ceiling-clean-energy-oil-gas-environmental-justice.html)
+> [Will Lawmakers Sacrifice Our Health and Safety to Get a Debt Ceiling Deal?](https://www.nytimes.com/2023/05/26/opinion/debt-ceiling-clean-energy-oil-gas-environmental-justice.html) via [proquest]
 
 
 ## Due dates 
@@ -190,7 +190,7 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 - Week 3: Ten op-ed-style headlines (in-class peer workshop for headlines) (1%) <!---COULD BE 1--> 
 - Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (10%)
 - Week 5: 
-  - Meet with me about your op-ed ideas (part of previous assignment grade)
+  - Meet with me about your op-ed ideas (part of previous assignment grade)---[schedule a meeting here](https://calendar.app.google/Ek1aqwyVLRgQ84nD7).
   - Civic engagement (1%)
 - At some point during the first half of the semester, pitch one of your critiques to the class. Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
 

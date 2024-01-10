@@ -322,11 +322,11 @@ Further reading:
 
 >  [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
-> [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
-
 > [An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years) (minutes 1-54) 🎧 
 
 > [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) (5 pages)
+
+> [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
 
 > All We Can Save: Litigating in a Time of Crisis (51-59) and The Politics of Policy (85-91)
 
@@ -402,7 +402,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 - [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
--[Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, the challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
+- [Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, the challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
 
 
 
@@ -748,7 +748,7 @@ Criticism of the critics:
 
 Further reading: 
 
--[Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
+- [Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
 
 - Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. “Growth in emission transfers via international trade from 1990 to 2008.” Proceedings of the national academy of sciences 108(21):8903–8908.
 

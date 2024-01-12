@@ -33,7 +33,7 @@ Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
 
 [Subscribe to the course calendar here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd)
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html)
 
 
 This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.

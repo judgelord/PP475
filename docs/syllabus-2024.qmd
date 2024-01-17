@@ -4,7 +4,7 @@ subtitle: "Winter 2024"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
- pdf: default
+# pdf: default
  html:
    toc: true
    toc-location: left
@@ -352,7 +352,7 @@ Further reading:
 
 The State of Ann Arbor Climate Policy:
 
-> Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](9https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
+> Skim: [Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
 
 
 Further reading on state-level policy:

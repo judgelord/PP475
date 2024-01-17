@@ -33,7 +33,8 @@ Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
 
 [Subscribe to the course calendar here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html)
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
+
 
 
 This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
@@ -139,7 +140,7 @@ I reserve the right to discuss your papers in length with you if I have concerns
 
 # 🪶 Assignments 
 
-Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/). 
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/). 
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
@@ -402,7 +403,8 @@ Further resources for understanding the Inflation Reduction Act:
 
 - [Charged: EV Supply Chain Dashboard](https://www.charged-the-book.com/na-ev-supply-chain-map)
 
-- [Retooling Old, Polluting Infrastructure for the Clean Economy - Political Climate podcast | 12/1/2022](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) Alexander Bond, deputy general counsel for climate and clean energy at the Edison Electric Institute, and Uday Varadarajan, a principal at the clean-energy nonprofit RMI. They discuss the innovative structure of the Section 1706 program, the challenges the Loan Programs Office will face as it rolls out the funding, and the opportunities for the program to help clean up the U.S. electric grid. 
+-[Retooling Old, Polluting Infrastructure for the Clean Economy (Political Climate, 12/1/2022)](https://www.politicalclimatepodcast.com/episodes/episode/2209b241/retooling-old-polluting-infrastructure-for-the-clean-economy) 
+
 
 
 
@@ -561,7 +563,7 @@ Further reading:
 
 
 
-## Week 8: Indigenous and Feminist Critique  
+## Week 8: Indigenous and Feminist Critiques  
 
 ### Tuesday: Indigenous Critique
 

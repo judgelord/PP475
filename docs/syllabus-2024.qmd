@@ -435,6 +435,8 @@ Further resources for understanding the Inflation Reduction Act:
 
 Further Readings: 
 
+- [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
+
 - [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedalus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
 
 - [“Witnessing for the Middle to Depolarize the Climate Change Conversation”, *Daedalus* Fall 2020](Robert Harry Socolow,  https://www.amacad.org/publication/witnessing-middle-depolarize-climate-change-conversation)
@@ -655,7 +657,7 @@ Further Research:
 
 ##  Week 10: Institutions 
 
-<!--TBD QUESTIONS--> 
+- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
 ### Tuesday: Governance
 
@@ -674,7 +676,10 @@ Governing institutions
 
 > Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
 
-- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
+
+Further reading: 
+
+- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
 
 ### Thursday: Regulation and Electoral Institutions
@@ -695,7 +700,11 @@ Electoral institutions:
 
 Further reading: 
 
-- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
+- [How Voting Rights and Redistricting Shape Climate Policy
+ (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
+
+- [Clean Energy Gatekeepers You’ve Never Heard Of (Political Climate 2023)](https://www.politicalclimatepodcast.com/episodes/episode/2344cfff/clean-energy-gatekeepers-youve-never-heard-of)
+
 
 - [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details) 🎧 
 
@@ -720,6 +729,8 @@ Further reading:
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
 Further reading: 
+
+- [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
 
 - [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
 

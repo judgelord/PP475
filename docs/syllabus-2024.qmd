@@ -188,7 +188,7 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 
 - Week 1: Introduce yourself to the class---e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means---feel free to be creative (1%) 
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 3: Ten op-ed-style headlines (in-class peer workshop for headlines) (1%) <!---COULD BE 1--> 
+- Week 3: Ten op-ed-style headlines (in-class peer workshop) (1%) <!---COULD BE 1--> 
 - Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (10%)
 - Week 5: 
   - Meet with me about your op-ed ideas (part of previous assignment grade)---[schedule a meeting here](https://calendar.app.google/Ek1aqwyVLRgQ84nD7).
@@ -210,8 +210,8 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 
 Through multiple rounds of revision, you will hone your critique, improving your logic and writing (writing can always be improved).
 
-::: {.callout-important}
-I am mostly grading on how you respond to feedback. If you would like, you can include revision comments (200 words max) on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+::: {.callout-note}
+I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 :::
 
 - Week 10: One 750-800 word op-ed + annotated bibliography  (10%)
@@ -434,6 +434,8 @@ Further resources for understanding the Inflation Reduction Act:
 
 
 Further Readings: 
+
+- [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
 
 - [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedalus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
 
@@ -659,7 +661,7 @@ Further Research:
 
 ##  Week 10: Institutions 
 
-<!--TBD QUESTIONS--> 
+- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
 ### Tuesday: Governance
 
@@ -678,7 +680,10 @@ Governing institutions
 
 > Skim: ["The Climate Movement's Impact on Technocratic Policymaking" by Devin Judge-Lord](https://judgelord.github.io/research/cj/)
 
-- What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
+
+Further reading: 
+
+- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
 
 ### Thursday: Regulation and Electoral Institutions
@@ -699,7 +704,11 @@ Electoral institutions:
 
 Further reading: 
 
-- Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
+- [How Voting Rights and Redistricting Shape Climate Policy
+ (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
+
+- [Clean Energy Gatekeepers You’ve Never Heard Of (Political Climate 2023)](https://www.politicalclimatepodcast.com/episodes/episode/2344cfff/clean-energy-gatekeepers-youve-never-heard-of)
+
 
 - [Doug Thompson defends the deep state](https://www.volts.wtf/p/volts-podcast-doug-thompson-defends#details) 🎧 
 
@@ -724,6 +733,8 @@ Further reading:
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 
 Further reading: 
+
+- [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
 
 - [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
 

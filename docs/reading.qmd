@@ -4,20 +4,56 @@ format: html
 ---
 
 
-Adaptation 
+# Adaptation 
 
 - [Preparing our cities for the climate crisis. Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/episode/behind-the-news-october-14-2021/)
 
-Agriculture
+# Agriculture
 
 - [Report: Increased Accountability, Sustainability Needed in Farm Credit System ](https://www.sfntoday.com/2024/01/08/report-increased-accountability-sustainability-needed-in-farm-credit-system/)
 
-Degrowth
+# Degrowth
 
 - [Is “degrowth” the answer to the climate crisis? Economists Peter Victor and Robert Pollin debate the virtues of “degrowth” in avoiding climate catastrophe.](https://kpfa.org/episode/behind-the-news-november-4-2021/)
 
 - [Matt Huber criticizes the climate austerity camp.](https://newleftreview.org/sidecar/posts/mish-mash-ecologism) and and talks about it on [Behind the News](https://kpfa.org/episode/behind-the-news-august-25-2022/).
 
-COP 26
+
+
+# Delay
+
+Research: 
+
+> Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. Bloomsbury Publishing USA. Chapter 6.  `(Canvas)` or ["Who is Responsible for Climate Change?" by Naomi Oreskes](https://www.merchantsofdoubt.org/home/video-resources/)
+
+> [Amy Westervelt on disinformation and propaganda](https://www.volts.wtf/p/volts-podcast-amy-westervelt-on-disinformation#details) 🎧 
+
+> Skim: ["Does climate denialism still matter? The prevalence of alternative frames in opposition to climate policy" by Heather W. Cann and Leigh Raymond](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353)
+
+Further Reading: 
+
+- [The right-wing groups behind renewable energy misinformation: A conversation with journalist Michael Thomas](https://www.volts.wtf/p/the-right-wing-groups-behind-renewable) 🎧 
+
+- [Climate change contrarian think tanks in Europe: A network analysis](Climate change contrarian think tanks in Europe: A network analysis)
+
+- https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html
+
+- Brookings Institute, Elaine Kamarck, The Challenging Politics of Climate Change 
+
+# Doomerism: 
+
+- [Weekend Update: U.N.'s Climate Change Report - SNL](https://www.youtube.com/watch?v=07oe1m67eik)
+
+
+# COP 26
 
 [What happened (or didn’t) at the COP26 climate summit, and what Bannon wants to do to the bureaucracy.](https://kpfa.org/episode/behind-the-news-november-18-2021/) Environmental journalist Tina Gerhardt reviews the accomplishments, or lack thereof, at the COP26 climate summit in Glasgo. And renegade ex-Republican Mike Lofgren (author of this article) explains why Steve Bannon’s dream of deconstructing the administrative state is really bad.
+
+
+
+<!--## Utopia
+
+
+Further Reading
+
+- Review of new books on Utopian thinking: https://link.springer.com/article/10.1057/s41296-023-00661-1#citeas

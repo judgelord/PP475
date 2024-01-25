@@ -30,14 +30,15 @@ $code_font_size: 1rem;
 $header_h1_font_size: 1.75rem;
 $header_h2_font_size: 1.5rem;
 $header_h3_font_size: 1.25rem;
-$code_inline_background_color: #E6F0FA;
+$code_inline_background_color: #42affa;
+$code-bg: #42affa;
 $table_row_even_background_color:#E6F0FA;
 $presentation-font-size-root: 35px !default;
 $base_font_size: 35px !default;
 
 /*-- scss:rules --*/
 .reveal pre code {
-  background-color: #E6F0FA;
+  background-color: #42affa;
   font-size: 1em;
   padding: 0.1em;
   line-height: 1.1em;

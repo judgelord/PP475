@@ -134,7 +134,7 @@ I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing
 Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will be checking to make sure sources of evidence are used appropriately. 
 
-If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what it got right, and what it got wrong. 
+If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
 
 I reserve the right to discuss your papers in length with you if I have concerns.
 
@@ -158,6 +158,10 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 > Rumble at the Sierra Club via [proquest](https://www.proquest.com/docview/432709597)
 
 > [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells via [proquest](https://www.proquest.com/docview/2875467846/E16DE7745E4B4754PQ)
+
+- [Georgia’s Unique Runoff System, a Product of Institutional Racism by Shaher Zakaria](https://mjpa.umich.edu/2021/01/14/georgias-unique-runoff-system-a-product-of-institutional-racism/)
+
+> [The Patent System is Failing to Promote Pharmaceutical Innovation by Christina Del Grec](https://mjpa.umich.edu/2021/12/01/the-patent-system-is-failing-to-promote-pharmaceutical-innovation/)
 
 And here's a piece by two climate activists trying to influence policy:
 
@@ -191,7 +195,7 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 - Week 3: Ten op-ed-style headlines (in-class peer workshop) (1%) <!---COULD BE 1--> 
 - Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (10%)
 - Week 5: 
-  - Meet with me about your op-ed ideas (part of previous assignment grade)---[schedule a meeting here](https://calendar.app.google/Ek1aqwyVLRgQ84nD7).
+  - Meet with me about your op-ed ideas (part of the previous assignment grade)---[schedule a meeting here](https://calendar.app.google/Ek1aqwyVLRgQ84nD7).
   - Civic engagement (1%)
 - At some point during the first half of the semester, pitch one of your critiques to the class. Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
 
@@ -307,17 +311,22 @@ There are many "further" readings, and some required readings (especially the lo
 
 > [*Home is Always Worth It* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9) `(Canvas)`
 
+> Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
+
 <!--TODO POST TO CANVAS--> 
 
 > [*But the Greatest of These is Love* - Mary Annaïse Heglar (Medium, 2019)](https://medium.com/@maryheglar/but-the-greatest-of-these-is-love-4b7aad06e18c) `(Canvas)`
 
 
+<!--
 Further reading: 
 
 - [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
-
+--> 
 
 ## Week 2: Policy 
+
+> "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
 
 ### Tuesday: The State of US Climate Policy: 
 
@@ -414,7 +423,15 @@ Further resources for understanding the Inflation Reduction Act:
 
 ...in the Anthropocene
 
+> "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
+
 ### Tuesday: World Views
+
+- What is the "Anthropocene challenge" as described by Purdy? 
+- What does Purdy mean by politics and anti-politics? What are some examples? 
+- What does Buck mean by the "constructive ambiguity" of net zero? 
+- Purdy discusses several forms of environmental imagination/ideology that shaped US environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? What parallels do you see in the history of US environmental policy? 
+
 
 > Purdy, Prologue and Introduction (1-50)
 
@@ -422,20 +439,25 @@ Further resources for understanding the Inflation Reduction Act:
 
 ### Thursday: Public Opinion
 
-<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`-->
+- How has public opinion on climate change shifted since 2017? 
+- What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
+
+> [Global Warming’s Six Americas, Fall 2023](https://climatecommunication.yale.edu/publications/global-warmings-six-americas-fall-2023/) (1 page)
+
 
 > ["Climate Change: US Public Opinion" by Patrick J. Egan and Megan Mullin, *Annual Review of Political Science* Vol. 20, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051215-022857) (14 pages)
 
 > ["Which Republicans are worried about global warming?" By Matthew Ballew, Jennifer Carman, Seth Rosenthal, Marija Verner, John Kotcher, Edward Maibach, and Anthony Leiserowitz](https://climatecommunication.yale.edu/publications/republicans-worried-about-global-warming/) (5 pages)
 
-> [Global Warming’s Six Americas, Fall 2023](https://climatecommunication.yale.edu/publications/global-warmings-six-americas-fall-2023/) (1 page)
 
 > Skim: [Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223) via [the library](https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845)
 
 
 Further Readings: 
 
-- [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
+
+<!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`-->
+
 
 - [“Introduction: Paths to Witnessing, Ethics of Speaking Out”, Nancy Lipton Rosenblum, *Daedalus* (2020)](https://www.amacad.org/publication/introduction-paths-witnessing-ethics-speaking-out)
 
@@ -445,7 +467,7 @@ Further Readings:
 
 - ["Conservatism, the Far Right, and the Environment" by Jesse Callahan Bryant and Justin Farrell in *Annual Review of Sociology*](https://osf.io/preprints/socarxiv/u7c23)
 
-- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
+
 
 <!--
 - [“A Conversation”, Nancy Lipton Rosenblum and Rafe Pomerance, Daedulus Fall 2020](https://www.amacad.org/publication/conversation-rosenblum-pomerance)
@@ -456,7 +478,7 @@ Further Readings:
 
 - [Javeline, Debra, Tracy Kijewski-Correa, and Angela Chesler. 2019. “Does It Matter If You ‘Believe’ in Climate Change? Not for Coastal Home Vulnerability.” Climatic Change 155(4): 511–532.](https://link.springer.com/article/10.1007/s10584-019-02513-7)
 
-- [Garside, Susanna & Haoyu Zhai. 2022. If not now when? Climate disaster and the Green vote following the 2021 Germany Floods, Research & Politics, 9(4).](https://journals.sagepub.com/doi/10.1177/20531680221141523)
+- [Garside, Susanna & Haoyu Zhai. 2022. If not now, when? Climate disaster and the Green vote following the 2021 Germany Floods, Research & Politics, 9(4).](https://journals.sagepub.com/doi/10.1177/20531680221141523)
 
 
 ## Week 4: God and Nature
@@ -600,11 +622,23 @@ Further reading:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-### Tuesday: Great power competition, neo-Malthusian, and ethno-nationalist critique
+### Tuesday: Power and population
+
+Great power competition:
 
 > ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
 
+- ["The case for US cooperation with India on a just transition away from coal" by Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian (Brookings 2021)](https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/)
+
+Neo-Malthusian: 
+
 > ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
+
+> ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
+
+> ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
+
+### Thursday: Immigration and ethno-nationalist critique
 
 > [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
 
@@ -616,21 +650,13 @@ The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.sp
 Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
 :::
 
-### Thursday: Critiques of the neo-Malthusian and ethno-nationalist critiques 
-
-> ["The Tragedy of the Tragedy of the Commons" by Matto Mildernberger in *Scientific American*](https://blogs.scientificamerican.com/voices/the-tragedy-of-the-tragedy-of-the-commons/)
-
-> ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
-
 > [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
 
 > [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
 
-Further reading on great power competition: 
-
-- https://www.brookings.edu/research/the-case-for-us-cooperation-with-india-on-a-just-transition-away-from-coal/
 
 Further reading on climate migration: 
+
 - [Climate Change Will Force a New American Migration - Abrahm Lustgarten, ProPublica](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
 
 
@@ -704,8 +730,9 @@ Electoral institutions:
 
 Further reading: 
 
-- [How Voting Rights and Redistricting Shape Climate Policy
- (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
+- [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
+
+- [How Voting Rights and Redistricting Shape Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/23cc8804/how-voting-rights-and-redistricting-shape-climate-policy)
 
 - [Clean Energy Gatekeepers You’ve Never Heard Of (Political Climate 2023)](https://www.politicalclimatepodcast.com/episodes/episode/2344cfff/clean-energy-gatekeepers-youve-never-heard-of)
 
@@ -735,6 +762,8 @@ Further reading:
 Further reading: 
 
 - [Generation Green New Deal: The Pelosi Sit-In (Political Climate 2020)](https://www.politicalclimatepodcast.com/episodes/episode/22947545/generation-green-new-deal-the-pelosi-sit-in)
+
+- [How climate activists can help get things built: A conversation with Jeff Ordower of 350.org](https://www.volts.wtf/p/how-climate-activists-can-help-get) 🎧 
 
 - [The Real Culprits of Climate Change with Matthew Todd Huber (SSN, 2022)](https://scholars.org/podcast/real-culprits-climate-change)
 

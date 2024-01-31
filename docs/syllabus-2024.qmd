@@ -33,6 +33,8 @@ Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
 
 [Subscribe to the course calendar here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+[Sign up forms here](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+
 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
 
 
@@ -193,9 +195,9 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 - Week 1: Introduce yourself to the class---e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means---feel free to be creative (1%) 
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: Ten op-ed-style headlines (in-class peer workshop) (1%) <!---COULD BE 1--> 
-- Week 4: Five revised headlines + first 200 words - no longer than 2 pages + annotated bibliography (10%)
+- Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) (10%)
 - Week 5: 
-  - Meet with me about your op-ed ideas (part of the previous assignment grade)---[schedule a meeting here](https://calendar.app.google/Ek1aqwyVLRgQ84nD7).
+  - Meet with me about your op-ed ideas---[Sign up here](https://calendar.app.google/xjdkaHSmbzbTLykr9) (part of the previous assignment grade)
   - Civic engagement (1%)
 - At some point during the first half of the semester, pitch one of your critiques to the class. Two students will pitch their ideas each week. This will give you practice testing out your argument and presentation skills (1%)
 
@@ -203,7 +205,7 @@ On all but three weeks, the assignments are incremental steps to one larger assi
 
 ### Craft your critique - 25% of final grade
 
-- Week 6: Three first 400 words + annotated bibliographies  (9%)
+- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies  (9%)
 - Week 7: peer critique of first 400 words  (5%)
 - Week 8: Two revised first 400 words + annotated bibliographies  (10%)
 - Week 9: 
@@ -222,7 +224,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 - Week 11: Peer critique of op-ed  (5%)
 - Week 12: Revised op-ed (10%)
 - Week 13: 
-  - My feedback on op-ed 
+  - My feedback on op-ed.  
   - Civic engagement post (1%)
 - Week 14: Final due (10%)
 
@@ -230,6 +232,11 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 - Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
+- Summarize the discussion questions posed on Canvas for 2 classes (1-3 minutes) 
+- Summarize what we have learned and how we have refined the points of debate at the end of 2 classes (1-3 minutes)
+
+[Sign up to summarize questions or what we learned here.](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+
 
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 

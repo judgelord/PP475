@@ -29,14 +29,12 @@ I will summarize the commitments we  make to one another over the course of the 
 
 The professor commits to support student learning, including by:
 
--
--
--
--
--
--
--
--
+- Giving students feedback on whether they are participating too much or too little
+- Direct the conversation back to the readings that everyone has done to insure conversations are accessible
+- Note when the conversation is going in circles and suggest a new direction
+- Step in if a debate becomes catty or unproductive 
+- Step in to open up conversations that have become limited to a few people
+- Not cold calling unless follow up on an earlier valuable question or statement
 
 <!--Helping students learn how to engage in complex and sometimes sensitive conversations, including encouraging speakers who may be reticent
 Structuring and guiding discussions to facilitate student learning and keep conversations on-topic 
@@ -47,14 +45,14 @@ Welcoming different perspectives and opinions - including those that may be unpo
 
 Students commit to practice active listening and engagement, including by:
 
--
--
--
--
--
--
--
--
+- Trying not to take criticize of ideas personally
+- Listening for understanding, not just to respond
+- Trying not to make assumptions or ascribe ideas to other students
+- Asking for clarification
+- Not interrupting other students
+- Striving for equal time and to not dominate conversations
+- Keep disagreements in class and not discuss what other students said outside of class
+- Striving to accurately portray others' arguments 
 
 <!--
 Arriving to class prepared and on time, having done the readings and ready to discuss them

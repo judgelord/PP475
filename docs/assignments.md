@@ -58,7 +58,7 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 > [The Pope’s Journey to Climate Outrage](https://www.nytimes.com/2023/10/11/opinion/the-popes-journey-to-climate-outrage.html) by David Wallace-Wells via [proquest](https://www.proquest.com/docview/2875467846/E16DE7745E4B4754PQ)
 
-- [Georgia’s Unique Runoff System, a Product of Institutional Racism by Shaher Zakaria](https://mjpa.umich.edu/2021/01/14/georgias-unique-runoff-system-a-product-of-institutional-racism/)
+> [Georgia’s Unique Runoff System, a Product of Institutional Racism by Shaher Zakaria](https://mjpa.umich.edu/2021/01/14/georgias-unique-runoff-system-a-product-of-institutional-racism/)
 
 > [The Patent System is Failing to Promote Pharmaceutical Innovation by Christina Del Grec](https://mjpa.umich.edu/2021/12/01/the-patent-system-is-failing-to-promote-pharmaceutical-innovation/)
 

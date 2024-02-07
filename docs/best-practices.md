@@ -4,7 +4,7 @@ PP275 - Spring 2024
 
 (adapted from an exercise developed by Shobita Parthasarathy and from [Safe Spaces to Brave Spaces by Brian Arao and Kristi Clemens](https://www.anselm.edu/sites/default/files/Documents/Center%20for%20Teaching%20Excellence/From%20Safe%20Spaces%20to%20Brave%20Spaces.pdf) )
 
-Navigating a discussion-based course about politics can be challenging. People have strong opinions about politics. Some may have significant expertise in particular areas, and sometimes, even those same people can feel overwhelmed in other conversations. My goal in this course is to provide you with conceptual tools, critical thinking skills, and models to help you better understand and participate in politics and policymaking. This will be most effective if we can create a “brave space” that allows each of you to participate “fully and truthfully”, take risks, and listen to and be empathetic toward one another. 
+Navigating a discussion-based course about politics can be challenging. People have strong opinions about politics. Some may have expertise in particular areas, and sometimes, even those same people can feel overwhelmed in other conversations. My goal in this course is to provide you with conceptual tools, critical thinking skills, and models to help you better understand and participate in politics and policymaking. This will be most effective if we can create a “brave space” that allows each of you to participate “fully and truthfully”, take risks, and listen to and be empathetic toward one another. 
 
 To facilitate a productive seminar, we will start by thinking critically about the benefits and limitations of political civility and developing best practices for the semester. 
 
@@ -29,12 +29,18 @@ I will summarize the commitments we  make to one another over the course of the 
 
 The professor commits to support student learning, including by:
 
+>
 - Giving students feedback on whether they are participating too much or too little
-- Direct the conversation back to the readings that everyone has done to insure conversations are accessible
+- Letting students know how their participation could be improved
+- Direct the conversation back to the readings that everyone has done to ensure conversations are accessible
 - Note when the conversation is going in circles and suggest a new direction
+- Adding context when necessary
+- Step in to fill awkward silences and keep the conversation moving
 - Step in if a debate becomes catty or unproductive 
 - Step in to open up conversations that have become limited to a few people
+- Step in to maintain a respectful conversation
 - Not cold calling unless follow up on an earlier valuable question or statement
+- Treating students with respect and not being condescending  
 
 <!--Helping students learn how to engage in complex and sometimes sensitive conversations, including encouraging speakers who may be reticent
 Structuring and guiding discussions to facilitate student learning and keep conversations on-topic 
@@ -45,14 +51,22 @@ Welcoming different perspectives and opinions - including those that may be unpo
 
 Students commit to practice active listening and engagement, including by:
 
-- Trying not to take criticize of ideas personally
+>
+- Arriving to class prepared, having done the readings and ready to discuss them
+- Trying not to repeat with others have said
+- Engaging with ideas, not personal attacks
+ -Trying not to take criticism of ideas personally
 - Listening for understanding, not just to respond
-- Trying not to make assumptions or ascribe ideas to other students
-- Asking for clarification
-- Not interrupting other students
+- Trying not to make assumptions or ascribe ideas to other students if they were not clearly stated
+- Asking clarifying questions when necessary 
+- Not interrupting others
 - Striving for equal time and to not dominate conversations
+- Trying to add to the conversation rather than repeating others
 - Keep disagreements in class and not discuss what other students said outside of class
 - Striving to accurately portray others' arguments 
+- Trying to keep an open perspective
+- Understanding that others will disagree and that is OK
+- Be aware that students have different backgrounds
 
 <!--
 Arriving to class prepared and on time, having done the readings and ready to discuss them
@@ -60,6 +74,7 @@ Asking clarifying questions when necessary - including as a way to avoid misunde
 Turning off distractions, particularly if note-taking using a laptop
 Practicing patience (e.g., allowing people time to respond)
 Listening with the intention of understanding the speaker’s comment and perspective rather than solely offering a response 
+
 Students commit to cultivating a respectful classroom environment, including by: 
 Interrogating how your own social location, identity, and privilege influences your decisions to participate or not participate in a conversation. Interrogate how others may not get the privilege to make that choice. 
 Privileging legibility to one another (that means using plain language when possible and speaking loudly and clearly). Create space for others to ask questions when they don’t understand a particular topic, acronym, etc. 
@@ -74,14 +89,11 @@ Practicing self-awareness in terms of participation: knowing when to add your vo
 
 To maintain successful and respectful relationships between students and the professor:
 
--
--
--
--
--
--
--
--
+>
+- Students will respect deadlines 
+- The professor will attempt to clarify the expectations
+- Students and the professor will be honest with each other
+- Students and the professor will ask clarifying questions
 
 <!--
 Students will communicate requests for possible accommodations as soon as they can

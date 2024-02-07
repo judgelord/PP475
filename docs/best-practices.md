@@ -4,13 +4,13 @@ PP275 - Spring 2024
 
 (adapted from an exercise developed by Shobita Parthasarathy and from [Safe Spaces to Brave Spaces by Brian Arao and Kristi Clemens](https://www.anselm.edu/sites/default/files/Documents/Center%20for%20Teaching%20Excellence/From%20Safe%20Spaces%20to%20Brave%20Spaces.pdf) )
 
-Navigating a discussion-based course about politics can be challenging. People have strong opinions about politics. Some may have expertise in particular areas, and sometimes, even those same people can feel overwhelmed in other conversations. My goal in this course is to provide you with conceptual tools, critical thinking skills, and models to help you better understand and participate in politics and policymaking. This will be most effective if we can create a “brave space” that allows each of you to participate “fully and truthfully”, take risks, and listen to and be empathetic toward one another. 
+Navigating a discussion-based course about politics can be challenging. People have strong opinions about politics. Some may have expertise in particular areas; sometimes, even those same people can feel overwhelmed in other conversations. My goal in this course is to provide you with conceptual tools, critical thinking skills, and models to help you better understand and participate in politics and policymaking. This will be most effective if we can create a “brave space” that allows each of you to participate “fully and truthfully”, take risks, and listen to and be empathetic toward one another. 
 
 To facilitate a productive seminar, we will start by thinking critically about the benefits and limitations of political civility and developing best practices for the semester. 
 
 - What have your most positive classroom experiences been (especially for discussion-based courses)? What made those experiences so positive, and how might that be recreated elsewhere?
 
-- Think of a negative classroom experience you have had. What might the instructor, other students, and you have done differently to make it better?
+- Think of a negative classroom experience you have had. What might the instructor, other students, and you have done differently to improve it?
 
 - What worries you most about managing the course this term? Do you have ideas on how we might manage them?
   
@@ -21,11 +21,11 @@ To facilitate a productive seminar, we will start by thinking critically about t
 
 Brian Arao and Kristi Clemens suggest: 
 
-> “We argue that authentic learning about social justice often requires the very qualities of risk, difficulty, and controversy that are defined as incompatible with safety. These kinds of challenges are particularly unavoidable in participant groups composed of target and agent group members. In such settings, target and agent group members take risks by participating fully and truthfully, though these risks differ substantially by group membership and which identities hold the most salience for a given participant at a given time.” 
+> “We argue that authentic learning about social justice often requires the very qualities of risk, difficulty, and controversy that are defined as incompatible with safety. These challenges are particularly unavoidable in participant groups composed of target and agent group members. In such settings, target and agent group members take risks by participating fully and truthfully, though these risks differ substantially by group membership and which identities hold the most salience for a given participant at a given time.” 
 
 We aim towards civility but also understand that civility has its limitations and can sometimes prevent honesty and true expressions of emotion and responsibility. Civility is also easier to achieve from a position of privilege. Nevertheless, I see that as a potentially productive tension, one which may help us all learn more as the semester progresses. 
 
-I will summarize the commitments we  make to one another over the course of the semester based on our class discussion: 
+## Here is my summary of the commitments we have made to one another based on our class discussion: 
 
 The professor commits to support student learning, including by:
 
@@ -73,7 +73,7 @@ Arriving to class prepared and on time, having done the readings and ready to di
 Asking clarifying questions when necessary - including as a way to avoid misunderstandings or incorrect assumptions of another’s statement 
 Turning off distractions, particularly if note-taking using a laptop
 Practicing patience (e.g., allowing people time to respond)
-Listening with the intention of understanding the speaker’s comment and perspective rather than solely offering a response 
+Listening to understand the speaker’s comment and perspective rather than solely offering a response 
 
 Students commit to cultivating a respectful classroom environment, including by: 
 Interrogating how your own social location, identity, and privilege influences your decisions to participate or not participate in a conversation. Interrogate how others may not get the privilege to make that choice. 

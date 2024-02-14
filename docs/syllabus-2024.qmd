@@ -150,6 +150,10 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
+## How to write and op-ed 
+
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
 
 ## Example op-eds
 
@@ -282,7 +286,7 @@ We will read smaller portions of the following books, which will be available on
 
 - [*Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming* by Oreskes & Conway (2011, Bloomsbury Publishing)](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/)
 
-- [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)](https://www.simonandschuster.com/books/Charleston/Susan-Crawford/9781639363575)  --- available on reserve, $19 new
+- [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (2023, Simon & Schuster)](https://www.simonandschuster.com/books/Charleston/Susan-Crawford/9781639363575) 
 
 
 Other books you may find useful: 
@@ -290,7 +294,7 @@ Other books you may find useful:
 - *Politics is for Power* by Eitan Hersh
 - *Governing the Commons: The evolution of institutions for collective action. Cambridge University Press.* by Elinor Ostrom. Available electronically through the library!
 - *Uncertain Futures: How to Unlock the Climate Impasse* by Alexander Gazmararian and Dustin Tingley. Cambridge University Press
-- *Rules for Radicals* by Saul Alinsky
+<!-- *Rules for Radicals* by Saul Alinsky-->
 - *Policy Paradox:  The Art of Political Decision Making* by Deborah Stone
   - Scans of the following chapters from an older edition: [1](https://www.cide.edu/wp-content/uploads/2020/10/Stone-Deborah-POLICY-PARADOX.pdf), [all](https://ebooks.aiu.ac.ke/show/975/pdf)
 
@@ -312,6 +316,15 @@ If you are looking for more foundation in how government works, the Ford School 
 `(Canvas)` means that the reading is in the "/Files/Reading" folder on Canvas.
 
 There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
+
+There are some questions we will ask of every reading: 
+
+- What is the author's argument? 
+- What do you think about it? 
+- Does it apply elsewhere? 
+- What does it imply for what we should do? 
+
+Come to class ready to answer these questions. 
 
 ## Week 1: Hope 
 
@@ -581,6 +594,8 @@ Further Reading:
 - [Engineering Earth’s Climate?](https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/) 🎥
 
 - [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation) 🎧 
+
+- Michael B. Gerrard, Introduction and Overview, in Climate Engineering and the Law: Regulation and Liability for Solar Radiation Management and Carbon Dioxide Removal (Gerrard & Hester, eds. 2019)
 
 - Chapter 5, *Ethics and Politics* in *A Case for Climate Engineering* by David Keith `(Canvas)`
 

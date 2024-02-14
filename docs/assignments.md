@@ -42,6 +42,8 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 # Resouces 
 
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
 
 
 ## Example op-eds

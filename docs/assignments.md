@@ -64,9 +64,56 @@ Through additional rounds of revision, you will further hone one of your critiqu
 
 > [The Patent System is Failing to Promote Pharmaceutical Innovation by Christina Del Grec](https://mjpa.umich.edu/2021/12/01/the-patent-system-is-failing-to-promote-pharmaceutical-innovation/)
 
+> [Here Is What Is Really Strangling the Energy Transition](https://www.nytimes.com/2022/12/16/opinion/solar-wind-electricity.html)
+
+> [The Way to Slow Climate Change Is as Close as Your City Hall or School Board](https://www.nytimes.com/2022/08/26/opinion/climate-change-political-action.html)
+
+> [What Will Happen to Your Next Home if Builders Get Their Way? A lobby is trying to block codes that save homeowners money and fight climate change.](https://www.nytimes.com/2021/01/21/opinion/homes-climate-change-building-codes-biden.html)
+
+> [When Utility Money Talks: Corruption scandals in Ohio and Illinois reveal an unsavory underside to the politics of energy.](https://www.nytimes.com/2020/08/02/opinion/utility-corruption-energy.html)
+
+> 
+
+
 And here's a piece by two climate activists trying to influence policy:
 
 > [Will Lawmakers Sacrifice Our Health and Safety to Get a Debt Ceiling Deal?](https://www.nytimes.com/2023/05/26/opinion/debt-ceiling-clean-energy-oil-gas-environmental-justice.html) via [proquest]
 
 
+<!--NOTES 
 
+Overall, good work on the revision.
+A few things to keep working on: 
+- justification for "should" statements (a campaign promise is good, but can we go deeper, perhaps to arguments rooted in history or moral philosophy that people have not encountered before? Or perhaps put what you are calling attention to in the context of things that people think matter ---i.e., if you think x matters, then you must believe that y matters even more.)
+- relatedly, responses to critics
+- specificity (the BLM gigawatt goal is good; what else? "awareness" is still vague. ). Research will help.
+- lead with the conflict rather than background facts. foreground your most controversial opinion
+---> 
+
+
+# Peer reviews 
+
+My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
+
+This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great) as well as some notes or markup of their writing. Writing can always be improved. 
+
+### How to submit your review
+
+You can use the markup features on Canvas as you read. Your written critique should be then uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas.) 
+
+Please let me know if you have any questions. Giving helpful critique is a nuanced art, and I am happy to talk it through with you. 
+
+### Tips on peer reviews
+
+- Before you even make your first comment, read the document all the way through.
+- Make sure you leave enough time for you to read through, respond, and for your peer to edit his/her document with your comments before any deadlines.
+- If you are provided with a feedback form to fill out and something is unclear, do not ignore the item but ask the instructor for clarification.
+- Point out the strengths as well as the weaknesses of the document.
+- Offer suggestions, not commands.
+- Editorial comments should be appropriate and constructive. There is no need to be rude. Be respectful and considerate of the writer's feelings.
+- Be sure that your comments are clear and text-specific so that your peer will know what you are referring to (for example, terms such as "unclear" or "vague" are too general to be helpful).
+- As a reader, raise questions that cross your mind, points that may have not occurred to your peer author.
+- Try not to overwhelm your peer with too much commentary. Follow the feedback form and the issues you are supposed to address.
+- Be careful not to let your own opinions bias your review (for example, don't suggest that your peer completely rewrite the paper just because you don't agree with his/her point of view).
+- Reread your comments before passing them on to your peer. Make sure all your comments make sense and are easy to follow.
+Avoid turning your peer's paper into your paper.

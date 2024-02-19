@@ -105,6 +105,8 @@ Please let me know if you have any questions. Giving helpful critique is a nuanc
 
 ### Tips on peer reviews
 
+From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.html): 
+
 - Before you even make your first comment, read the document all the way through.
 - Make sure you leave enough time for you to read through, respond, and for your peer to edit his/her document with your comments before any deadlines.
 - If you are provided with a feedback form to fill out and something is unclear, do not ignore the item but ask the instructor for clarification.

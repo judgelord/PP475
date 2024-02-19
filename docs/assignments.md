@@ -11,6 +11,8 @@ Critiquing those with whom we severely disagree is easy, but they are also the l
 
 In the first third of the class, you develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
 
+Include a word count between the title and essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
+
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: Ten op-ed-style headlines
 - Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
@@ -26,7 +28,11 @@ I recommend using footnotes or end notes for annotated bibliographies to make it
 
 ## Craft your critique 
 
-In the middle third of the semester, you will narrow your focus to three ideas and then two ideas and write the first half of each through multiple rounds of revision.
+In the middle third of the semester, you will narrow your focus to three ideas and then two ideas and write the first half of each through multiple rounds of revision. 
+
+I expect the annotated bibliographies to grow significantly as your respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+
+As above, include a word count between the title and essay.
 
 - Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies
 - Week 8: Two revised first 400 words + annotated bibliographies  
@@ -35,6 +41,8 @@ In the middle third of the semester, you will narrow your focus to three ideas a
 ## Hone your critique 
 
 Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (writing can always be improved). I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+
+Again, I expect your annotated bibliography to grow significantly as your respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
 - Week 10: One 750-800 word op-ed + annotated bibliography
 - Week 12: Revised op-ed  + annotated bibliography

@@ -26,9 +26,8 @@ The only lasting truth is Change. <br> - Octavia E. Butler
 
 <!--https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html-->
 
-
+This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
-
 Tuesdays and Thursdays 2:30–3:50 a.m., 1210 Weill Hall
 
 Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
@@ -37,21 +36,20 @@ Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
 
 Links: 
 
-- [Best practices for our classroom environment ](https://judgelord.github.io/PP475/best-practices)
+- 🏛️ [Best practices for our classroom environment ](https://judgelord.github.io/PP475/best-practices)
 
-- [Assignment guide](https://judgelord.github.io/PP475/assignments)
+- 🪶 [Assignment guide](https://judgelord.github.io/PP475/assignments)
 
-- [Glossary](https://judgelord.github.io/PP475/glossary)
+-  📖 [Glossary](https://judgelord.github.io/PP475/glossary)
 
-- Subscribe to the course calendar [here   📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- Subscribe to the course calendar [here    📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-- Sign up for discussion opening, closing remarks, and paper meetings [here](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+- Sign up for discussion opening, closing remarks, and paper meetings [here 📅](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.qmd). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
 
 
 
-This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
 
 # 🗺️  Objectives

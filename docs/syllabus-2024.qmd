@@ -16,8 +16,8 @@ execute:
 ---
 
 
-> All that you touch You Change. <br>
-All that you Change, Changes you. <br>
+> All that you touch, You Change. <br>
+All that you Change Changes you. <br>
 The only lasting truth is Change. <br> - Octavia E. Butler
 
 
@@ -156,7 +156,7 @@ Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each,
 
 > <mark>**All assignments are to be submitted on Canvas.** </mark>
 
-## How to write and op-ed 
+## How to write an op-ed 
 
 - [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
 - [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
@@ -238,7 +238,7 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 - Week 11: Peer critique of op-ed  (5%)
 - Week 12: Revised op-ed (10%)
 - Week 13: 
-  - My feedback on op-ed.  
+  - My feedback on your op-ed.  
   - Civic engagement post (1%)
 - Week 14: Final due (10%)
 
@@ -246,8 +246,8 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 
 - Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
-- Summarize the discussion questions posed on Canvas for 2 classes (1-3 minutes) 
-- Summarize what we have learned and how we have refined the points of debate at the end of 2 classes (1-3 minutes)
+- Summarize the discussion questions posed on Canvas for two classes (1-3 minutes) 
+- Summarize what we have learned and how we have refined the points of debate at the end of two classes (1-3 minutes)
 
 [Sign up to summarize questions or what we learned here.](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
@@ -317,9 +317,13 @@ If you are looking for more foundation in how government works, the Ford School 
 
 # 📖 Reading by Week
 
-🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. 
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
 
-`(Canvas)` means that the reading is in the "/Files/Reading" folder on Canvas.
+If you hit a paywall on a link from the syllabus:
+
+1. Look to see if it says `(Canvas)` next to it. These readings should be in the "files/readings" folder on Canvas. If they are not, please let me know ASAP.  
+2. Make sure that you are logged in to get library access to journals. You can also search for the journal on the library website.   
+3. If 1 & 2 don't work, please let me know ASAP so that I can make sure you all have access. Sometimes, paywalls don't pop up for me because of some cached credentials, and I don't realize that the content is paywalled. You should not have to pay for any of the online content for this course. 
 
 There are many "further" readings, and some required readings (especially the longer academic articles) say "skim." Here is advice on [how to read political science from Amelia Hoover Green](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) and [how to skim from Jessica Calarco](https://www.jessicacalarco.com/tips-tricks/2018/9/2/beyond-the-abstract-reading-for-meaning-in-academia).
 
@@ -358,6 +362,8 @@ Further reading:
 > "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
 
 ### Tuesday: The State of US Climate Policy: 
+
+Note: This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
 
 >  [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
@@ -492,8 +498,7 @@ for climate politics. British Journal of Political Science 49(4), 1279–1307.
 
 <!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
 
-Jasny, L., J. Waggle, and D. R. Fisher (2015). An empirical examination of echo chambers in us climate policy
-networks. Nature Climate Change 5(8), 782–786.
+Jasny, L., J. Waggle, and D. R. Fisher (2015). An empirical examination of echo chambers in us climate policy networks. Nature Climate Change 5(8), 782–786.
 
 The People Think What I Think: False Consensus and Unelected Elite
 Misperception of Public Opinion
@@ -530,6 +535,8 @@ https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d
 
 
 ## Week 4: God and Nature
+
+> "The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke's insistence that "God wants us to do something" and that nature revealed the intended tasks...And for the Romantics who created the Sierra Club, nature's beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there---and look." (Purdy, p. 199)
 
 The religious, colonial, and mystic foundations of Western environmental law and politics: 
 
@@ -584,6 +591,8 @@ Further reading:
 
 ## Week 6: Utilitarianism and Technology
 
+> "For the conservationists of the Progressive ers, managing nature required a combination of civic spirit and administrative expertise." (Purdy, p. 199) 
+
 - How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
 - What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
 
@@ -627,6 +636,12 @@ Further Reading:
 
 ## Week 7: Ecological Critique
 
+> "The Wilderness Society is, philosophically, a disclaimer of the biotic arrogance of *homo americanus*." (Leopold, cited in Purdy, p. 192)
+
+> "It is a curious feature of environmental politics...that its rhetorical fidelity to the past can trick an observer into overlooking how innovative it is...In this respect, environmental politics resembles many religious traditions and the constitutional politics of the United States." (Purdy, p. 194) 
+
+> "Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age." (Purdy, p. 227)
+
 ### Tuesday
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
@@ -640,6 +655,8 @@ Further reading:
 - [Rachel Carson’s Warning on D.D.T. Ignited an Environmental Movement](https://retroreport.org/video/rachel-carsons-warning-on-ddt-ignited-an-environmental-movement/)
 
 - *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
+
+<!-- add degrowth critique here?  --> 
 
 ## --- SPRING BREAK ---
 
@@ -927,7 +944,7 @@ Learning Objectives
 
 Further reading:
 
-- [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund, on the need for central planning to cope with the climate crisis (FT article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
+- [Report](https://www.academieroyale.be/Academie/documents/Opinio_SFPI_numerique31253.pdf) by Max Krahé for the Belgian sovereign wealth fund on the need for central planning to cope with the climate crisis (FT article [here](https://www.ft.com/content/54237547-4e83-471c-8dd1-8a8dcebc0382), Behind the News interview at minute 39 [here](https://kpfa.org/player/?audio=361749))  🎧 
 
 - Sommer, L. (2020, August 6). Why Sprawl Could Be The Next Big Climate Change Battle. NPR. https://www.npr.org/2020/08/06/812199726/why-sprawl-could-be-the-next-big-climate-change-battle
 

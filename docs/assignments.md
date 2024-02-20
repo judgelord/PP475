@@ -4,14 +4,14 @@ The main assignments for this class all build to one highly-polished op-ed criti
 
 These assignments are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
-Critiquing those with whom we severely disagree is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
+Critiquing those we severely disagree with is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
 
 ## Find your voice
 
 In the first third of the class, you develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
 
-Include a word count between the title and essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
+Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
 
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: Ten op-ed-style headlines
@@ -30,19 +30,22 @@ I recommend using footnotes or end notes for annotated bibliographies to make it
 
 In the middle third of the semester, you will narrow your focus to three ideas and then two ideas and write the first half of each through multiple rounds of revision. 
 
-I expect the annotated bibliographies to grow significantly as your respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+I expect the annotated bibliographies to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
-As above, include a word count between the title and essay.
+As above, include a word count between the title and the essay.
 
 - Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies
 - Week 8: Two revised first 400 words + annotated bibliographies  
+
+
+
 
 
 ## Hone your critique 
 
 Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (writing can always be improved). I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 
-Again, I expect your annotated bibliography to grow significantly as your respond to critiques, bolster your argument, and respond to possible counter-arguments. 
+Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
 - Week 10: One 750-800 word op-ed + annotated bibliography
 - Week 12: Revised op-ed  + annotated bibliography
@@ -91,25 +94,47 @@ And here's a piece by two climate activists trying to influence policy:
 <!--NOTES 
 
 Overall, good work on the revision.
-A few things to keep working on: 
+
+Here are a few things to keep working on: 
 - justification for "should" statements (a campaign promise is good, but can we go deeper, perhaps to arguments rooted in history or moral philosophy that people have not encountered before? Or perhaps put what you are calling attention to in the context of things that people think matter ---i.e., if you think x matters, then you must believe that y matters even more.)
 - relatedly, responses to critics
 - specificity (the BLM gigawatt goal is good; what else? "awareness" is still vague. ). Research will help.
-- lead with the conflict rather than background facts. foreground your most controversial opinion
+- lead with the conflict rather than background facts. Foreground your most controversial opinion
 ---> 
+
+
+# Presentations
+
+While the main focus of this class is persuasive writing, there is a small related assignment to give a short (2-3-minute) presentation. 
+
+The presentation assignment gives you practice testing out your argument and presentation skills. This is an opportunity to get quick feedback from the class. I also find that I am able to arrive at more elegant ways to say things when I say them out loud. It engages different parts of the brain and is a great way to workshop ideas.
+
+This is intended to be a **low-stakes practice** oral presentation. It is ungraded: I award points just for doing it. 
+
+It is also intended as an opportunity to get constructive feedback on your line of critique and how you are pitching it. 
+
+I hope you will find it valuable enough that you will want to do it again, but you are only required to do it once. 
+
+We will do up to 2 pitches per day. While you are welcome to do more than one, the first priority goes to those practicing for the first time. 
+
+I've noticed a tendency for some presenters to offer a lot of preface and explanation before going into the heart of their pitch. I think you are better off without it. 
+
+You want feedback on the pitch itself, including on how compelling the hook is (i.e., how you are getting people's attention and why people should care) and the clarity of your BLUF (Bottom Line Up Front, i.e., the clarity of your thesis statement/argument).  
+
+Thus, when you get up to present, I would just launch right in and grab people's attention (unless you are thinking about pitching it to a paper with a different audience than the NYT, in which case that is helpful context.)
 
 
 # Peer reviews 
 
 My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
-This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great) as well as some notes or markup of their writing. Writing can always be improved. 
+This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), as well as some notes or markup of their writing. Writing can always be improved. 
 
 ### How to submit your review
 
-You can use the markup features on Canvas as you read. Your written critique should be then uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas.) 
+You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas.) 
 
-Please let me know if you have any questions. Giving helpful critique is a nuanced art, and I am happy to talk it through with you. 
+Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
 
 ### Tips on peer reviews
 

@@ -1,5 +1,13 @@
-# Assignment guide
+---
+title: Assignment guide
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+---
 
+# The Main Assignment: Revise, Revise, Revise
+    
 The main assignments for this class all build to one highly-polished op-ed critiquing how an organization or group of organizations is addressing or failing to address climate change. 
 
 These assignments are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
@@ -7,7 +15,7 @@ These assignments are motivated by the observation that politics is fundamentall
 Critiquing those we severely disagree with is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
 
-## Find your voice
+### Find your voice
 
 In the first third of the class, you develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
 
@@ -26,7 +34,7 @@ An annotated bibliography means two things:
 I recommend using footnotes or end notes for annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications. 
 
 
-## Craft your critique 
+### Craft your critique 
 
 In the middle third of the semester, you will narrow your focus to three ideas and then two ideas and write the first half of each through multiple rounds of revision. 
 
@@ -41,9 +49,9 @@ As above, include a word count between the title and the essay.
 
 
 
-## Hone your critique 
+### Hone your critique 
 
-Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (writing can always be improved). I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+Through additional rounds of revision, you will further hone one of your critiques, improving your logic and writing (writing can always be improved). 
 
 Again, I expect your annotated bibliography to grow significantly as you respond to critiques, bolster your argument, and respond to possible counter-arguments. 
 
@@ -51,10 +59,60 @@ Again, I expect your annotated bibliography to grow significantly as you respond
 - Week 12: Revised op-ed  + annotated bibliography
 - Week 14: Final op-ed + annotated bibliography
 
+# Assessment 
+
+Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+
+
 # Resouces 
+
+## Best Practices
 
 - [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
 - [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
+
+While I concluded that rubrics that other instructors use for op-eds are unworkable *as rubrics*, you may still find helpful guidance in them. There are many on the internet. Here is some of the guidance that is commonly used to assess op-ed assignments: 
+
+## Guidance 
+
+Thesis/purpose/genre:
+
+- There is a clearly stated opinion toward the beginning of the article, which continues throughout.
+- Conveys a strong, clear thesis/message to the reader that is appropriate for an op-ed and reflects the actual argument
+- Has the characteristics of an op-ed as shown in the sample op-eds
+- Supports the opinion with reasons that include details connected to the opinion
+
+[Lede](https://keybridgecommunications.com/whats-lede-2/) 
+
+- Lede brings the reader into the story
+
+Organization/focus:
+
+- The essay is well organized overall. Individual paragraphs are well-focused and relate to your thesis/message
+- Argument is easy to follow: clear claims/points, helpful reader “signposts” (including transitions), logical train of thought, and a clear distinction between your own & sources’ ideas
+- Contains logical reasons for the stated opinion
+- Reasons are written to convince the appropriate audience
+- Contains examples of rhetorical devices, logical/emotional language, and action words
+
+Sources, context, & evidence:
+
+- You've supported your argument with enough evidence. This material is also well chosen and clearly explained, enough for readers to understand 
+- The op-ed contains all necessary background information, but not more than necessary
+- Any quotations are well chosen (relevant & meaningful)
+- Any personal examples and observations are not too long and very relevant to your larger thesis/message
+
+Analysis:
+
+- Analysis is thoughtful, specific, and based on relevant evidence. You’ve explained ideas & connections
+- Avoid vague and repetition
+
+Sentence editing, flow, and citations:
+
+- Clear sentences & correct grammar, language use, punctuation, format, etc.
+- Good sentence variety, flow, style, and tone (appropriate for an op-ed but not overly informal)
+- Cites quotes and/or ideas from sources correctly
+
+The best guidance I have heard from prolific op-ed writers is to **read a lot of op-eds and think about why they work or don't work.** Again, there are many ways to be persuasive, and the task here is to find your voice and workshop your writing. 
 
 
 ## Example op-eds
@@ -151,4 +209,4 @@ From [Pedagogy in Action](https://serc.carleton.edu/sp/library/peerreview/tips.h
 - Try not to overwhelm your peer with too much commentary. Follow the feedback form and the issues you are supposed to address.
 - Be careful not to let your own opinions bias your review (for example, don't suggest that your peer completely rewrite the paper just because you don't agree with his/her point of view).
 - Reread your comments before passing them on to your peer. Make sure all your comments make sense and are easy to follow.
-Avoid turning your peer's paper into your paper.
+- Avoid turning your peer's paper into your paper.

@@ -22,7 +22,7 @@ In the first third of the class, you develop five op-ed ideas and attempt to wri
 Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
 
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- Week 3: Ten op-ed-style headlines
+- Week 3: Ten op-ed-style headlines **critiquing one or more of the above organizations**
 - Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
 
 An annotated bibliography means two things: 

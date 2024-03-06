@@ -16,17 +16,17 @@ execute:
 ---
 
 
-> All that you touch, You Change. <br>
+> "All that you touch, You Change. <br>
 All that you Change Changes you. <br>
-The only lasting truth is Change. <br> - Octavia E. Butler
+The only lasting truth is Change." <br> - Octavia E. Butler
 
 
 
-> “We live in a big science fiction novel we are all writing together” - Kim Stanley Robinson
+> “We live in a big science fiction novel we are all writing together” <br> - Kim Stanley Robinson
 
 <!--https://www.nytimes.com/2022/05/11/books/kim-stanley-robinson-sci-fi.html-->
 
-This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes or exams. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
+This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
 Tuesdays and Thursdays 2:30–3:50 a.m., 1210 Weill Hall
 
@@ -36,17 +36,17 @@ Office hours: Wednesdays 3–4 p.m., 3215 Weill Hall
 
 Links to course resources: 
 
-- 🏛️ [Best practices for our classroom environment ](https://judgelord.github.io/PP475/best-practices)
+- 🏛️ [Best practices for our classroom environment](best-practices)
 
-- 🪶 [Assignment guide](https://judgelord.github.io/PP475/assignments)
+- 🪶 [Assignment guide](assignments)
 
--  📖 [Glossary](https://judgelord.github.io/PP475/glossary)
+-  📖 [Glossary](glossary)
 
 - Subscribe to the course calendar [here    📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 - Sign up for discussion opening, closing remarks, and paper meetings [here 📅](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
-Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html). The current version is [here](https://judgelord.github.io/PP475/syllabus-2024.html).
+Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html). The current version is [here](syllabus-2024.html).
 
 <!--
 This course advanced my understanding of the subject matter. Q1631*
@@ -161,7 +161,7 @@ I reserve the right to discuss your papers in length with you if I have concerns
 
 # 🪶 Assignments 
 
-Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](https://judgelord.github.io/PP475/assignments). 
+Credit hours will be earned by attending two classes of $1.3\bar{3}$ hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization's approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the [assignment guide](assignments). 
 
 
 On all but three weeks, the assignments are incremental steps to your final op-ed. On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might [Comment on a proposed federal agency policy](https://www.regulations.gov/), [Comment on a proposed state agency policy](https://ars.apps.lara.state.mi.us/) (sort by Filing Date to see pending rules), Recommend a course of action to one of [your elected representatives](https://www.usa.gov/elected-officials) )  
@@ -181,6 +181,9 @@ Alternatively, on week 9, you may write a reflection on how you carry with you d
 > [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by the NYT Editorial Board via [proquest](https://www.proquest.com/news/docview/2788890406/96ABFB8014664952PQ)
 
 > [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)  by Jeff Colgan via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
+
+> [Is Ecofeminism the Answer to the Climate Crisis?](https://www.bentley.edu/news/ecofeminism-answer-climate-crisis) 
+
 
 > [The Climate Solution That’s Horrible for the Climate](https://www.nytimes.com/2023/06/06/opinion/climate-change-biofuels-corn-ethanol.html) via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
 
@@ -710,13 +713,27 @@ Further reading:
 - ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
 
 
-### Thursday: Eco-feminist Critique
+### Thursday: Ecofeminist Critique
+
+Background on ecofeminism:
+
+- ["Ecofeminism explains how patriarchy has contributed to the climate crisis" by Leah Thomas](https://www.teenvogue.com/story/intersectional-environmentalist-ecofeminism)
+
+Policy implications of valuing care work:
 
 > ["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) or ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
 
 <!--
 > More TBD (including selections from *All We Can Save*)
 --> 
+
+Further reading:
+
+- [4 Climate Activists Explain Why the Climate-Justice Movement Needs Feminism](https://www.teenvogue.com/story/climate-activists-explain-why-climate-justice-movement-needs-feminism)
+
+A marketing professor critiquing the War Mobilization rhetoric around climate change: 
+
+- [Is Ecofeminism the Answer to the Climate Crisis?](https://www.bentley.edu/news/ecofeminism-answer-climate-crisis) (This is also a pretty good model for an op-ed critiquing rhetoric)
 
 
 ## Week 9: Nationalist Critique

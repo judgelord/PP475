@@ -54,8 +54,8 @@ My interest in the subject has increased because of this course. Q1632
 I knew what was expected of me in this course. Q1633
 I had a strong desire to take this course. Q4
 As compared with other courses of equal credit, the workload for this course was (Much Lighter, Lighter, Typical, Heavier, Much Heavier). Q891
-The instructor seemed well prepared for class meetings. Q230
-The instructor explained material clearly. Q199
+The instructor seemed well-prepared for class meetings. Q230
+The instructor explained the material clearly. Q199
 The instructor treated students with respect. Q217
 --> 
 
@@ -209,7 +209,7 @@ And here's a piece by two climate activists trying to influence policy:
 > <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
 
 ::: {.callout-important}
-There is an incremental assignment building to your final op-ed due almost **every Tuesday**. 
+There is an incremental assignment building to your final op-ed, due almost **every Tuesday**. 
 :::
 
 
@@ -678,7 +678,7 @@ Further Reading:
 
 ### Thursday
 
-> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not intersted in humanist vs. post-humanist debates (e.g., animal rights)
+> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
 
 Further reading: 
 
@@ -697,13 +697,13 @@ Further reading:
 ### Tuesday: Indigenous Critique
 
 - What is the indigenous critique? 
- - In context of renewable energy siting? 
+ - In the context of renewable energy siting? 
  - In the context of adaptation?
  - In the context of greenhouse gas emissions? 
 - Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
 - "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
- - What are the implications of expanding or shrinking indigenous-governance for addressing climate change? 
- - Conversely, what are the implications of various climate policy for indigenous-governance?
+ - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+ - Conversely, what are the implications of various climate policies for indigenous governance?
 
 
 > [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
@@ -724,10 +724,10 @@ Further reading:
 
 ### Thursday: Ecofeminist Critique
 
-> "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free....As with Wages for Housework, in which the concrete demand for payment actaed as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphore." (Battistoni, *Alive in the Sunshine*)
+> "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
 
 - What is the ecofeminist critique? Specifically, what is the argument about reproductive work? What are the implications of this argument for climate policy? 
-- In "A Green New Deal for Care," what does Battistoni mean when she says that "pink-collar jobs are green jobs" 
+- In "A Green New Deal for Care," what does Battistoni mean when she says that "pink-collar jobs are green jobs?" 
 - In "Alive in the Sunshine," Battistoni presents two ways of seeing the movement for Payment for Ecosystem Services. What are their ideological roots? What are the implications of each for climate policy? 
 
 Background on ecofeminism:
@@ -739,7 +739,7 @@ Policy implications of valuing care work:
 > ["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) **OR** ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
 
 <!--
-(in class?) EXCERCISE: 
+(in class?) EXERCISE: 
 https://docs.google.com/document/d/1aUXsJ1MrF2M67Lew-HP-UJHG1e1D6WlrjpdKCLBVz6s/edit
 
 > More TBD (including selections from *All We Can Save*)
@@ -759,7 +759,7 @@ Ecofeminism as a critique of scientific rationality:
 
 Recent policy efforts: 
 
-- [Not the year for women and parents: Child care provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
+- [Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
 
 
 ## Week 9: Nationalist Critique

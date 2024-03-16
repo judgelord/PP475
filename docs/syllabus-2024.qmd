@@ -54,8 +54,8 @@ My interest in the subject has increased because of this course. Q1632
 I knew what was expected of me in this course. Q1633
 I had a strong desire to take this course. Q4
 As compared with other courses of equal credit, the workload for this course was (Much Lighter, Lighter, Typical, Heavier, Much Heavier). Q891
-The instructor seemed well prepared for class meetings. Q230
-The instructor explained material clearly. Q199
+The instructor seemed well-prepared for class meetings. Q230
+The instructor explained the material clearly. Q199
 The instructor treated students with respect. Q217
 --> 
 
@@ -209,7 +209,7 @@ And here's a piece by two climate activists trying to influence policy:
 > <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
 
 ::: {.callout-important}
-There is an incremental assignment building to your final op-ed due almost **every Tuesday**. 
+There is an incremental assignment building to your final op-ed, due almost **every Tuesday**. 
 :::
 
 
@@ -678,7 +678,7 @@ Further Reading:
 
 ### Thursday
 
-> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288)
+> Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
 
 Further reading: 
 
@@ -695,6 +695,15 @@ Further reading:
 ## Week 8: Indigenous and Feminist Critiques  
 
 ### Tuesday: Indigenous Critique
+
+- What is the indigenous critique? 
+ - In the context of renewable energy siting? 
+ - In the context of adaptation?
+ - In the context of greenhouse gas emissions? 
+- Whyte mainly discusses decisions affecting indigenous lands while Tunks focuses on indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+- "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. 
+ - What are the implications of expanding or shrinking indigenous governance for addressing climate change? 
+ - Conversely, what are the implications of various climate policies for indigenous governance?
 
 
 > [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
@@ -715,15 +724,24 @@ Further reading:
 
 ### Thursday: Ecofeminist Critique
 
+> "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
+
+- What is the ecofeminist critique? Specifically, what is the argument about reproductive work? What are the implications of this argument for climate policy? 
+- In "A Green New Deal for Care," what does Battistoni mean when she says that "pink-collar jobs are green jobs?" 
+- In "Alive in the Sunshine," Battistoni presents two ways of seeing the movement for Payment for Ecosystem Services. What are their ideological roots? What are the implications of each for climate policy? 
+
 Background on ecofeminism:
 
 - ["Ecofeminism explains how patriarchy has contributed to the climate crisis" by Leah Thomas](https://www.teenvogue.com/story/intersectional-environmentalist-ecofeminism)
 
 Policy implications of valuing care work:
 
-> ["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) or ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
+> ["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) **OR** ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
 
 <!--
+(in class?) EXERCISE: 
+https://docs.google.com/document/d/1aUXsJ1MrF2M67Lew-HP-UJHG1e1D6WlrjpdKCLBVz6s/edit
+
 > More TBD (including selections from *All We Can Save*)
 --> 
 
@@ -734,6 +752,14 @@ Further reading:
 A marketing professor critiquing the War Mobilization rhetoric around climate change: 
 
 - [Is Ecofeminism the Answer to the Climate Crisis?](https://www.bentley.edu/news/ecofeminism-answer-climate-crisis) (This is also a pretty good model for an op-ed critiquing rhetoric)
+
+Ecofeminism as a critique of scientific rationality:
+
+- [Review: Mies and Shiva's "Ecofeminism": A New Testament? by Maxine Molyneux and Deborah Lynn Steinberg, *Feminist Review*, 49](https://www.jstor.org/stable/1395330?seq=4)
+
+Recent policy efforts: 
+
+- [Not the year for women and parents: Childcare provisions were cut from the Inflation Reduction Act. It’s not the first time.](https://www.cnn.com/2022/08/12/politics/inflation-reduction-children-families/index.html)
 
 
 ## Week 9: Nationalist Critique
@@ -774,6 +800,9 @@ Also note that some factual claims in *U.S. Immigration and the Environment* con
 
 > [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
 
+> [The Welcome Table](https://www.thewelcometablefilm.com/) (minute 0-3:20)
+
+
 <!--
 > [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
 --> 
@@ -785,7 +814,7 @@ Further reading on climate migration:
 
 Further critique of neo-Malthusian ideas: 
 
-[Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion](https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism) (Climate change is only discussed in the Introduction, the rest is not so relevant)
+- [Neo‐Malthusianism and Coercive Population Control in China and India: Overpopulation Concerns Often Result in Coercion](https://www.cato.org/policy-analysis/neo-malthusianism-coercive-population-control-china-india-overpopulation-concerns#history-neo-malthusianism) (Climate change is only discussed in the Introduction, the rest is not so relevant)
 
 
 Further Research: 
@@ -796,12 +825,12 @@ Further Research:
 
 - [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
 
-- [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](10.1073/pnas.2007597117)
+- [H. Benveniste, M. Oppenheimer, M. Fleurbaey (2020). Effect of Border Policy on Exposure and Vulnerability to Climate Change. Proceedings of the National Academy of Sciences, 117 (43), 26692-26702.](https://www.pnas.org/doi/10.1073/pnas.2007597117)
 
 - [H. Benveniste , M. Oppenheimer, M. Fleurbaey (2022). “Climate Change Increases Resource-Constrained International Immobility.” *Nature Climate Change*, 12, 634-641](https://www.nature.com/articles/s41558-022-01401-w)
 - Black, Richard, Stephen R. G. Bennett, Sandy M. Thomas and John R. Beddington. 2011. Climate Change: Migration as Adaptation. Nature 478: 447-449.
 
-- [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](10.1007/s10584-021-03133-w)
+- [H. Benveniste, J. Crespo Cuaresma, M. Gidden, R. Muttarak (2021). Tracing International Migration in Projections of Income Levels and Inequality across the Shared Socioeconomic Pathways. Climatic Change, 166 (39)](https://link.springer.com/article/10.1007/s10584-021-03133-w)
 
 
 
@@ -1158,6 +1187,10 @@ Al-Jazeera Television. 2011. Inside Story - Is Climate Change a Global Security 
 https://tipofthesphere.substack.com/p/climate-security-bookshelf
 Burke, M., González, F., Baylis, P., Heft-Neal, S., Baysan, C., Basu, S., & Hsiang, S. (2018). Higher temperatures increase suicide rates in the United States and Mexico. Nature Climate Change, 8(8), 723-729.
 
+
+World in the making: On the global visual politics of climate engineering (2023)
+Ann-Kathrin Benner  and Delf Rothe
+https://www.cambridge.org/core/journals/review-of-international-studies/article/world-in-the-making-on-the-global-visual-politics-of-climate-engineering/276476FAE0FA1C5993251C36216A01D2
 
 ---> 
 

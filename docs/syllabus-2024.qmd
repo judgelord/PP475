@@ -73,11 +73,26 @@ The core readings are mostly drawn from political science, political theory, and
 
 The assignments for this class are motivated by the observation that politics is fundamentally an organized activity. Thus, the critiques we develop in this class will target organizations. In your opinion, are they choosing the right battles? Are they taking the right positions? Are they framing the issues in the most effective way? Is their theory of change (or resistance to change) realistic?
 
-It is easy to critique those with whom we severely disagree, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may have no idea what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
+Critiquing those with whom we severely disagree is easy, but they are also the least likely to listen to you. Thus, the critiques you develop in this class will be aimed at the organizations you see as having the best chance of making a positive difference in the world---specifically, the organizations for whom you hope to work. You may not know what your future career looks like; that is fine. Perhaps you will find an organization or cause that inspires you in this class. Or perhaps you have a very clear idea of your future career. In that case, this class will challenge you to think about how organizations in your intended field of work engage in politics and policymaking---and how they might do so differently. It is not a requirement that the organizations you address are activist organizations. Indeed, activist organizations may be the most difficult to critique because they already have a well-developed approach to politics and policy. You may even see yourself working for an organization that is currently strongly opposed to most proposed climate policies; that is fine. For example, if you aim to work at Exxon-Mobil, you might look to Business School scholarship to formulate a critique like [this one](https://ssir.org/articles/entry/time_to_put_the_fossil_fuel_industry_into_hospice). 
 
 
 As practice for developing your skills in both effective writing and constructive criticism, peer critiques of your colleagues' writing are a major part of this class and 10% of your grade.
 
+## Course Philosophy 
+
+I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation (see weeks on justice, markets, nationalism, and movements).
+
+In designing this course, I proceed from several premises: 
+
+1. It is worth knowing the **history** of our current policy debates and the **ideas and values** that the rhetoric of these policy debates evokes.
+
+1. It is more interesting to explore **serious proposals** about what to do than people arguing against doing anything. That said, there are lots of ideas about what to do, and many don't agree. I just don't give a ton of time to defenders of the status quo, especially to the extent that they intentionally use obfuscating rhetoric—I don’t want this class to be a victim of efforts to sow confusion. Thus, I focus on authors with the most earnest, sincere, and uncompromised statements of what to do and why. For example, big business lobbyists and public relations firms significantly shape our current debate, but we ought to take what they say is good for the environment with a huge grain of salt because they are not primarily interested in our relationship with our biosphere; they aim to help their clients make money through spinning what is good for business as good for the environment. 
+
+1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should operate and how we should balance competing values. Then, let that inform your analysis of the rhetoric.
+
+1. **Humans are having a significant impact on the biosphere**. I don’t have much about climate change denialism in the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that public policy will work, work to slow policy behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of [anti-politics](#purdy.html#anti-politics). The merchants of doubt have shifted from attacking scientists to attacking policies as too uncertain, too expensive, and unnecessary. 
+
+1. Individual action is good but insufficient; **collective action (and thus politics) is required**. This class is in the public policy school, and I am a political scientist. We are here to learn about the many different kinds of policy and politics proposed to address climate change, not argue about whether policy and politics, in general, are useful for solving problems. 
 
 
 # 🏛️ Learning Environment
@@ -333,6 +348,10 @@ If you are looking for more foundation in how government works, the Ford School 
 - [Day 3](http://leccap.engin.umich.edu/leccap/player/r/bSYi7Y)
 - [Day 4](http://leccap.engin.umich.edu/leccap/player/r/fANcTy)
 
+## Background on climate science 
+
+- [Analysis: How well have climate models projected global warming?](https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming/)
+
 # 📖 Reading by Week
 
 🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
@@ -516,6 +535,8 @@ Further Readings:
 
 - Mildenberger, M. and D. Tingley (2019). Beliefs about climate beliefs: The importance of second-order opinions
 for climate politics. British Journal of Political Science 49(4), 1279–1307.
+
+- ["Optimistic vs. pessimistic endings in climate change appeals" in *Nature* by Brandi S. Morris, Polymeros Chrysochou, Simon T. Karg & Panagiotis Mitkidis](https://www.nature.com/articles/s41599-020-00574-z)
 
 
 <!-- *Cheap and Clean: How Americans Think about Energy in the Age of Global Warming* by Ansolabehere and Konisky, MIT Press; 2014, Chapter 3  `(Canvas)`
@@ -728,6 +749,8 @@ Further reading:
 
 ### Thursday: Ecofeminist Critique
 
+Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications. 
+
 > "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
 
 - What is the ecofeminist critique? Specifically, what is the argument about reproductive work? What are the implications of this argument for climate policy? 
@@ -879,7 +902,7 @@ Further reading:
 
 Electoral institutions: 
 
-> Skim: ["Legislative Staff and Representation in Congress" by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. *The American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66)
+> Skim: ["Legislative Staff and Representation in Congress" by Hertel-Fernandez, Alexander; Mildenberger, Matto; Stokes, Leah C. *The American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/article/legislative-staff-and-representation-in-congress/D7735FCF39B843B9F3269FD39362FD66);
 
 > Skim: [“Institutions, Climate Change, and the Foundations of Long-term Policymaking.” Finnegan, Jared, 2022 *Comparative Political Studies*.](https://doi.org/10.1177/00104140211047416)
 
@@ -902,15 +925,17 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
 
-### Tuesday: Structure
+### Tuesday: Oportunity Structure and Mobilizing Structures
 
-> McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008
+> [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
 
 > [Building a movement that can take full advantage of the IRA](https://www.volts.wtf/p/building-a-movement-that-can-take) 🎧 
 
 > [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
 
-### Thursday: Issue frames
+### Thursday: Issue framing
+
+> [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)
 
 > [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  `(Canvas)`
 

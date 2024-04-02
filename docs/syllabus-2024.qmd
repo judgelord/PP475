@@ -28,7 +28,7 @@ The only lasting truth is Change." <br> - Octavia E. Butler
 
 This is a small upper-level reading- and writing-intensive seminar that requires coming to class prepared to discuss the reading. There are no quizzes, exams, or prescriptive rubrics. Assessment is based on your thoughtful engagement with the ideas in the reading and with my feedback on your writing.
 	
-Tuesdays and Thursdays 2:30–3:50 a.m., 1210 Weill Hall
+Tuesdays and Thursdays 2:30–3:50 p.m., 1210 Weill Hall
 
 Instructor: Devin Judge-Lord, <judgelor@umich.edu>, 715-204-4287
 
@@ -961,6 +961,10 @@ Further reading:
 
 ### Tuesday: New Keynesian, neoliberal, and libertarian economics
 
+> [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
+-->
+
+
 > ["Information" by Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html) (7 pages)
 
 > ["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) (11 pages)
@@ -979,25 +983,28 @@ Further reading:
 
 Further reading: 
 
+- [Can We Price Carbon? MIT Press (2018), Chapter 3, by Barry Rabe](https://direct.mit.edu/books/monograph/3584/Can-We-Price-Carbon) also available via [muse](https://muse.jhu.edu/book/58688) and [proquest](https://ebookcentral.proquest.com/lib/umichigan/detail.action?pq-origsite=primo&docID=5351324)
+
 
 - [Subsidies really do matter to the US oil & gas industry](https://www.volts.wtf/p/subsidies-really-do-matter-to-the#details) 🎧 
 
-- “Growth in emission transfers via international trade from 1990 to 2008.” by Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. *Proceedings of the National Academy of Sciences (PNAS)* 108(21):8903–8908.
+- ["Growth in emission transfers via international trade from 1990 to 2008" by Peters, Glen P, Jan C Minx, Christopher L Weber and Ottmar Edenhofer. 2011. *Proceedings of the National Academy of Sciences (PNAS)* 108(21):8903–8908.](https://www.pnas.org/doi/10.1073/pnas.1006388108)
 
 - [Voluntary carbon offsets are headed for a crash: A conversation with veteran energy blogger Joe Romm](https://www.volts.wtf/p/voluntary-carbon-offsets-are-headed)  🎧 
 
 Market critics: 
 
-- [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 
-> [Excerpts from “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
--->
+- [“The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market”](https://news.harvard.edu/gazette/story/2023/03/excerpt-from-naomi-oreskes-the-big-myth/)
+
+- [Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn't think so.](https://kpfa.org/player/?audio=399010) (minutes 6:10-44:55)🎧 
+
 
 Criticism of the critics: 
 
 - [The War on Economics by Idrees Kahloon (Washington bureau chief for The Economist )](https://www.newyorker.com/magazine/2022/05/23/the-war-on-economics-elizabeth-popp-berman-thinking-like-an-economist)
 
-- [Can we save the climate before we overthrow capitalism? Economist Josh Mason doesn't think so.](https://kpfa.org/player/?audio=399010) (minutes 6:10-44:55)🎧 
+
 
 
 

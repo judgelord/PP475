@@ -964,8 +964,8 @@ Further reading:
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 -->
 
-
-> ["Information" by Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html) (7 pages)
+<!--
+> ["Information" by Joseph E. Stiglitz](https://www.econlib.org/library/Enc/Information.html) (7 pages)-->
 
 > ["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) (11 pages)
 

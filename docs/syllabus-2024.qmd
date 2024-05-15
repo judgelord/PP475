@@ -1,5 +1,5 @@
 ---
-title: "PubPol 475.011 <br> Climate Change: Politics for the Anthropocene"
+title: "PubPol 475.011 <br> Politics for the Anthropocene"
 subtitle: "2024"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
@@ -42,9 +42,9 @@ Links to course resources:
 
 -  📖 [Glossary](glossary)
 
-- Subscribe to the course calendar [here    📅](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+- [📅 Subscribe to the course calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-- Sign up for discussion opening, closing remarks, and paper meetings [here 📅](https://calendar.app.google/xjdkaHSmbzbTLykr9)
+- [📅 Sign up for discussion opening, closing remarks, and paper meetings](https://calendar.app.google/xjdkaHSmbzbTLykr9)
 
 Syllabus updated: [`r Sys.Date() |> format("%B %d %Y")`](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html). The current version is [here](syllabus-2024.html).
 
@@ -86,11 +86,11 @@ In designing this course, I proceed from several premises:
 
 1. It is worth knowing the **history** of our current policy debates and the **ideas and values** that the rhetoric of these policy debates evokes.
 
-1. It is more interesting to explore **serious proposals** about what to do than people arguing against doing anything. That said, there are lots of ideas about what to do, and many don't agree. I just don't give a ton of time to defenders of the status quo, especially to the extent that they intentionally use obfuscating rhetoric—I don’t want this class to be a victim of efforts to sow confusion. Thus, I focus on authors with the most earnest, sincere, and uncompromised statements of what to do and why. For example, big business lobbyists and public relations firms significantly shape our current debate, but we ought to take what they say is good for the environment with a huge grain of salt because they are not primarily interested in our relationship with our biosphere; they aim to help their clients make money through spinning what is good for business as good for the environment. 
+1. It is more interesting to explore **serious proposals** about what to do than people arguing against doing anything. That said, there are lots of ideas about what to do, and many don't agree. I just don't give a ton of time to defenders of the status quo, especially to the extent that they intentionally use obfuscating rhetoric---I don’t want this class to be a victim of efforts to sow confusion. Thus, I focus on authors with the most earnest, sincere, and uncompromised statements of what to do and why. For example, big business lobbyists and public relations firms significantly shape our current debate, but we ought to take what they say is good for the environment with a huge grain of salt because they are not primarily interested in our relationship with our biosphere; they aim to help their clients make money by spinning what is good for business as good for the environment. 
 
-1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should operate and how we should balance competing values. Then, let that inform your analysis of the rhetoric.
+1. It is more interesting to explore **deeply rooted ideas** and see them in rhetoric than to stay at the level of rhetoric. This class is about politics and policy and only secondarily about rhetoric and communications. I don't want us to limit our thinking to what plays well in current mass media or elite discourse. I want you to develop a position on how you think politics should be reshaped and how we should balance competing values. Then, let that inform your analysis of the rhetoric.
 
-1. **Humans are having a significant impact on the biosphere**. I don’t have much about climate change denialism in the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that public policy will work, work to slow policy behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of [anti-politics](#purdy.html#anti-politics). The merchants of doubt have shifted from attacking scientists to attacking policies as too uncertain, too expensive, and unnecessary. 
+1. **Humans are having a significant impact on the biosphere**. I don’t have much about climate change [denialism](https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html) on the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that policies they dislike will work, slow policymaking behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of [anti-politics](#purdy.html#anti-politics). The [merchants of doubt](https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/) have shifted [from attacking science to attacking policies](https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353) as too uncertain, too expensive, and unnecessary. 
 
 1. Individual action is good but insufficient; **collective action (and thus politics) is required**. This class is in the public policy school, and I am a political scientist. We are here to learn about the many different kinds of policy and politics proposed to address climate change, not argue about whether policy and politics, in general, are useful for solving problems. 
 
@@ -186,7 +186,7 @@ Text extruded by large language models (LLMs) is, by construction, derivative of
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
 
 Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
-Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will be checking to make sure sources of evidence are used appropriately. 
+Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will check to make sure sources of evidence are used appropriately. 
 
 If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
 
@@ -206,8 +206,8 @@ Alternatively, on week 9, you may write a reflection on how you carry with you d
 
 ## How to write an op-ed 
 
-- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
-- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped) `(Canvas)`
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped) `(Canvas)`
 
 ## Example op-eds
 
@@ -258,7 +258,9 @@ Below is the schedule of due dates.
 - Week 1: Introduce yourself to the class---e.g., in a few sentences, a short <!--20-30 second--> video, links to some things you find interesting or are passionate about, and/or some other means---feel free to be creative (1%) 
 - Week 2: A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization. (1%)^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
 - Week 3: Ten op-ed-style headlines critiquing one or more of the above organizations (in-class peer workshop) (1%) <!---COULD BE 1--> 
-- Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) (10%)
+- Week 4: 
+  - Five revised headlines and the first 200 words for each  (10%)
+  - an annotated bibliography for each, which do not count toward the word limit
 - Week 5: 
   - Meet with me about your op-ed ideas---[Sign up here](https://calendar.app.google/xjdkaHSmbzbTLykr9) (part of the previous assignment grade)
   - Civic engagement  (1%)
@@ -270,9 +272,9 @@ Below is the schedule of due dates.
 
 ### Craft your critique - 25% of final grade
 
-- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies  (9%)
+- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (9%)
 - Week 7: peer critique of first 400 words  (5%)
-- Week 8: Two revised first 400 words + annotated bibliographies  (10%)
+- Week 8: Two revised first 400 words + annotated bibliographies  + updated revision spreadsheets (10%)
 - Week 9: 
   - My feedback on your first 400 words 
   - Civic engagement post (1%)
@@ -285,17 +287,17 @@ Through multiple rounds of revision, you will hone your critique, improving your
 I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 :::
 
-- Week 10: One 750-800 word op-ed + annotated bibliography  (10%)
+- Week 10: One 750-800 word op-ed + annotated bibliography  + updated revision spreadsheet (10%)
 - Week 11: Peer critique of op-ed  (5%)
-- Week 12: Revised op-ed (10%)
+- Week 12: Revised op-ed  + updated revision spreadsheet (10%)
 - Week 13: 
-  - My feedback on your op-ed.  
+  - My feedback on your op-ed
   - Civic engagement post (1%)
-- Week 14: Final due (10%)
+- Week 14: Final due  + updated revision spreadsheet (10%)
 
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
-- Post a discussion question about the readings to Canvas <mark> by 7 p.m. every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Please keep posts under 100 words.
+- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-150 words and include a brief summary of (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion. <!--TODO See my [guide for crafting a good discussion question]().--> 
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss. 
 - Summarize the discussion questions posed on Canvas for two classes (1-3 minutes) 
 - Summarize what we have learned and how we have refined the points of debate at the end of two classes (1-3 minutes)
@@ -306,6 +308,13 @@ I am mostly grading on how you respond to feedback. If you would like, you can i
 You get two days to take a pass on posting a discussion question and/or participating in class. Even if you are taking a pass on participation, I hope you will still come to class. If you are taking a pass and don't want me to call you into the conversation, just let me know ahead of time.
 
 Pass days will initially appear as "0" on Canvas, but I will adjust participation points when I calculate your final scores in Canvas. 
+
+Beyond your two pass days, I allow you to make up two additional days:
+
+- If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **at least 1 hour ahead of class time**
+- If you unexpectedly miss class, write a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
+
+Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in extenuating circumstances. Participation is core part of this class and the entire class is deprived of your perspective when you are not with us. 
 
 ### Late Submissions
 
@@ -525,7 +534,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 > "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
 
-### Tuesday: World Views
+### Tuesday: World Views:
 
 - What is the "Anthropocene challenge" as described by Purdy? 
 - What does Purdy mean by politics and anti-politics? What are some examples? 
@@ -537,7 +546,7 @@ Further resources for understanding the Inflation Reduction Act:
 
 > [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
 
-### Thursday: Public Opinion
+### Thursday: Public Opinion:
 
 - How has public opinion on climate change shifted since 2017? 
 - What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
@@ -701,6 +710,8 @@ Further Reading:
 
 - [Engineering Earth’s Climate?](https://www.pbs.org/video/retro-report-on-pbs-season-1-episode-5-engineering-earths-climate/) 🎥
 
+- [An Engineering Experiment to Cool the Earth: A new technology is attempting to brighten clouds and bounce some of the sun’s rays back into space.](https://www.nytimes.com/2024/04/05/podcasts/the-daily/engineering-climate-change.html) 🎧 
+
 - [How to think about solar radiation management: A conversation with Kelly Wanser of SilverLining](https://www.volts.wtf/p/how-to-think-about-solar-radiation) 🎧 
 
 - Michael B. Gerrard, Introduction and Overview, in Climate Engineering and the Law: Regulation and Liability for Solar Radiation Management and Carbon Dioxide Removal (Gerrard & Hester, eds. 2019)
@@ -845,7 +856,12 @@ Neo-Malthusian:
 
 ### Thursday: Immigration and ethno-nationalist critique
 
-> [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
+<!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
+
+- Background: Human rights perspective: --> 
+
+
+> To discuss: [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
 
 
 ::: {.callout-warning}
@@ -955,7 +971,7 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true? 
 
-### Tuesday: Oportunity Structure and Mobilizing Structures
+### Tuesday: Opportunity Structure and Mobilizing Structures 
 
 > [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
 
@@ -981,7 +997,13 @@ Further reading:
 
 <!--TBD QUESTIONS--> 
 
-### Tuesday: New Keynesian, neoliberal, and libertarian economics
+### Tuesday: New Keynesian, neoliberal, and libertarian economics:
+
+- What would Hayek say about
+  1. A central plan for apartment building heating?
+  2. A fee for high-polluters? (the current policy)
+  3. Tradable emissions credits? (as  Ketcham & McGillis propose)
+- What information would city officials and building managers need in each scenario? 
 
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed US policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`
 -->
@@ -995,7 +1017,7 @@ Further reading:
 
 
 
-### Thursday: Carbon Markets and Pricing
+### Thursday: Carbon markets and pricing:
 
 > [Building Political Support for Carbon Pricing](https://scholars.org/contribution/building-political-support-carbon-pricing) (2 pages) and [Paying for Pollution by Leigh Raymond](https://scholars.org/podcast/paying-pollution) (22 min) 🎧 
 
@@ -1035,15 +1057,19 @@ Criticism of the critics:
 ...as a force explaining action and inaction. 
 
 - Why are groups effective at shaping policy? 
-- What industries will lose from climate policies, and could they pivot?
+- Which industries will lose from which climate policies? Could they pivot?
 <!--- Identify examples of “odd bed-fellows”--> 
 - What industries have most effectively obstructed policy? How do they work with/against political actors?
 
 ### Tuesday: The global political economy of climate policy:
 
-> Skim: Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*
+> Skim: [Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” *International Organization*](https://doi.org/10.1017/S0020818320000296)
 
-> Skim: Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.
+> Skim: [Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
+
+Further reading: 
+
+- [*The Enemy of My Enemy: When Firms Support Climate Change Regulation* (2020) by Amanda Kennard](https://doi.org/10.1017/S0020818320000107)
 
 
 ### Thursday: US political economy of climate policy: 
@@ -1090,15 +1116,15 @@ Learning Objectives
 
 -->
 
-Tuesday: 
+### Tuesday: 
 
 > [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
 
 > [Minnesota forces transportation planners to take climate change seriously](https://www.volts.wtf/p/minnesota-forces-transportation-planners#details) 🎧 
 
-Thursday: 
+### Thursday: 
 
-> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Select Chapters TBD)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
+> [*Charleston: Race, Water, and the Coming Storm* by Susan Crawford (Chapters 1 and 10)](http://pegasusbooks.com/books/charleston-9781639363575-hardcover) `(Canvas)`
 
 Further reading:
 

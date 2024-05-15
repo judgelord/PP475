@@ -17,7 +17,7 @@ Critiquing those we severely disagree with is easy, but they are also the least 
 
 ### Find your voice
 
-In the first third of the class, you develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
+In the first third of the class, you will develop five op-ed ideas and attempt to write an introduction for each. Along the way, you will identify organizations that you might want to work for (i.e., potential targets for your critique), develop ten possible lines of critique in the form of headlines, and then begin to flesh out five of them by writing the first 200 words of a potential op-ed. 
 
 Include a word count between the title and the essay. Getting in under the word limit should thus be a major challenge with this assignment. I am expecting the kind of writing where every word you must cut to hit the target is painful. Thus, I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
 
@@ -25,7 +25,7 @@ Include a word count between the title and the essay. Getting in under the word 
 - Week 3: Ten op-ed-style headlines **critiquing one or more of the above organizations**
 - Week 4: Five revised headlines and the first 200 words for each (+ annotated bibliographies, which do not count toward the word limit) 
 
-An annotated bibliography means two things: 
+#### An annotated bibliography means two things: 
 
 1. Bibliography means that it cites factual claims that are not common knowledge, including the title, author, year, and a hyperlink to the source wherever possible.  References do not count toward the word limit and should be single-spaced. References must be hyperlinked wherever possible. Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874), then some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874) if you can't find the DOI URL. I will be checking to ensure that the source is appropriate for an op-ed (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the essay's text. Fabricated sources are unacceptable, and the relationship between claim and evidence is critical.
 
@@ -42,10 +42,19 @@ I expect the annotated bibliographies to grow significantly as you respond to cr
 
 As above, include a word count between the title and the essay.
 
-- Week 6: Three revised headlines and the first 400 words for each + annotated bibliographies
+- Week 6: Three revised headlines and the first 400 words for each + an annotated bibliography for each + a revision spreadsheet for each
 - Week 8: Two revised first 400 words + annotated bibliographies  
 
 
+#### Responding to comments 
+
+When you submit your revised essays in week 6 and every revision after, you must include a Google sheet detailing your thoughtful responses to comments. This spreadsheet must have a row for each suggestion and columns with the suggestion, what you think about it, and the change (if any) made to the essay. This is your opportunity to show your work in doing the revision. 
+
+This spreadsheet will grow longer as you receive more suggestions from myself and your peers. 
+
+You must share this spreadsheet with me each time your resubmit your revised essay(s). I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like rubric to assess your thoughtful engagment with my feedback and your peer reviews.
+
+It is up to you whether you want to share this spreadsheet with your peer reviewers. 
 
 
 
@@ -61,19 +70,27 @@ Again, I expect your annotated bibliography to grow significantly as you respond
 
 # Assessment 
 
-Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change---just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 
 
 # Resouces 
 
-## Best Practices
-
-- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
-- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
-
-While I concluded that rubrics that other instructors use for op-eds are unworkable *as rubrics*, you may still find helpful guidance in them. There are many on the internet. Here is some of the guidance that is commonly used to assess op-ed assignments: 
-
 ## Guidance 
+
+Guidance for academics writing op-eds: 
+
+- [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)  `(Canvas)`
+- [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped) `(Canvas)`
+
+
+From Ford School Writing Center instructors: 
+
+- [Writing Op-Eds - MJPA Online Info Session - April 11, 2019 - Beth Chimera, Ford School Writing Instructor]() `(Canvas)`
+- [PubPol 521 - Introduction to Policy Writing - Op-Eds]() `(Canvas)`
+
+
+While I concluded that rubrics that other instructors use for op-eds are unworkable *as rubrics* for the advanced level of writing that I expect for this class, you may still find helpful guidance in them. There are many on the internet. Here is some of the guidance that is commonly used to assess op-ed assignments: 
+
 
 Thesis/purpose/genre:
 
@@ -117,6 +134,19 @@ The best guidance I have heard from prolific op-ed writers is to **read a lot of
 
 ## Example op-eds
 
+Questions for Reflection:
+
+1. How would you characterize the differences in tone among the three op-eds? Are there
+tonal shifts within each op-ed (i.e., does the op-ed begin in one tone and shift to another)?
+How might each writer’s tonal choices have been strategic—i.e., intended to enhance
+persuasiveness?  
+2. What is each op-ed’s apparent purpose (desired effect on readers), and how does
+organization (structure, ordering) aid or hinder that purpose?
+3. What sorts of evidence does each writer use to support claims? Is the evidence adequate
+to persuade? Why or why not?  
+4. Where does the writer anticipate reader resistance? How do you know? What tactics does
+the writer use to overcome this resistance?
+
 > [Humanity Is Facing a Great Injustice. The World Bank Must Respond](https://www.nytimes.com/2023/03/18/opinion/world-bank-climate-change.html) by the NYT Editorial Board via [proquest](https://www.proquest.com/news/docview/2788890406/96ABFB8014664952PQ)
 
 > [Exxon Mobil’s Pioneer Acquisition Is a Direct Threat to Democracy](https://www.nytimes.com/2023/10/18/opinion/exxon-pioneer-climate-change.html)  by Jeff Colgan via [proquest](https://www.proquest.com/docview/2878239656/AFEBE8014502402DPQ)
@@ -141,7 +171,6 @@ The best guidance I have heard from prolific op-ed writers is to **read a lot of
 
 > [When Utility Money Talks: Corruption scandals in Ohio and Illinois reveal an unsavory underside to the politics of energy.](https://www.nytimes.com/2020/08/02/opinion/utility-corruption-energy.html)
 
-> 
 
 
 And here's a piece by two climate activists trying to influence policy:
@@ -175,7 +204,7 @@ I hope you will find it valuable enough that you will want to do it again, but y
 
 We will do up to 2 pitches per day. While you are welcome to do more than one, the first priority goes to those practicing for the first time. 
 
-I've noticed a tendency for some presenters to offer a lot of preface and explanation before going into the heart of their pitch. I think you are better off without it. 
+Some presenters tend to offer a lot of preface and explanation before going into the heart of their pitch. I think you are better off without preface and explanation. 
 
 You want feedback on the pitch itself, including on how compelling the hook is (i.e., how you are getting people's attention and why people should care) and the clarity of your BLUF (Bottom Line Up Front, i.e., the clarity of your thesis statement/argument).  
 
@@ -190,7 +219,7 @@ This means at least a page of written feedback (when reviewing multiple essays, 
 
 ### How to submit your review
 
-You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas.) 
+You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment and sent to your colleague. (You should be able to attach it to their essay on Canvas or share it as a link to a Google doc.) 
 
 Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
 

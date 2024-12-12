@@ -1,6 +1,6 @@
 # Best Practices for Our Classroom Environment 
 
-PP275 - Spring 2024
+PP475 - Winter 2025
 
 (adapted from an exercise developed by Shobita Parthasarathy and from [Safe Spaces to Brave Spaces by Brian Arao and Kristi Clemens](https://www.anselm.edu/sites/default/files/Documents/Center%20for%20Teaching%20Excellence/From%20Safe%20Spaces%20to%20Brave%20Spaces.pdf) )
 
@@ -25,10 +25,16 @@ Brian Arao and Kristi Clemens suggest:
 
 We aim towards civility but also understand that civility has its limitations and can sometimes prevent honesty and true expressions of emotion and responsibility. Civility is also easier to achieve from a position of privilege. Nevertheless, I see that as a potentially productive tension, one which may help us all learn more as the semester progresses. 
 
-## Here is my summary of the commitments we have made to one another based on our class discussion: 
+## I will summarize the commitments we have made to one another based on our class discussion: 
 
 The professor commits to support student learning, including by:
 
+-
+-
+-
+-
+
+<!--
 >
 - Giving students feedback on whether they are participating too much or too little
 - Letting students know how their participation could be improved
@@ -51,6 +57,12 @@ Welcoming different perspectives and opinions - including those that may be unpo
 
 Students commit to practice active listening and engagement, including by:
 
+-
+-
+-
+-
+
+<!--
 >
 - Arriving to class prepared, having done the readings and ready to discuss them
 - Trying not to repeat with others have said
@@ -89,6 +101,14 @@ Practicing self-awareness in terms of participation: knowing when to add your vo
 
 To maintain successful and respectful relationships between students and the professor:
 
+
+-
+-
+-
+-
+-
+
+<!--
 >
 - Students will respect deadlines 
 - The professor will attempt to clarify the expectations

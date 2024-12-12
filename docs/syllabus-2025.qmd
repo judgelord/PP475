@@ -1,5 +1,5 @@
 ---
-title: "PubPol 475<br>Climate: Politics for the Anthropocene <br><br><br>"
+title: "PubPol 475<br>Climate Change: Politics for the Anthropocene <br><br><br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:
@@ -303,7 +303,7 @@ Under extenuating circumstances, I will attempt to work out some alternative rev
 
 ## Participation 24% (26 class periods X 1% per class - 2 pass days) 
 
-- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Monday and Wednesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
+- Discussion posts about at least one of the readings are due by <mark> 7 p.m. on Canvas every Sunday and Tuesday</mark> weeks 2-14 (see the course calendar above). Late posts are not counted. Posts should be 100-200 words and include a brief summary of <mark> (1) Your understanding of the author's main argument, (2) What you think about that argument, AND (3) A question *about the reading(s)* that merits further discussion.</mark>  <!--TODO See my [guide for crafting a good discussion question]().--> 
 - Participate in class discussion. Attendance is required. You must let me know *ahead of time* if you must miss class. 
 - Summarize the discussion questions posed on Canvas for one class (2-3 minutes OR summarize what we have learned and how we have refined the points of debate at the end of one class (2-3 minutes)
 
@@ -335,8 +335,8 @@ Pass days will initially appear as "0" on Canvas, but I will adjust participatio
 
 Beyond your two pass days, I allow you to make up two additional days:
 
-- If you know that you will miss class, write a 1-page reflection on the readings and share it with the class **with your discussion post.**
-- If you unexpectedly miss class, post a 1-page reflection on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
+- If you know that you will miss class, write a `1-page reflection` on the readings and share it with the class **with your discussion post.**
+- If you unexpectedly miss class, post a `1-page reflection` on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
 # 📚  Materials
@@ -345,20 +345,21 @@ Each week's required readings are indented and marked with a grey sidebar. I als
 
 I call on students during class and expect you to do all assigned readings for each week before Tuesday’s class (discussion posts are due Monday evening). 
 
-##	Required Books
+#	 📚 Required Books
 
-We will read large portions of two books: 
+You must have a physical copy of one book to bring to class: 
 
 - *After Nature* by Jedediah Purdy (2015, Harvard University Press)  ---  available on reserve, ~$8 used, \$19 new
-
-- *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be conscientious of your classmates.)
-
 
 The other readings will be available for free online (you may need to go through the library website for journal articles) or on Canvas.
 
 ##	Recommended Books
 
 We will read smaller portions of the following books, which will be available on Canvas: 
+
+-  *All We Can Save*, edited by Anyana Elizabeth Johnson & Katharine K. Wilkinson (2021, One World/Penguin Random House) --- available as an [ebook](https://search.lib.umich.edu/catalog/record/990185323010106381) and [audiobook](https://search.lib.umich.edu/catalog/record/990185323010106381) from the library! (but the number of people who can have them checked out at a time is limited, so be conscientious of your classmates.)
+
+
 
 - [*The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance* by Deva Woodly (2015, Oxford University Press)](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986)
 

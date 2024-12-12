@@ -1,5 +1,5 @@
 ---
-title: "PubPol 475<br>Climate Change: Politics for the Anthropocene <br><br><br>"
+title: "PubPol 475<br><mark> Climate Change <br><br>Politics for the Anthropocene </mark> <br>"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 format:

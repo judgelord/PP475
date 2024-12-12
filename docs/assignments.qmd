@@ -1,9 +1,17 @@
 ---
-title: Assignment Guide
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
+title: "Assignment Guide <br>    <mark>Crafting your critique</mark>   <br> "
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+format:
+# pdf: default
+ html:
+   toc: true
+   toc-location: left
+   theme: michigan.scss
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
 ---
 
 # The Main Assignment: Revise, Revise, Revise
@@ -21,18 +29,18 @@ In the first third of the class, you develop five op-ed ideas and attempt to wri
 
 
 - `Assignment 1` A list of the top twenty organizations for whom you would like to work and a one-sentence summary of how they engage (or avoid engaging) in climate politics or policy. If the organization has more than 100 employees, specify a unit within the organization.^[Most organizations have an email list---I suggest signing up, both for the assignments in this class and your future career.] 
-- `Assignment 2` Ten op-ed-style headlines
+- `Assignment 2` Ten op-ed-style headlines, each critiquing a different organization from Assignment 1.
 - `Assignment 3` Five revised headlines and the first 200 words for each (+ annotated bibliographies, which should appear in footnotes or endnotes and do not count toward the word limit) 
 
-Include a `word count` between the title and the essay.  I am expecting the quality of writing where every word you must cut to hit the target is painful. Thus, getting in under the word limit should be a major challenge with this assignment, and I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
+Include a <mark> word count</mark>  between the title and the essay.  I am expecting the quality of writing where every word you must cut to hit the target is painful. Thus, getting in under the word limit should be a major challenge with this assignment, and I expect the word count to be nearly exactly (perhaps a few words shorter) the word limit.
 
-An `annotated bibliography` in footnotes or endnotes means two things: 
+An <mark> annotated bibliography</mark>  in footnotes or endnotes means two things: 
 
-1. Bibliography means that it cites factual claims that are not common knowledge, including the title, author, year, and a hyperlink to the source wherever possible.  References do not count toward the word limit and should be single-spaced. References must be hyperlinked wherever possible. Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874), then some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874) if you can't find the DOI URL. I will be checking to ensure that the source is appropriate for an op-ed (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the essay's text. Fabricated sources are unacceptable, and the relationship between claim and evidence is critical.
+1. Bibliography means that it cites factual claims that are not common knowledge, including the <mark> title, author, year, and a hyperlink</mark>  to the source wherever possible.  References do not count toward the word limit and should be single-spaced. References must be hyperlinked wherever possible. Please try to link to stable public URLs. For journal articles, DOI URLs are best (e.g., https://doi.org/10.1177/1086026619858874), then some other stable repository like JSTOR or the publisher's web page (e.g., https://www.jstor.org/stable/j.ctt7t5st or https://journals.sagepub.com/doi/10.1177/1086026619858874) if you can't find the DOI URL. I will be checking to ensure that the source is appropriate for an op-ed (i.e., likely to be perceived as legitimate by your audience) and that it supports the claim made in the essay's text. Fabricated sources are unacceptable, and the relationship between claim and evidence is critical.
 
-2. Annotated means that it may include any additional context to help your reader understand why this source is important or why it supports the claim. If these are obvious, there is no need to annotate. Annotation is optional. It allows you to elaborate in ways you cannot in the tight word limit of the main essay. 
+2. Annotated means that it may include any additional context to help your reader understand <mark> why this source is important</mark>  or why it supports the claim. If these are obvious, there is no need to annotate. Annotation is optional. It allows you to elaborate in ways you cannot in the tight word limit of the main essay. 
 
-Use `footnotes or end notes` to construct your annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications. 
+Use <mark> footnotes or end notes</mark>  to construct your annotated bibliographies to make it easier for your peer reviewers, myself, and future editors to connect what you say in the essay to the citation. Use Arabic numerals, not roman numerals.^[If your op-ed is published, citations will likely take the form of hyperlinks, perhaps with end notes or margin notes for some online publications.]
 
 
 ### Craft your critique 
@@ -49,11 +57,11 @@ As above, include a word count between the title and the essay.
 
 #### Responding to comments 
 
-When you submit your revised essays in week 6 and every revision after, you must include a Google sheet detailing your thoughtful responses to comments. This spreadsheet must have a row for each suggestion and columns with the suggestion, what you think about it, and the change (if any) made to the essay. This is your opportunity to show your work in doing the revision. 
+Each time you submit your revised essays, you must include a Google sheet detailing your thoughtful responses to all of the comments you have recieved thusfar. This spreadsheet must have a row for each suggestion and columns with the exact text of the suggestion, who made it, what you think about it, and the change (if any) made to the essay. This is your opportunity to show your work in doing the revision. 
 
 This spreadsheet will grow longer as you receive more suggestions from myself and your peers. 
 
-You must share this spreadsheet with me each time your resubmit your revised essay(s). I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like rubric to assess your thoughtful engagment with my feedback and your peer reviews.
+You must share this spreadsheet with me each time your resubmit your revised essay(s). <mark>Put a link to your google sheet at the top of your essay.</mark> I am primarily grading on how you respond to feedback, so I will use this spreadsheet as something like rubric to assess your thoughtful engagment with my feedback and your peer reviews.
 
 It is up to you whether you want to share this spreadsheet with your peer reviewers. 
 
@@ -70,7 +78,7 @@ Again, I expect your annotated bibliography to grow significantly as you respond
 
 # Assessment 
 
-Assessment is based on your **thoughtful engagement with the ideas** in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. **I am mostly grading on how you respond to feedback.** This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
+Assessment is based on your <mark> thoughtful engagement with the ideas</mark>  in the reading and with my feedback on your writing. Because op-eds are not formulaic---there is no closed list of ways to be persuasive---I have found it unworkable to use a rubric that assigns certain points for doing certain things. Instead, you should consider the feedback you receive from me and your peer reviews to be the "rubric" for the next version. <mark> I am mostly grading on how you respond to feedback.</mark>  This does not mean that you must adopt every suggested change----just that you thoughtfully engage with them. You may choose not to adopt a change or go in a direction I suggest; that is totally fine as long as you have a good reason. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 
 
 # Resouces 
@@ -80,9 +88,12 @@ Assessment is based on your **thoughtful engagement with the ideas** in the read
 - [SSN: Best Practices for Writing a Compelling Op-ed](https://scholars.org/resource/how-best-practices-writing-compelling-oped)
 - [SSN: Best Practices for Pitching an Op-ed](https://scholars.org/resource/how-best-practices-pitching-oped)
 
-While I concluded that rubrics that other instructors use for op-eds are unworkable *as rubrics*, you may still find helpful guidance in them. There are many on the internet. Here is some of the guidance that is commonly used to assess op-ed assignments: 
 
 ## Guidance 
+
+
+While I concluded that rubrics that other instructors use for op-eds are unworkable *as rubrics* for grading, you may still find helpful guidance in them. There are many on the internet. Here is some of the guidance that is commonly used to assess op-ed assignments: 
+
 
 Thesis/purpose/genre:
 
@@ -93,7 +104,7 @@ Thesis/purpose/genre:
 
 [Lede](https://keybridgecommunications.com/whats-lede-2/) 
 
-- Lede brings the reader into the story
+- The lede brings the reader into the story
 
 Organization/focus:
 
@@ -208,11 +219,11 @@ Thus, when you get up to present, I would just launch right in and grab people's
 
 My expectation for the peer review is a significant and thoughtful engagement with each op-ed's ideas, as well as detailed notes on the writing (similar to what I gave you all in our meetings). This is an exercise in constructive critique, so there must be suggestions for improvement.
 
-This means at least a page of written feedback (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), as well as some notes or markup of their writing. Writing can always be improved. 
+This means <mark> at least a page of written feedback</mark>  (when reviewing multiple essays, this minimum is for all of them combined---though a page on each essay would be great), <mark> as well as some notes or markup of their writing.</mark>  Writing can always be improved. 
 
 ### How to submit your review
 
-You can use the markup features on Canvas as you read. Your written critique should then be uploaded for the peer critique assignment **and** sent to your colleague. (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) Make sure to submit it in both places. The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
+You can use the <mark> markup features on Canvas</mark>  as you read. </mark> Your written critique should then be uploaded for the peer critique assignment **and** sent to your colleague.</mark>  (You should be able to share a Google Doc or attach a file in the "Comments for this Attempt" bar on Canvas.) <mark> Make sure to submit it in both places.</mark>  The assignment upload goes to me so that you get credit for the assignment. The "Comments for this attempt" make it available to your colleague.
 
 Please let me know if you have any questions. Giving helpful critiques is a nuanced art, and I am happy to talk it through with you. 
 

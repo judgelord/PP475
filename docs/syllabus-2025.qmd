@@ -454,7 +454,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 ...in an unequal and chaotic world.
 
-### Tuesday: Syllabus Review and in-class [best-practices exercise](best-practices.html)
+### Monday: Syllabus Review and in-class [best-practices exercise](best-practices.html)
 
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
@@ -468,33 +468,12 @@ There are many "further" readings, and some required readings (especially the lo
 >  To Discuss: [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
 
 
-### Thursday:  Visions for the Future
-
-- How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
-- How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
-- How do the Heritage Foundation's policy proposals implicitly respond to climate change and energy transition? 
-
-> To Discuss: [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
-
->  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  Skim: [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
-
-> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
-
-
-Background explain: 
-
-- [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
-<!--
-Further reading: 
-
-- [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
---> 
 
 ## Week 2: Policy 
 
 > "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
 
-### Tuesday: The State of U.S. Climate Policy: 
+### Monday: The State of U.S. Climate Policy: 
 
 This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann's critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.
 
@@ -531,7 +510,7 @@ OR
 
 <!-- More summaries of U.S. policy TBD --> 
 
-### Thursday: The State of Michigan Climate Policy
+### Wednesday: The State of Michigan Climate Policy
 
 <!--GUEST SPEAKER --> 
 
@@ -610,7 +589,7 @@ Further resources for understanding the Inflation Reduction Act:
 > "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
 
 
-### Tuesday: World Views:
+### Monday: World Views:
 
 - What is the "Anthropocene challenge" as described by Purdy? 
 - What does Purdy mean by politics and anti-politics? What are some examples? 
@@ -626,8 +605,30 @@ Further reading on net net zero:
 
 - [All Hail The Planet: Carbon Offsets](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#carbon)
 
+### Wednesday:  Visions for the Future
 
-### Thursday: Public Opinion:
+- How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How do the Heritage Foundation's policy proposals implicitly respond to climate change and energy transition? 
+
+> To Discuss: [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
+
+>  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  Skim: [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
+
+> To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
+
+
+Background explain: 
+
+- [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
+<!--
+Further reading: 
+
+- [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
+--> 
+
+<!--
+### Wednesday: Public Opinion:
 
 - How has public opinion on climate change shifted since 2017? 
 - What kinds of questions do public opinion researchers ask? What don't they seem to ask? 
@@ -711,11 +712,11 @@ The religious, colonial, and mystic foundations of Western environmental law and
 > "The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke's insistence that "God wants us to do something" and that nature revealed the intended tasks...And for the Romantics who created the Sierra Club, nature's beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there---and look." (Purdy, p. 199)
 
 
-### Tuesday
+### Monday
 
 > Purdy, Chapter 1: An Unequal Terrain (51-70) and Chapter 2: God's Avid Gardeners (70-95) 
 
-### Thursday 
+### Wednesday 
 
 > Purdy, Chapter 4: Natural Utopias (116-152)
 
@@ -745,11 +746,11 @@ Aesthetics-->
 - How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion? 
 - What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire? 
 
-### Tuesday: Utilitarianism and managerialism
+### Monday: Utilitarianism and managerialism
 
 > Purdy, Chapter 5: A Conservationist Empire (153-187)
 
-### Thursday: Technology
+### Wednesday: Technology
 
 Learning curves: 
 
@@ -794,7 +795,7 @@ Further Reading:
 ## Week 6: Justice 
 
 
-### Tuesday: Global Justice
+### Monday: Global Justice
 
 
 > [“Three faces of climate justice”, *Annual Review of Political Science* (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514) (14 pages)
@@ -810,7 +811,7 @@ Further Reading:
 - How are policies addressing environmental justice consistent or inconsistent with different definitions? 
 - How might past environmental justice activism be similar to different to future conflicts in the Anthropocene? 
 
-### Thursday: U.S. Movements and Policy
+### Wednesday: U.S. Movements and Policy
 
 >  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
@@ -845,7 +846,7 @@ Further reading:
 
 > "Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice." (Purdy, p. 266)
 
-### Tuesday
+### Monday
 
 > Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)
 
@@ -855,7 +856,7 @@ Further reading:
 
 - *A Sand County Almanac* by Aldo Leopold (201-226) `(Canvas)`
 
-### Thursday
+### Wednesday
 
 > Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs. post-humanist debates (e.g., animal rights)
 
@@ -866,10 +867,10 @@ Further reading:
 
 ## Week 8: Ecofeminist Critique
 
-### Tuesday: TBD
+### Monday: TBD
 
 
-### Thursday: Ecofeminist Critique
+### Wednesday: Ecofeminist Critique
 
 Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of care work. Her argument has many clear policy implications. 
 
@@ -919,7 +920,7 @@ Recent policy efforts:
 <!--- Identify examples of “odd bed-fellows”--> 
 - What industries have most effectively obstructed policy? How do they work with/against political actors?
 
-### Tuesday: The global political economy of climate policy:
+### Monday: The global political economy of climate policy:
 
 > To Discuss: Opinion: [Why vilify the oil and gas industry? - Emily Atkin (5 pages)](https://heated.world/p/why-vilify-the-oil-and-gas-industry?utm_source=substack&publication_id=2473&post_id=147753396&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=3m97t&triedRedirect=true) `(Canvas)`
 
@@ -932,7 +933,7 @@ Further reading:
 - [*The Enemy of My Enemy: When Firms Support Climate Change Regulation* (2020) by Amanda Kennard](https://doi.org/10.1017/S0020818320000107)
 
 
-### Thursday: U.S. political economy of climate policy: 
+### Wednesday: U.S. political economy of climate policy: 
 
 Guest speaker: Geoffrey Henderson
 
@@ -987,12 +988,12 @@ Background:
 - ["Effects of land dispossession and forced migration on Indigenous peoples in North America" by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in *Science*](https://www.science.org/doi/10.1126/science.abe4943)
 
 
-### Tuesday
+### Monday
 
 > To Discuss: Research: [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
 
 
-### Thursday 
+### Wednesday 
 
 > To Discuss: [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
@@ -1012,7 +1013,7 @@ Background:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-### Tuesday:  Power and population
+### Monday:  Power and population
 
 - Background on securitization: [All Hail The Planet: Military](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#military) (11:38)
 
@@ -1035,7 +1036,7 @@ Neo-Malthusian:
 > To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
 
 
-#### Thursday: Immigration and ethno-nationalist critique
+#### Wednesday: Immigration and ethno-nationalist critique
 
 
 
@@ -1099,7 +1100,7 @@ Further Research:
 
 - What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
-### Tuesday: Governance
+### Monday: Governance
 
 <!--
 Collective action
@@ -1127,7 +1128,7 @@ Further reading:
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
 
-### Thursday: Regulation and Electoral Institutions
+### Wednesday: Regulation and Electoral Institutions
 
 - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
 
@@ -1184,7 +1185,7 @@ Further reading:
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
 
-### Tuesday: Opportunity Structure and Mobilizing Structures 
+### Monday: Opportunity Structure and Mobilizing Structures 
 
 > To Discuss: Research:[McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
 
@@ -1192,7 +1193,7 @@ Further reading:
 
 > To Discuss: News: [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
 
-### Thursday: Issue framing
+### Wednesday: Issue framing
 
 <!--
 > To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)
@@ -1216,7 +1217,7 @@ Further reading:
 
 <!--TBD QUESTIONS--> 
 
-### Tuesday: 
+### Monday: 
 
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`-->
 
@@ -1227,10 +1228,10 @@ Further reading:
 
 ##  Week 14:  TBD 
 
-### Tuesday: Climate denial? Litigation as policy strategy? International policy processes? 
+### Monday: Climate denial? Litigation as policy strategy? International policy processes? 
 -->
 
-### Thursday: New Keynesian, neoliberal, and libertarian economics:
+### Wednesday: New Keynesian, neoliberal, and libertarian economics:
 
 - What would Hayek say about
   1. A central plan for apartment building heating?
@@ -1258,7 +1259,7 @@ The backlash against ESG is continuing, with a string of lawsuits aimed at shutt
 
 Further reading: 
 
-<!--### Thursday: Carbon markets and pricing--> 
+<!--### Wednesday: Carbon markets and pricing--> 
 
 - [Building Political Support for Carbon Pricing](https://scholars.org/contribution/building-political-support-carbon-pricing) (2 pages) and [Paying for Pollution by Leigh Raymond](https://scholars.org/podcast/paying-pollution) (22 min) 🎧 
 
@@ -1293,7 +1294,7 @@ Criticism of the critics:
 
 ## Week 15: Planning for Change
 
-### Tuesday
+### Monday
 
 >  To Discuss: [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
 
@@ -1341,7 +1342,7 @@ Learning Objectives
 
 
 
-### Thursday: Wrap-up
+### Wednesday: Wrap-up
 
 - How has your understanding of the politics of policymaking changed since the start of the semester?
 - Which reading stands out to us most and why?

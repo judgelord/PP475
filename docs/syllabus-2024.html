@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,8 +40,35 @@ ul.task-list li input[type="checkbox"] {
       }
 </style>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -74,6 +101,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">🗺️ Objectives</a>
   <ul class="collapse">
   <li><a href="#course-philosophy" id="toc-course-philosophy" class="nav-link" data-scroll-target="#course-philosophy">Course Philosophy</a></li>
+  <li><a href="#advice-from-past-students" id="toc-advice-from-past-students" class="nav-link" data-scroll-target="#advice-from-past-students">Advice from past students</a></li>
   </ul></li>
   <li><a href="#learning-environment" id="toc-learning-environment" class="nav-link" data-scroll-target="#learning-environment">🏛️ Learning Environment</a>
   <ul class="collapse">
@@ -110,78 +138,78 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#week-1-hope" id="toc-week-1-hope" class="nav-link" data-scroll-target="#week-1-hope">Week 1: Hope</a>
   <ul class="collapse">
-  <li><a href="#thursday-syllabus-review-and-in-class-discussion-best-practices-exercise" id="toc-thursday-syllabus-review-and-in-class-discussion-best-practices-exercise" class="nav-link" data-scroll-target="#thursday-syllabus-review-and-in-class-discussion-best-practices-exercise">Thursday: Syllabus review and in-class discussion best-practices exercise</a></li>
+  <li><a href="#wednesday-syllabus-review-and-in-class-discussion-best-practices-exercise" id="toc-wednesday-syllabus-review-and-in-class-discussion-best-practices-exercise" class="nav-link" data-scroll-target="#wednesday-syllabus-review-and-in-class-discussion-best-practices-exercise">Wednesday: Syllabus review and in-class discussion best-practices exercise</a></li>
   </ul></li>
   <li><a href="#week-2-policy" id="toc-week-2-policy" class="nav-link" data-scroll-target="#week-2-policy">Week 2: Policy</a>
   <ul class="collapse">
-  <li><a href="#tuesday-the-state-of-us-climate-policy" id="toc-tuesday-the-state-of-us-climate-policy" class="nav-link" data-scroll-target="#tuesday-the-state-of-us-climate-policy">Tuesday: The State of US Climate Policy:</a></li>
-  <li><a href="#thursday-the-state-of-michigan-climate-policy" id="toc-thursday-the-state-of-michigan-climate-policy" class="nav-link" data-scroll-target="#thursday-the-state-of-michigan-climate-policy">Thursday: The State of Michigan Climate Policy</a></li>
+  <li><a href="#monday-the-state-of-us-climate-policy" id="toc-monday-the-state-of-us-climate-policy" class="nav-link" data-scroll-target="#monday-the-state-of-us-climate-policy">Monday: The State of US Climate Policy:</a></li>
+  <li><a href="#wednesday-the-state-of-michigan-climate-policy" id="toc-wednesday-the-state-of-michigan-climate-policy" class="nav-link" data-scroll-target="#wednesday-the-state-of-michigan-climate-policy">Wednesday: The State of Michigan Climate Policy</a></li>
   </ul></li>
   <li><a href="#week-3-politics" id="toc-week-3-politics" class="nav-link" data-scroll-target="#week-3-politics">Week 3: Politics</a>
   <ul class="collapse">
-  <li><a href="#tuesday-world-views" id="toc-tuesday-world-views" class="nav-link" data-scroll-target="#tuesday-world-views">Tuesday: World Views:</a></li>
-  <li><a href="#thursday-public-opinion" id="toc-thursday-public-opinion" class="nav-link" data-scroll-target="#thursday-public-opinion">Thursday: Public Opinion:</a></li>
+  <li><a href="#monday-world-views" id="toc-monday-world-views" class="nav-link" data-scroll-target="#monday-world-views">Monday: World Views:</a></li>
+  <li><a href="#wednesday-public-opinion" id="toc-wednesday-public-opinion" class="nav-link" data-scroll-target="#wednesday-public-opinion">Wednesday: Public Opinion:</a></li>
   </ul></li>
   <li><a href="#week-4-god-and-nature" id="toc-week-4-god-and-nature" class="nav-link" data-scroll-target="#week-4-god-and-nature">Week 4: God and Nature</a>
   <ul class="collapse">
-  <li><a href="#tuesday" id="toc-tuesday" class="nav-link" data-scroll-target="#tuesday">Tuesday</a></li>
-  <li><a href="#thursday" id="toc-thursday" class="nav-link" data-scroll-target="#thursday">Thursday</a></li>
+  <li><a href="#monday" id="toc-monday" class="nav-link" data-scroll-target="#monday">Monday</a></li>
+  <li><a href="#wednesday" id="toc-wednesday" class="nav-link" data-scroll-target="#wednesday">Wednesday</a></li>
   </ul></li>
   <li><a href="#week-5-justice" id="toc-week-5-justice" class="nav-link" data-scroll-target="#week-5-justice">Week 5: Justice</a>
   <ul class="collapse">
-  <li><a href="#tuesday-1" id="toc-tuesday-1" class="nav-link" data-scroll-target="#tuesday-1">Tuesday</a></li>
-  <li><a href="#thursday-1" id="toc-thursday-1" class="nav-link" data-scroll-target="#thursday-1">Thursday</a></li>
+  <li><a href="#monday-1" id="toc-monday-1" class="nav-link" data-scroll-target="#monday-1">Monday</a></li>
+  <li><a href="#wednesday-1" id="toc-wednesday-1" class="nav-link" data-scroll-target="#wednesday-1">Wednesday</a></li>
   </ul></li>
   <li><a href="#week-6-utilitarianism-and-technology" id="toc-week-6-utilitarianism-and-technology" class="nav-link" data-scroll-target="#week-6-utilitarianism-and-technology">Week 6: Utilitarianism and Technology</a>
   <ul class="collapse">
-  <li><a href="#tuesday-utilitarianism-and-managerialism" id="toc-tuesday-utilitarianism-and-managerialism" class="nav-link" data-scroll-target="#tuesday-utilitarianism-and-managerialism">Tuesday: Utilitarianism and managerialism</a></li>
-  <li><a href="#thursday-technology" id="toc-thursday-technology" class="nav-link" data-scroll-target="#thursday-technology">Thursday: Technology</a></li>
+  <li><a href="#monday-utilitarianism-and-managerialism" id="toc-monday-utilitarianism-and-managerialism" class="nav-link" data-scroll-target="#monday-utilitarianism-and-managerialism">Monday: Utilitarianism and managerialism</a></li>
+  <li><a href="#wednesday-technology" id="toc-wednesday-technology" class="nav-link" data-scroll-target="#wednesday-technology">Wednesday: Technology</a></li>
   </ul></li>
   <li><a href="#week-7-ecological-critique" id="toc-week-7-ecological-critique" class="nav-link" data-scroll-target="#week-7-ecological-critique">Week 7: Ecological Critique</a>
   <ul class="collapse">
-  <li><a href="#tuesday-2" id="toc-tuesday-2" class="nav-link" data-scroll-target="#tuesday-2">Tuesday</a></li>
-  <li><a href="#thursday-2" id="toc-thursday-2" class="nav-link" data-scroll-target="#thursday-2">Thursday</a></li>
+  <li><a href="#monday-2" id="toc-monday-2" class="nav-link" data-scroll-target="#monday-2">Monday</a></li>
+  <li><a href="#wednesday-2" id="toc-wednesday-2" class="nav-link" data-scroll-target="#wednesday-2">Wednesday</a></li>
   </ul></li>
   <li><a href="#break" id="toc-break" class="nav-link" data-scroll-target="#break">— BREAK —</a></li>
   <li><a href="#week-8-indigenous-and-feminist-critiques" id="toc-week-8-indigenous-and-feminist-critiques" class="nav-link" data-scroll-target="#week-8-indigenous-and-feminist-critiques">Week 8: Indigenous and Feminist Critiques</a>
   <ul class="collapse">
-  <li><a href="#tuesday-indigenous-critique" id="toc-tuesday-indigenous-critique" class="nav-link" data-scroll-target="#tuesday-indigenous-critique">Tuesday: Indigenous Critique</a></li>
-  <li><a href="#thursday-ecofeminist-critique" id="toc-thursday-ecofeminist-critique" class="nav-link" data-scroll-target="#thursday-ecofeminist-critique">Thursday: Ecofeminist Critique</a></li>
+  <li><a href="#monday-indigenous-critique" id="toc-monday-indigenous-critique" class="nav-link" data-scroll-target="#monday-indigenous-critique">Monday: Indigenous Critique</a></li>
+  <li><a href="#wednesday-ecofeminist-critique" id="toc-wednesday-ecofeminist-critique" class="nav-link" data-scroll-target="#wednesday-ecofeminist-critique">Wednesday: Ecofeminist Critique</a></li>
   </ul></li>
   <li><a href="#week-9-nationalist-critique" id="toc-week-9-nationalist-critique" class="nav-link" data-scroll-target="#week-9-nationalist-critique">Week 9: Nationalist Critique</a>
   <ul class="collapse">
-  <li><a href="#tuesday-power-and-population" id="toc-tuesday-power-and-population" class="nav-link" data-scroll-target="#tuesday-power-and-population">Tuesday: Power and population</a></li>
-  <li><a href="#thursday-immigration-and-ethno-nationalist-critique" id="toc-thursday-immigration-and-ethno-nationalist-critique" class="nav-link" data-scroll-target="#thursday-immigration-and-ethno-nationalist-critique">Thursday: Immigration and ethno-nationalist critique</a></li>
+  <li><a href="#monday-power-and-population" id="toc-monday-power-and-population" class="nav-link" data-scroll-target="#monday-power-and-population">Monday: Power and population</a></li>
+  <li><a href="#wednesday-immigration-and-ethno-nationalist-critique" id="toc-wednesday-immigration-and-ethno-nationalist-critique" class="nav-link" data-scroll-target="#wednesday-immigration-and-ethno-nationalist-critique">Wednesday: Immigration and ethno-nationalist critique</a></li>
   </ul></li>
   <li><a href="#week-10-institutions" id="toc-week-10-institutions" class="nav-link" data-scroll-target="#week-10-institutions">Week 10: Institutions</a>
   <ul class="collapse">
-  <li><a href="#tuesday-governance" id="toc-tuesday-governance" class="nav-link" data-scroll-target="#tuesday-governance">Tuesday: Governance</a></li>
-  <li><a href="#thursday-regulation-and-electoral-institutions" id="toc-thursday-regulation-and-electoral-institutions" class="nav-link" data-scroll-target="#thursday-regulation-and-electoral-institutions">Thursday: Regulation and Electoral Institutions</a></li>
+  <li><a href="#monday-governance" id="toc-monday-governance" class="nav-link" data-scroll-target="#monday-governance">Monday: Governance</a></li>
+  <li><a href="#wednesday-regulation-and-electoral-institutions" id="toc-wednesday-regulation-and-electoral-institutions" class="nav-link" data-scroll-target="#wednesday-regulation-and-electoral-institutions">Wednesday: Regulation and Electoral Institutions</a></li>
   </ul></li>
   <li><a href="#week-11-movements" id="toc-week-11-movements" class="nav-link" data-scroll-target="#week-11-movements">Week 11: Movements</a>
   <ul class="collapse">
-  <li><a href="#tuesday-opportunity-structure-and-mobilizing-structures" id="toc-tuesday-opportunity-structure-and-mobilizing-structures" class="nav-link" data-scroll-target="#tuesday-opportunity-structure-and-mobilizing-structures">Tuesday: Opportunity Structure and Mobilizing Structures</a></li>
-  <li><a href="#thursday-issue-framing" id="toc-thursday-issue-framing" class="nav-link" data-scroll-target="#thursday-issue-framing">Thursday: Issue framing</a></li>
+  <li><a href="#monday-opportunity-structure-and-mobilizing-structures" id="toc-monday-opportunity-structure-and-mobilizing-structures" class="nav-link" data-scroll-target="#monday-opportunity-structure-and-mobilizing-structures">Monday: Opportunity Structure and Mobilizing Structures</a></li>
+  <li><a href="#wednesday-issue-framing" id="toc-wednesday-issue-framing" class="nav-link" data-scroll-target="#wednesday-issue-framing">Wednesday: Issue framing</a></li>
   </ul></li>
   <li><a href="#week-12-markets" id="toc-week-12-markets" class="nav-link" data-scroll-target="#week-12-markets">Week 12: Markets</a>
   <ul class="collapse">
-  <li><a href="#tuesday-new-keynesian-neoliberal-and-libertarian-economics" id="toc-tuesday-new-keynesian-neoliberal-and-libertarian-economics" class="nav-link" data-scroll-target="#tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics:</a></li>
-  <li><a href="#thursday-carbon-markets-and-pricing" id="toc-thursday-carbon-markets-and-pricing" class="nav-link" data-scroll-target="#thursday-carbon-markets-and-pricing">Thursday: Carbon markets and pricing:</a></li>
+  <li><a href="#monday-new-keynesian-neoliberal-and-libertarian-economics" id="toc-monday-new-keynesian-neoliberal-and-libertarian-economics" class="nav-link" data-scroll-target="#monday-new-keynesian-neoliberal-and-libertarian-economics">Monday: New Keynesian, neoliberal, and libertarian economics:</a></li>
+  <li><a href="#wednesday-carbon-markets-and-pricing" id="toc-wednesday-carbon-markets-and-pricing" class="nav-link" data-scroll-target="#wednesday-carbon-markets-and-pricing">Wednesday: Carbon markets and pricing:</a></li>
   </ul></li>
   <li><a href="#week-13-incumbents" id="toc-week-13-incumbents" class="nav-link" data-scroll-target="#week-13-incumbents">Week 13: Incumbents</a>
   <ul class="collapse">
-  <li><a href="#tuesday-the-global-political-economy-of-climate-policy" id="toc-tuesday-the-global-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#tuesday-the-global-political-economy-of-climate-policy">Tuesday: The global political economy of climate policy:</a></li>
-  <li><a href="#thursday-us-political-economy-of-climate-policy" id="toc-thursday-us-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#thursday-us-political-economy-of-climate-policy">Thursday: US political economy of climate policy:</a></li>
+  <li><a href="#monday-the-global-political-economy-of-climate-policy" id="toc-monday-the-global-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#monday-the-global-political-economy-of-climate-policy">Monday: The global political economy of climate policy:</a></li>
+  <li><a href="#wednesday-us-political-economy-of-climate-policy" id="toc-wednesday-us-political-economy-of-climate-policy" class="nav-link" data-scroll-target="#wednesday-us-political-economy-of-climate-policy">Wednesday: US political economy of climate policy:</a></li>
   </ul></li>
   <li><a href="#week-14-planning-for-change" id="toc-week-14-planning-for-change" class="nav-link" data-scroll-target="#week-14-planning-for-change">Week 14: Planning for Change</a>
   <ul class="collapse">
-  <li><a href="#tuesday-3" id="toc-tuesday-3" class="nav-link" data-scroll-target="#tuesday-3">Tuesday:</a></li>
-  <li><a href="#thursday-3" id="toc-thursday-3" class="nav-link" data-scroll-target="#thursday-3">Thursday:</a></li>
+  <li><a href="#monday-3" id="toc-monday-3" class="nav-link" data-scroll-target="#monday-3">Monday:</a></li>
+  <li><a href="#wednesday-3" id="toc-wednesday-3" class="nav-link" data-scroll-target="#wednesday-3">Wednesday:</a></li>
   </ul></li>
   <li><a href="#week-15-reflection" id="toc-week-15-reflection" class="nav-link" data-scroll-target="#week-15-reflection">Week 15: Reflection</a>
   <ul class="collapse">
-  <li><a href="#tuesday-wrap-up" id="toc-tuesday-wrap-up" class="nav-link" data-scroll-target="#tuesday-wrap-up">Tuesday: Wrap-up</a></li>
-  <li><a href="#thursday-no-class" id="toc-thursday-no-class" class="nav-link" data-scroll-target="#thursday-no-class">Thursday: No class</a></li>
+  <li><a href="#monday-wrap-up" id="toc-monday-wrap-up" class="nav-link" data-scroll-target="#monday-wrap-up">Monday: Wrap-up</a></li>
+  <li><a href="#wednesday-no-class" id="toc-wednesday-no-class" class="nav-link" data-scroll-target="#wednesday-no-class">Wednesday: No class</a></li>
   </ul></li>
   <li><a href="#ammendments" id="toc-ammendments" class="nav-link" data-scroll-target="#ammendments">Ammendments</a></li>
   <li><a href="#more-information-on-student-instructor-best-practices" id="toc-more-information-on-student-instructor-best-practices" class="nav-link" data-scroll-target="#more-information-on-student-instructor-best-practices">More Information on Student Instructor Best Practices</a></li>
@@ -189,9 +217,10 @@ ul.task-list li input[type="checkbox"] {
   </ul>
 </nav>
 </div>
-<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
 </div>
 <main class="content quarto-banner-title-block" id="quarto-document-content">
+
 
 
 
@@ -215,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://calendar.google.com/calendar/u/0?cid=Y18wYTM2N2U5NDZkMzkyMTQxZjJhNDdmN2Y2MDhkNjBjN2E1N2I3ZTQ0ZTAzZjAyODk0NmM3YjU5ODBhOGY1MmE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">📅 Subscribe to the course calendar</a></p></li>
 <li><p><a href="https://calendar.app.google/xjdkaHSmbzbTLykr9">📅 Sign up for discussion opening, closing remarks, and paper meetings</a></p></li>
 </ul>
-<p>Syllabus updated: <a href="https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html">April 23 2024</a>. The current version is <a href="syllabus-2024.html">here</a>.</p>
+<p>Syllabus updated: <a href="https://github.com/judgelord/PP475/commits/main/docs/syllabus-2024.html">January 05 2025</a>. The current version is <a href="syllabus-2024.html">here</a>.</p>
 <!--
 This course advanced my understanding of the subject matter. Q1631*
 My interest in the subject has increased because of this course. Q1632
@@ -245,6 +274,33 @@ The instructor treated students with respect. Q217
 <li><p><strong>Humans are having a significant impact on the biosphere</strong>. I don’t have much about climate change <a href="https://www.latimes.com/opinion/op-ed/la-oe-oreskes-supran-exxonmobil-20170901-story.html">denialism</a> on the syllabus. Mainstream policy debates have moved passed outright denialism. Even the incumbent industry talking points have moved on from denial and even away from doubt and minimizing. They now acknowledge climate science and cast themselves as helping to address it, sow skepticism that policies they dislike will work, slow policymaking behind the scenes, deflect responsibility, and focus on personal responsibility and other forms of <a href="#purdy.html#anti-politics">anti-politics</a>. The <a href="https://www.bloomsbury.com/us/merchants-of-doubt-9781608193943/">merchants of doubt</a> have shifted <a href="https://www.tandfonline.com/doi/full/10.1080/09644016.2018.1439353">from attacking science to attacking policies</a> as too uncertain, too expensive, and unnecessary.</p></li>
 <li><p>Individual action is good but insufficient; <strong>collective action (and thus politics) is required</strong>. This class is in the public policy school, and I am a political scientist. We are here to learn about the many different kinds of policy and politics proposed to address climate change, not argue about whether policy and politics, in general, are useful for solving problems.</p></li>
 </ol>
+</section>
+<section id="advice-from-past-students" class="level2">
+<h2 class="anchored" data-anchor-id="advice-from-past-students">Advice from past students</h2>
+<blockquote class="blockquote">
+<p>“Go to office hours, and don’t be afraid to ask questions.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Do the readings. When I didn’t, I wasn’t prepared for discussions and would look dumb.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Come to class prepared and to discuss the readings. I would also suggest if they don’t know much about the topics, try to do some of the further readings or find additional resources. Additionally, office hours are helpful.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Take the feedback that you receive seriously; it will improve your writing.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Go to office hours often! He is definitely able to explain essay comments and readings more thoroughly during office hours. Read a lot of op-eds at the beginning of class to get a background on what he’s looking for.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Actually, do the readings and be prepared to contribute to discussions. Otherwise, there’s no point in taking the class. This won’t just be a class of arguing about carbon taxes vs.&nbsp;industrial policy; there will be a lot of concepts that are new to you, and you should be prepared to actually learn and discuss them.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Go to office hours for help on your op-ed, and start early in the semester!”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Make sure you dedicate a good amount of time to the readings because that is what you focus on most!”</p>
+</blockquote>
 </section>
 </section>
 <section id="learning-environment" class="level1">
@@ -315,7 +371,7 @@ Important
 <section id="assignments" class="level1">
 <h1>🪶 Assignments</h1>
 <p>Credit hours will be earned by attending two classes of <span class="math inline">\(1.3\bar{3}\)</span> hours each, reading and preparing written work outside of class for 6 to 9 hours per week, and a series of incremental assignments building to a highly-polished op-ed style critique of an organization’s approach to climate policy. A key part of the process will be critiquing the writing of others. Detailed instructions for each assignment are available in the <a href="assignments">assignment guide</a>.</p>
-<p>On all but three weeks, the assignments are incremental steps to your final op-ed.&nbsp;On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might <a href="https://www.regulations.gov/">Comment on a proposed federal agency policy</a>, <a href="https://ars.apps.lara.state.mi.us/">Comment on a proposed state agency policy</a> (sort by Filing Date to see pending rules), Recommend a course of action to one of <a href="https://www.usa.gov/elected-officials">your elected representatives</a> )</p>
+<p>On all but three weeks, the assignments are incremental steps to your final op-ed.&nbsp;On weeks 5, 9, and 13, we will practice civic engagement by writing to a public official or agency. Post 100-200 words about it and a link to the opportunity on Canvas. For example, you might <a href="https://www.regulations.gov/">Comment on a proposed federal agency policy</a>, <a href="https://ars.apps.lara.state.mi.us/">Comment on a proposed state agency policy</a> (sort by Filing Date to see pending rules), or recommend a course of action to one of <a href="https://www.usa.gov/elected-officials">your elected representatives</a>.</p>
 <p>Alternatively, on week 9, you may write a reflection on how you carry with you different world views/ways of seeing nature/forms of environmental imagination/paradigms and how they shape your thinking. This should mirror Purdy’s self-reflection in the introduction of <em>After Nature</em> by including the four world views we read about, but it may also include others (including, perhaps, some of the new emerging visions discussed in Chapter 7).</p>
 <blockquote class="blockquote">
 <p><mark><strong>All assignments are to be submitted on Canvas.</strong> </mark></p>
@@ -564,8 +620,8 @@ Note
 <section id="week-1-hope" class="level2">
 <h2 class="anchored" data-anchor-id="week-1-hope">Week 1: Hope</h2>
 <p>…in an unequal and chaotic world.</p>
-<section id="thursday-syllabus-review-and-in-class-discussion-best-practices-exercise" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-syllabus-review-and-in-class-discussion-best-practices-exercise">Thursday: Syllabus review and in-class discussion <a href="best-practices.html">best-practices exercise</a></h3>
+<section id="wednesday-syllabus-review-and-in-class-discussion-best-practices-exercise" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-syllabus-review-and-in-class-discussion-best-practices-exercise">Wednesday: Syllabus review and in-class discussion <a href="best-practices.html">best-practices exercise</a></h3>
 <blockquote class="blockquote">
 <p><a href="https://medium.com/@maryheglar/home-is-always-worth-it-d2821634dcd9"><em>Home is Always Worth It</em> - Mary Annaïse Heglar (Medium, 2019)</a> <code>(Canvas)</code></p>
 </blockquote>
@@ -590,8 +646,8 @@ Further reading:
 <blockquote class="blockquote">
 <p>“The hope is that the [Inflation Reduction Act’s] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue…Climate is reshaping the terrain on which we will be fighting in the years to come.” (Battistoni and Mann)</p>
 </blockquote>
-<section id="tuesday-the-state-of-us-climate-policy" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-the-state-of-us-climate-policy">Tuesday: The State of US Climate Policy:</h3>
+<section id="monday-the-state-of-us-climate-policy" class="level3">
+<h3 class="anchored" data-anchor-id="monday-the-state-of-us-climate-policy">Monday: The State of US Climate Policy:</h3>
 <p>This week, we are hearing from fairly mainstream policy people who work in similar circles (except for Battistoni and Mann’s critique from the labor left). You should not take agreement among them as evidence that there is broad political agreement on all of these things; it is just a function of what I assigned, which is a function of who happens to be in the room where climate policy is being made today. In future weeks, we will read a broader range of perspectives, but I think we need to start here to understand where we are today before we dive deeper into how we got here in weeks 3-7 and where we might go from here in weeks 8-14.</p>
 <blockquote class="blockquote">
 <p><a href="https://scholars.org/podcast/climate-health-care-and-irs">Interview with Matto Mildenberger (SSN, 2023)</a> (minutes 2-13) 🎧</p>
@@ -629,8 +685,8 @@ Further reading:
 </ul>
 <!-- More summaries of US policy TBD -->
 </section>
-<section id="thursday-the-state-of-michigan-climate-policy" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-the-state-of-michigan-climate-policy">Thursday: The State of Michigan Climate Policy</h3>
+<section id="wednesday-the-state-of-michigan-climate-policy" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-the-state-of-michigan-climate-policy">Wednesday: The State of Michigan Climate Policy</h3>
 <blockquote class="blockquote">
 <p><a href="https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/">Michigan Gov.&nbsp;Gretchen Whitmer might notch a big climate win</a></p>
 </blockquote>
@@ -680,8 +736,8 @@ Further reading:
 <blockquote class="blockquote">
 <p>“In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons.” (Purdy, p.&nbsp;21)</p>
 </blockquote>
-<section id="tuesday-world-views" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-world-views">Tuesday: World Views:</h3>
+<section id="monday-world-views" class="level3">
+<h3 class="anchored" data-anchor-id="monday-world-views">Monday: World Views:</h3>
 <ul>
 <li>What is the “Anthropocene challenge” as described by Purdy?</li>
 <li>What does Purdy mean by politics and anti-politics? What are some examples?</li>
@@ -695,8 +751,8 @@ Further reading:
 <p><a href="https://www.volts.wtf/p/the-trouble-with-net-zero">The trouble with net zero: A conversation with Holly Jean Buck</a> 🎧</p>
 </blockquote>
 </section>
-<section id="thursday-public-opinion" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-public-opinion">Thursday: Public Opinion:</h3>
+<section id="wednesday-public-opinion" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-public-opinion">Wednesday: Public Opinion:</h3>
 <ul>
 <li>How has public opinion on climate change shifted since 2017?</li>
 <li>What kinds of questions do public opinion researchers ask? What don’t they seem to ask?</li>
@@ -762,14 +818,14 @@ https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d
 <blockquote class="blockquote">
 <p>“The Settlers of the nineteenth-century frontier, clearing and sowing a continental garden, took to heart John Locke’s insistence that”God wants us to do something” and that nature revealed the intended tasks…And for the Romantics who created the Sierra Club, nature’s beauty was evidence that awe and admiration, not just usefulness, were parts of the human purpose. God wanted us not just to do something, but also to stand there—and look.” (Purdy, p.&nbsp;199)</p>
 </blockquote>
-<section id="tuesday" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday">Tuesday</h3>
+<section id="monday" class="level3">
+<h3 class="anchored" data-anchor-id="monday">Monday</h3>
 <blockquote class="blockquote">
 <p>Purdy, Chapter 1: An Unequal Terrain (51-70) and Chapter 2: God’s Avid Gardeners (70-95)</p>
 </blockquote>
 </section>
-<section id="thursday" class="level3">
-<h3 class="anchored" data-anchor-id="thursday">Thursday</h3>
+<section id="wednesday" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday">Wednesday</h3>
 <blockquote class="blockquote">
 <p>Purdy, Chapter 4: Natural Utopias (116-152)</p>
 </blockquote>
@@ -793,17 +849,20 @@ Aesthetics-->
 <li>How are policies addressing environmental justice consistent or inconsistent with different definitions?</li>
 <li>How might past environmental justice activism be similar to different to future conflicts in the Anthropocene?</li>
 </ul>
-<section id="tuesday-1" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-1">Tuesday</h3>
+<section id="monday-1" class="level3">
+<h3 class="anchored" data-anchor-id="monday-1">Monday</h3>
+<blockquote class="blockquote">
+<p><a href="https://www.npr.org/2023/10/05/1198908047/climate-action-environmentalism-history">How everyday people started a movement that’s shaping climate action to this day,” <em>Throughline</em> (2023)</a></p>
+</blockquote>
 <blockquote class="blockquote">
 <p><a href="https://doi.org/10.2737/PNW-GTR-534">“Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534” (2002) by Dorceta Taylor</a> <!--could also go under movements--> (1-41)</p>
 </blockquote>
 <blockquote class="blockquote">
-<p><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514">“Three faces of climate justice”, <em>Annual Review of Political Science</em> (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301</a> (14 pages)</p>
+<p><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-051120-125514">“Three faces of climate justice,” <em>Annual Review of Political Science</em> (2022) by Nives Dolšak and Aseem Prakash. Vol. 25:283-301</a> (14 pages)</p>
 </blockquote>
 </section>
-<section id="thursday-1" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-1">Thursday</h3>
+<section id="wednesday-1" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-1">Wednesday</h3>
 <blockquote class="blockquote">
 <p><a href="https://ceepr.mit.edu/wp-content/uploads/2022/12/2022-The-Roosevelt-Project-Gulf-Coast-Case-Study.pdf"><em>Roosevelt Project Gulf Coast case</em> (2022) by Jason Beckfield et al.&nbsp;1-30</a></p>
 </blockquote>
@@ -829,14 +888,14 @@ Aesthetics-->
 <li>How does utilitarian environmentalism differ from other kinds of environmentalism? On what assumptions do utilitarianism and managerialism rest? Under what circumstances are these assumptions more reasonable or less reasonable, in your opinion?</li>
 <li>What kinds of politics do different technologies create? Who do they empower and disempower? What kinds of policy fights do they inspire?</li>
 </ul>
-<section id="tuesday-utilitarianism-and-managerialism" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-utilitarianism-and-managerialism">Tuesday: Utilitarianism and managerialism</h3>
+<section id="monday-utilitarianism-and-managerialism" class="level3">
+<h3 class="anchored" data-anchor-id="monday-utilitarianism-and-managerialism">Monday: Utilitarianism and managerialism</h3>
 <blockquote class="blockquote">
 <p>Purdy, Chapter 5: A Conservationist Empire (153-187)</p>
 </blockquote>
 </section>
-<section id="thursday-technology" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-technology">Thursday: Technology</h3>
+<section id="wednesday-technology" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-technology">Wednesday: Technology</h3>
 <p>Learning curves:</p>
 <blockquote class="blockquote">
 <p><a href="https://www.simonandschuster.com/books/The-Big-Fix/Hal-Harvey/9781982123994"><em>The Big Fix: Seven Practical Steps to Save Our Planet</em> by Hal Harvey and Justin Gillis</a>, Chapter 1: The Learning Curve (1-35) <code>(Canvas)</code> OR <a href="https://www.volts.wtf/p/focusing-on-the-climate-actions-that">Focusing on the climate actions that can make a real difference: A new book from Hal Harvey and Justin Gillis tries to clarify the choices</a> 🎧</p>
@@ -879,14 +938,14 @@ Aesthetics-->
 <blockquote class="blockquote">
 <p>“Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice.” (Purdy, p.&nbsp;266)</p>
 </blockquote>
-<section id="tuesday-2" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-2">Tuesday</h3>
+<section id="monday-2" class="level3">
+<h3 class="anchored" data-anchor-id="monday-2">Monday</h3>
 <blockquote class="blockquote">
 <p>Purdy, Chapter 6: A Wilderness Passage into Ecology (188-227)</p>
 </blockquote>
 </section>
-<section id="thursday-2" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-2">Thursday</h3>
+<section id="wednesday-2" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-2">Wednesday</h3>
 <blockquote class="blockquote">
 <p>Purdy, Chapter 7: Environmental Law in the Anthropocene (228-255), and Chapter 8: What Kind of Democracy (256-288). You can skip 271-281 if you are not interested in humanist vs.&nbsp;post-humanist debates (e.g., animal rights)</p>
 </blockquote>
@@ -903,8 +962,8 @@ Aesthetics-->
 </section>
 <section id="week-8-indigenous-and-feminist-critiques" class="level2">
 <h2 class="anchored" data-anchor-id="week-8-indigenous-and-feminist-critiques">Week 8: Indigenous and Feminist Critiques</h2>
-<section id="tuesday-indigenous-critique" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-indigenous-critique">Tuesday: Indigenous Critique</h3>
+<section id="monday-indigenous-critique" class="level3">
+<h3 class="anchored" data-anchor-id="monday-indigenous-critique">Monday: Indigenous Critique</h3>
 <ul>
 <li>What is the indigenous critique?</li>
 <li>In the context of renewable energy siting?</li>
@@ -930,8 +989,8 @@ Aesthetics-->
 <li><p><a href="https://www.science.org/doi/10.1126/science.abe4943">“Effects of land dispossession and forced migration on Indigenous peoples in North America” by Justin Farrell, Paul Berne Burow, Kathryn McConnell, Jude Bayham, Kyle Whyte, and Gal Koss in <em>Science</em></a></p></li>
 </ul>
 </section>
-<section id="thursday-ecofeminist-critique" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-ecofeminist-critique">Thursday: Ecofeminist Critique</h3>
+<section id="wednesday-ecofeminist-critique" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-ecofeminist-critique">Wednesday: Ecofeminist Critique</h3>
 <p>Battistoni asks if it is possible to increase people’s quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications.</p>
 <blockquote class="blockquote">
 <p>“Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free…As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor.” (Battistoni, <em>Alive in the Sunshine</em>)</p>
@@ -979,8 +1038,8 @@ https://docs.google.com/document/d/1aUXsJ1MrF2M67Lew-HP-UJHG1e1D6WlrjpdKCLBVz6s/
 <!--Blood and Soil
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore-->
-<section id="tuesday-power-and-population" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-power-and-population">Tuesday: Power and population</h3>
+<section id="monday-power-and-population" class="level3">
+<h3 class="anchored" data-anchor-id="monday-power-and-population">Monday: Power and population</h3>
 <p>Great power competition:</p>
 <blockquote class="blockquote">
 <p><a href="https://www.city-journal.org/article/china-is-no-climate-partner">“Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives.” by Jordan McGillis, City Journal</a> (1 page)</p>
@@ -999,8 +1058,8 @@ Military experts warn us our national security is threatened by massive waves of
 <p><a href="https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/">“The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition” by Alex Trembath and Vijaya Ramachandran in <em>The Atlantic</em></a> <code>(Canvas)</code></p>
 </blockquote>
 </section>
-<section id="thursday-immigration-and-ethno-nationalist-critique" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-immigration-and-ethno-nationalist-critique">Thursday: Immigration and ethno-nationalist critique</h3>
+<section id="wednesday-immigration-and-ethno-nationalist-critique" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-immigration-and-ethno-nationalist-critique">Wednesday: Immigration and ethno-nationalist critique</h3>
 <!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
 
 - Background: Human rights perspective: -->
@@ -1055,8 +1114,8 @@ Warning
 <ul>
 <li>What kinds of institutions do you see as most and least responsive to demands to address climate change? Why?</li>
 </ul>
-<section id="tuesday-governance" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-governance">Tuesday: Governance</h3>
+<section id="monday-governance" class="level3">
+<h3 class="anchored" data-anchor-id="monday-governance">Monday: Governance</h3>
 <p>Collective action</p>
 <blockquote class="blockquote">
 <p><a href="https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641">Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. <em>American Economic Review</em>, 100(3), 641-72.</a></p>
@@ -1079,8 +1138,8 @@ Warning
 <li>Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.</li>
 </ul>
 </section>
-<section id="thursday-regulation-and-electoral-institutions" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-regulation-and-electoral-institutions">Thursday: Regulation and Electoral Institutions</h3>
+<section id="wednesday-regulation-and-electoral-institutions" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-regulation-and-electoral-institutions">Wednesday: Regulation and Electoral Institutions</h3>
 <blockquote class="blockquote">
 <p><a href="https://www.volts.wtf/p/the-wonky-but-incredibly-important">The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman</a> 🎧</p>
 </blockquote>
@@ -1113,8 +1172,8 @@ Warning
 <li>To what extent have climate movements been effective, and why?</li>
 <li>To what extent are the underlying features of US climate politics outlined by McAdam in 2017 still true?</li>
 </ul>
-<section id="tuesday-opportunity-structure-and-mobilizing-structures" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-opportunity-structure-and-mobilizing-structures">Tuesday: Opportunity Structure and Mobilizing Structures</h3>
+<section id="monday-opportunity-structure-and-mobilizing-structures" class="level3">
+<h3 class="anchored" data-anchor-id="monday-opportunity-structure-and-mobilizing-structures">Monday: Opportunity Structure and Mobilizing Structures</h3>
 <blockquote class="blockquote">
 <p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801">McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” <em>Annual Review of Political Science</em> 20:189–2008</a> (189-199)</p>
 </blockquote>
@@ -1125,8 +1184,8 @@ Warning
 <p><a href="https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb">What the Hell Is Going On at the Sierra Club? by Kate Aronoff</a></p>
 </blockquote>
 </section>
-<section id="thursday-issue-framing" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-issue-framing">Thursday: Issue framing</h3>
+<section id="wednesday-issue-framing" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-issue-framing">Wednesday: Issue framing</h3>
 <blockquote class="blockquote">
 <p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801">McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” <em>Annual Review of Political Science</em> 20:189–2008</a> (Pgs. 199-205)</p>
 </blockquote>
@@ -1144,8 +1203,8 @@ Warning
 <section id="week-12-markets" class="level2">
 <h2 class="anchored" data-anchor-id="week-12-markets">Week 12: Markets</h2>
 <!--TBD QUESTIONS-->
-<section id="tuesday-new-keynesian-neoliberal-and-libertarian-economics" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-new-keynesian-neoliberal-and-libertarian-economics">Tuesday: New Keynesian, neoliberal, and libertarian economics:</h3>
+<section id="monday-new-keynesian-neoliberal-and-libertarian-economics" class="level3">
+<h3 class="anchored" data-anchor-id="monday-new-keynesian-neoliberal-and-libertarian-economics">Monday: New Keynesian, neoliberal, and libertarian economics:</h3>
 <ul>
 <li>What would Hayek say about
 <ol type="1">
@@ -1168,8 +1227,8 @@ Warning
 <p><a href="https://www.city-journal.org/article/gothams-airheaded-carbon-law">Gotham’s Airheaded Carbon Law</a> (9 pages)</p>
 </blockquote>
 </section>
-<section id="thursday-carbon-markets-and-pricing" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-carbon-markets-and-pricing">Thursday: Carbon markets and pricing:</h3>
+<section id="wednesday-carbon-markets-and-pricing" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-carbon-markets-and-pricing">Wednesday: Carbon markets and pricing:</h3>
 <blockquote class="blockquote">
 <p><a href="https://scholars.org/contribution/building-political-support-carbon-pricing">Building Political Support for Carbon Pricing</a> (2 pages) and <a href="https://scholars.org/podcast/paying-pollution">Paying for Pollution by Leigh Raymond</a> (22 min) 🎧</p>
 </blockquote>
@@ -1205,8 +1264,8 @@ Warning
 <li>Which industries will lose from which climate policies? Could they pivot? <!--- Identify examples of “odd bed-fellows”--></li>
 <li>What industries have most effectively obstructed policy? How do they work with/against political actors?</li>
 </ul>
-<section id="tuesday-the-global-political-economy-of-climate-policy" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-the-global-political-economy-of-climate-policy">Tuesday: The global political economy of climate policy:</h3>
+<section id="monday-the-global-political-economy-of-climate-policy" class="level3">
+<h3 class="anchored" data-anchor-id="monday-the-global-political-economy-of-climate-policy">Monday: The global political economy of climate policy:</h3>
 <blockquote class="blockquote">
 <p>Skim: <a href="https://doi.org/10.1017/S0020818320000296">Colgan, Jeff D., Jessica F. Green, and Thomas N. Hale. 2020. “Asset Revaluation and the Existential Politics of Climate Change.” <em>International Organization</em></a></p>
 </blockquote>
@@ -1218,8 +1277,8 @@ Warning
 <li><a href="https://doi.org/10.1017/S0020818320000107"><em>The Enemy of My Enemy: When Firms Support Climate Change Regulation</em> (2020) by Amanda Kennard</a></li>
 </ul>
 </section>
-<section id="thursday-us-political-economy-of-climate-policy" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-us-political-economy-of-climate-policy">Thursday: US political economy of climate policy:</h3>
+<section id="wednesday-us-political-economy-of-climate-policy" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-us-political-economy-of-climate-policy">Wednesday: US political economy of climate policy:</h3>
 <blockquote class="blockquote">
 <p><a href="https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation"><em>Carbon Captured: How Business and Labor Control Climate Politics</em>, Chapter 2: The Logic of Double Representation by Matto Mildenberger</a></p>
 </blockquote>
@@ -1261,8 +1320,8 @@ Learning Objectives
 
 
 -->
-<section id="tuesday-3" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-3">Tuesday:</h3>
+<section id="monday-3" class="level3">
+<h3 class="anchored" data-anchor-id="monday-3">Monday:</h3>
 <blockquote class="blockquote">
 <p><a href="https://kpfa.org/player/?audio=365879">Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.</a> 🎧 at 34:00-57:00</p>
 </blockquote>
@@ -1270,8 +1329,8 @@ Learning Objectives
 <p><a href="https://www.volts.wtf/p/minnesota-forces-transportation-planners#details">Minnesota forces transportation planners to take climate change seriously</a> 🎧</p>
 </blockquote>
 </section>
-<section id="thursday-3" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-3">Thursday:</h3>
+<section id="wednesday-3" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-3">Wednesday:</h3>
 <blockquote class="blockquote">
 <p><a href="http://pegasusbooks.com/books/charleston-9781639363575-hardcover"><em>Charleston: Race, Water, and the Coming Storm</em> by Susan Crawford (Chapters 1 and 10)</a> <code>(Canvas)</code></p>
 </blockquote>
@@ -1290,16 +1349,16 @@ Learning Objectives
 </section>
 <section id="week-15-reflection" class="level2">
 <h2 class="anchored" data-anchor-id="week-15-reflection">Week 15: Reflection</h2>
-<section id="tuesday-wrap-up" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-wrap-up">Tuesday: Wrap-up</h3>
+<section id="monday-wrap-up" class="level3">
+<h3 class="anchored" data-anchor-id="monday-wrap-up">Monday: Wrap-up</h3>
 <ul>
 <li>How has your understanding of the politics of policymaking changed since the start of the semester?</li>
 <li>Which reading stands out to us most and why?</li>
 <li>What connections do you see between your op-eds and the readings?</li>
 </ul>
 </section>
-<section id="thursday-no-class" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-no-class">Thursday: No class</h3>
+<section id="wednesday-no-class" class="level3">
+<h3 class="anchored" data-anchor-id="wednesday-no-class">Wednesday: No class</h3>
 </section>
 </section>
 <section id="ammendments" class="level2">
@@ -1509,18 +1568,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -1552,11 +1600,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1566,8 +1653,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1579,7 +1675,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1623,6 +1842,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1648,6 +1868,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1708,6 +1954,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

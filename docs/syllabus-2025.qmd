@@ -231,12 +231,12 @@ And here's a piece by two climate activists trying to influence policy:
 
 ## Due Dates 
 
-> <mark>**Discussion posts are due Mondays and Wednesdays at 7 p.m.** </mark>
+> <mark>**Discussion posts are due Sundays and Tuesdays at 7 p.m.** </mark>
 
-> <mark>**All other assignments and critiques are due Tuesdays at 7 p.m.** </mark>
+> <mark>**All other assignments and critiques are due Thursdays at 7 p.m.** </mark>
 
 ::: {.callout-important}
-There is an incremental assignment building to your final op-ed due almost <mark>every Tuesday</mark>. 
+There is an incremental assignment building to your final op-ed due almost <mark>every # Thursday</mark>. 
 :::
 
 
@@ -339,11 +339,12 @@ Beyond your two pass days, I allow you to make up two additional days:
 - If you unexpectedly miss class, post a `1-page reflection` on the readings **AND schedule a time to discuss the readings with me** (ideally, during office hours)
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
+
 # 📚  Materials
 
 Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
 
-I call on students during class and expect you to do all assigned readings for each week before Tuesday’s class (discussion posts are due Monday evening). 
+
 
 #	 📚 Required Books
 
@@ -1036,7 +1037,7 @@ Neo-Malthusian:
 > To Discuss: ["The Malthusians Are Back: Climate activists who worry that the world has too many people are joining an ugly tradition" by Alex Trembath and Vijaya Ramachandran in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2023/03/population-control-movement-climate-malthusian-similarities/673450/) `(Canvas)`
 
 
-#### Wednesday: Immigration and ethno-nationalist critique
+### Wednesday: Immigration and ethno-nationalist critique
 
 
 

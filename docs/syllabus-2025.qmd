@@ -174,7 +174,7 @@ Text extruded by large language models (LLMs) is, by construction, derivative of
 
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
 
-Good policy and political strategy rests on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
+Good policy and political strategy rest on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will check to make sure sources of evidence are used appropriately. 
 
 If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
@@ -266,9 +266,9 @@ Below is the schedule of due dates.
 
 ### Craft your critique - 25% of final grade
 
-- Week 5:  Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (9%)
+- Week 5:  Three revised headlines and the first 400 words for each + annotated bibliographies + revision spreadsheets for each (1%)
 - Week 6: peer critique of first 400 words  (5%)
-- Week 7: Two revised first 400 words + annotated bibliographies  + updated revision spreadsheets (10%)
+- Week 7: Two revised first 400 words + annotated bibliographies  + updated revision spreadsheets (18%)
 - Week 9: 
   - My feedback on your first 400 words 
   - Reflection post (1%)
@@ -281,9 +281,9 @@ Through multiple rounds of revision, you will hone your critique, improving your
 I am mostly grading on how you respond to feedback. If you would like, you can include revision comments on the document in Canvas addressing any points where you feel context is needed for me to understand how you incorporated feedback.
 :::
 
-- Week 10: One 750-800 word op-ed + annotated bibliography  + updated revision spreadsheet (10%)
+- Week 10: One 750-800 word op-ed + annotated bibliography  + updated revision spreadsheet (1%)
 - Week 11: Peer critique of op-ed  (5%)
-- Week 12: Revised op-ed  + updated revision spreadsheet (10%)
+- Week 12: Revised op-ed  + updated revision spreadsheet (19%)
 - Week 13: 
   - My feedback on your op-ed
   - Civic engagement post (1%)

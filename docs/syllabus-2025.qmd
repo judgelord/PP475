@@ -37,12 +37,15 @@ This is a small upper-level reading- and writing-intensive seminar that requires
 
 Links to course resources: 
 
-
 - 🏛️ [Best practices for our classroom environment](best-practices)
 
 - 🪶 [Assignment Guide](assignments)
 
--  📖 [Glossary](glossary)
+- 📚 [Required books](#required-books)
+
+-  📖  [Reading by week](#reading-by-week)
+
+-  📓 [Glossary](glossary)
 
 
 <!--
@@ -340,13 +343,11 @@ Beyond your two pass days, I allow you to make up two additional days:
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
 
-# 📚  Materials
-
-Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
-
 
 
 #	 📚 Required Books
+
+
 
 You must have a physical copy of one book to bring to class: 
 
@@ -429,6 +430,14 @@ European Union Climate Policy:
 
 # 📖 Reading by Week
 
+
+> Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
+
+
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
+
+
+
 I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation (see weeks on justice, markets, nationalism, and movements).
 
 There are some questions we will ask of every reading: 
@@ -439,8 +448,6 @@ There are some questions we will ask of every reading:
 - What does it imply for what we should do? 
 
 Come to class ready to answer these questions. 
-
-🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
 
 If you hit a paywall on a link from the syllabus:
 

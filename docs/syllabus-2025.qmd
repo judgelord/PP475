@@ -1357,6 +1357,10 @@ Learning Objectives
 - What connections do you see between your op-eds and the readings?
 
 
+## Extra 
+
+Many topics did not make it onto this syllabus. My recommendations for readings on other climate policy topics are [here](reading). 
+
 ## Ammendments 
 
 Because many topics we cover are subjects of ongoing discussion, I may make occasional changes to the course readings over the semester. I will notify you of any substantive changes. The full revision history is [on github](https://github.com/judgelord/PP475/commits/main/docs/syllabus-2025.html).

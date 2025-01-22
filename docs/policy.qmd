@@ -1,0 +1,120 @@
+---
+title: "Climate Policy"
+subtitle: ""
+title-block-banner: "#001B35" # banner.png
+title-block-banner-color: body-bg
+title-slide-attributes:
+    data-background-image: "https://www.whoi.edu/wp-content/uploads/2022/02/WHOI-Ward-Cover2.jpg"
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+ revealjs:
+   incremental: true   
+   smaller: false
+   scrollable: true
+   theme: [michigan.scss, oil.scss]
+css: styles.css
+execute:
+  echo: false
+  engine: knitr
+---
+
+# Trump 2025 Day 1 E.O.s
+
+## ["Energy emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/)
+
+To promote fossil fuels, nuclear, and mining, government agencies should:
+
+Sec. 2. Use eminent domain & Defense Production Act to commandeer private property
+
+Sec. 3-6. Exempt fossil fuels from normal health/safety/environmental/cost review
+
+- "Emergency approvals" for leasing, siting, production, transportation, refining
+- Waive Clean Water Act protections for water quality wetland, & coastline permits
+- Approve exemptions from Endangered Species Act restrictions on actions that make species go extinct
+  
+Sec. 7. Mobilize the military to aid fossil fuel transport and refining and construct fossil fuel infrastructure
+
+
+## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {.scrollable}
+
+Sec. 2. 
+
+- More federal funding for 
+  - offshore oil and gas
+  - mining 
+- No federal funding for 
+  - energy efficiency 
+  - water efficiency
+  - fuel efficiency 
+  - electrification, esp. EVs
+- No consideration of international effects in policymaking
+
+Sec. 3-4. Deregulate oil, natural gas, coal, hydro, biofuels, mining, and nuclear industries
+
+Sec. 5. Facilitate pipeline permitting and construction
+
+- Expedite environmental review and permitting
+- Reduce judicial review of NEPA compliance
+
+Sec. 6. Change cost-benefit analysis 
+
+  - exclude the social costs of GHGs 
+  - exclude benefits of reducing GHGs
+  - exclude international effects
+  - increases discount rate (further down-weighting future costs and benefits)
+  
+  
+Sec. 7. Pause the disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act
+
+- especially no money for electric vehicle charging stations
+
+Sec. 8. Approve liquefied natural gas export terminals
+
+- Skip NEPA review if possible
+
+Sec. 9. Open public lands to mining
+
+- more taxpayer support for locating minerals for private companies to min 
+- more taxpayer support for mining projects
+- increase National Defense Stockpile of minerals
+
+
+## [Unleashing Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
+
+
+Sec. 2-3. 
+
+- Expedite permitting and leasing, especially for liquefied natural gas (LNG) export and pipelines
+- Exempt LNG export from regulations 
+-  Open Arctic National Wildlife Refuge to oil and gas extraction
+- Replace 2024 BLM and NPS EIS with 2020 versions
+- remove protections for subsistence resources
+- deny the request for an indigenous sacred site in the Coastal Plain of the Arctic National Wildlife Refuge
+- more hunting and fishing on federal lands
+- support companies operating the failing  Trans-Alaska Pipeline
+- more roads in National Forests 
+
+## [Offshore Wind E.0.](https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/) {background-opacity="0.2" background-image="https://forefrontaalborg.com/wp-content/uploads/2022/05/AdobeStock_366215509-2048x1069.jpg"}
+
+- Temporary (?) ban on new offshore wind ("until this Presidential Memorandum is revoked.")
+- Review of existing permits/leases
+-  moratorium on all activities and rights of Magic Valley Energy, LLC,
+- Require any future wind developers to pay for removal of old windmills
+
+## Rescissions of Harmful E.O.s E.O.
+ 
+- Open leasing for oil and gas offshore and on public land
+- No disclosure of climate risks
+
+## E.0. 13957 "Schedule F" 
+
+Reclassifies ~50,000 civil servants (merit-based) as political appointees
+
+
+
+## Links 
+
+2024 Brought the World to a Dangerous Warming Threshold. Now What?
+Global temperatures last year crept past a key goal, raising questions about how much nations can stop the planet from heating up further. https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html
+

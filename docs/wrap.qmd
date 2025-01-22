@@ -17,7 +17,7 @@ execute:
   echo: false
   engine: knitr
 ---
-
+<!--
 ## Questions 
 
 ### - What facts or arguments stuck with you? 
@@ -32,6 +32,7 @@ execute:
 
 
 
+--> 
 
 ## 1: Hope 
 
@@ -453,6 +454,7 @@ Carbon markets and pricing:
 
 > ["Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice." (Purdy, p. 266)]()
 
+<!--
 
 - [What facts or arguments stuck with you?]()
 

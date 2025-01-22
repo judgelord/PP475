@@ -37,12 +37,15 @@ This is a small upper-level reading- and writing-intensive seminar that requires
 
 Links to course resources: 
 
-
 - 🏛️ [Best practices for our classroom environment](best-practices)
 
 - 🪶 [Assignment Guide](assignments)
 
--  📖 [Glossary](glossary)
+- 📚 [Required books](#required-books)
+
+-  📖  [Reading by week](#reading-by-week)
+
+-  📓 [Glossary](glossary)
 
 
 <!--
@@ -340,13 +343,11 @@ Beyond your two pass days, I allow you to make up two additional days:
 
 Beyond four missed classes (two passes, two make-ups), I  only allow make-ups in very extenuating circumstances. Participation is a core part of this class, and the entire class is deprived of your perspective when you are not with us. 
 
-# 📚  Materials
-
-Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
-
 
 
 #	 📚 Required Books
+
+
 
 You must have a physical copy of one book to bring to class: 
 
@@ -429,6 +430,14 @@ European Union Climate Policy:
 
 # 📖 Reading by Week
 
+
+> Each week's required readings are indented and marked with a grey sidebar. I also often note "resources" or "further readings" with bullets---these are not required readings.
+
+
+🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
+
+
+
 I have intentionally put a wide range of perspectives on the syllabus, sometimes in conversation (see weeks on justice, markets, nationalism, and movements).
 
 There are some questions we will ask of every reading: 
@@ -439,8 +448,6 @@ There are some questions we will ask of every reading:
 - What does it imply for what we should do? 
 
 Come to class ready to answer these questions. 
-
-🎧 Most weeks include audio content, either in addition to or as an alternative to required reading. Pay attention to the minutes assigned. Some podcasts keep going, and you don't need to keep listening.
 
 If you hit a paywall on a link from the syllabus:
 
@@ -455,7 +462,7 @@ There are many "further" readings, and some required readings (especially the lo
 
 ...in an unequal and chaotic world.
 
-### Monday: Syllabus Review and in-class [best-practices exercise](best-practices.html)
+### Wednesday: Syllabus Review and in-class [best-practices exercise](best-practices.html)
 
 
 > Please read <mark> the entire syllabus</mark> before class---this is your chance to ask questions about the assignments and readings.
@@ -583,14 +590,14 @@ Further resources for understanding the Inflation Reduction Act:
 
 
 
-## Week 3: Politics
+## Week 3: The Anthropocene Challenge
 
 ...in the Anthropocene
 
 > "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
 
 
-### Monday: World Views:
+### Wednesday: World Views:
 
 - What is the "Anthropocene challenge" as described by Purdy? 
 - What does Purdy mean by politics and anti-politics? What are some examples? 
@@ -606,7 +613,9 @@ Further reading on net net zero:
 
 - [All Hail The Planet: Carbon Offsets](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#carbon)
 
-### Wednesday:  Visions for the Future
+## Week 4 Politics 
+
+### Monday:  Visions for the Future
 
 - How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
 - How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
@@ -619,7 +628,7 @@ Further reading on net net zero:
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
 
 
-Background explain: 
+Background: 
 
 - [ The Green New Deal, Explained - Vox](https://youtu.be/GxIDJWCbk6I?si=TkRMREyuP9Fmc21b)
 <!--
@@ -628,7 +637,7 @@ Further reading:
 - [Temple, James. 2021. “The rare spots of good news on climate change”](https://www.technologyreview.com/2021/12/23/1042973/climate-change-action-progress-clean-energy/)
 --> 
 
-<!--
+
 ### Wednesday: Public Opinion:
 
 - How has public opinion on climate change shifted since 2017? 
@@ -702,7 +711,7 @@ https://static1.squarespace.com/static/59e25521b7411c07ef1410fa/t/6567a768443d2d
 
 - [Garside, Susanna & Haoyu Zhai. 2022. If not now, when? Climate disaster and the Green vote following the 2021 Germany Floods, Research & Politics, 9(4).](https://journals.sagepub.com/doi/10.1177/20531680221141523)
 
-
+<!--
 
 
 ## Week 4: God and Nature
@@ -1218,7 +1227,7 @@ Further reading:
 
 <!--TBD QUESTIONS--> 
 
-### Monday: 
+### Monday: Efficiency
 
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`-->
 
@@ -1349,6 +1358,10 @@ Learning Objectives
 - Which reading stands out to us most and why?
 - What connections do you see between your op-eds and the readings?
 
+
+## Extra 
+
+Many topics did not make it onto this syllabus. My recommendations for readings on other climate policy topics are [here](reading). 
 
 ## Ammendments 
 

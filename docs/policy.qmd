@@ -1,5 +1,5 @@
 ---
-title: "Coming Changes to U.S.  Climate-Relevant Policy"
+title: "Possible Changes to U.S.  Climate-Relevant Policy"
 subtitle: ""
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
@@ -19,11 +19,12 @@ execute:
   engine: knitr
 ---
 
-# Jan. 20, 2025 E.O.s^[Note that Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
+# Jan. 20, 2025 E.O.s^[Note that Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that executive-branch officials have the statutory or constitutional authority to do some of these things.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
 
-## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/)
+## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/) {background-opacity="0.3" background-image="https://www.gannett-cdn.com/-mm-/7943967a784f994f95931170ff2923f74c7e0899/c=0-139-2000-1269&r=x1683&c=3200x1680/local/-/media/2016/08/01/USATODAY/USATODAY/636056598017637651-AP-California-Wildfires.14.jpg"}
 
-To promote fossil fuels, nuclear, and mining, government agencies should:
+To promote oil, gas, biofuels, nuclear, and mining,^[More specifically, “energy” is defined as "crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals"]
+government agencies should:
 
 Sec. 2. Consider using eminent domain & the Defense Production Act to commandeer private lands and companies
 
@@ -33,11 +34,11 @@ Sec. 3-6. Exempt projects from normal health/safety/cost review
 - Waive Clean Water Act protections for water quality, wetlands, & coastlines
 - Emergency exemptions from Endangered Species Act restrictions on impacts that make species go extinct
   
-Sec. 7. Mobilize the military to construct fossil fuel infrastructure and aid fossil fuel transport and refining 
+Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil and gas transport and refining 
 
 ## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {.scrollable}
 
-To promote oil, natural gas, coal, hydro, biofuels, mining, and nuclear industries, government agencies should
+To promote oil, gas, coal, hydro, biofuels, mining, and nuclear industries, government agencies should
 
 Sec. 2. 
 
@@ -48,10 +49,10 @@ Sec. 2.
   - energy efficiency 
   - water efficiency
   - fuel efficiency 
-  - electrification, esp. EVs
+  - electrification, especially not anything related to EVs
 - Not consider international effects in policymaking
 
-Sec. 3-4. Deregulate oil, natural gas, coal, hydro, biofuels, mining, and nuclear industries
+Sec. 3-4. Deregulate oil, gas, coal, hydro, biofuels, mining, and nuclear industries
 
 Sec. 5. Facilitate pipeline permitting and construction
 
@@ -60,32 +61,32 @@ Sec. 5. Facilitate pipeline permitting and construction
 
 Sec. 6. Change cost-benefit analysis 
 
-  - exclude the social costs of pollution 
-  - exclude co-benefits of reducing pollution 
-  - exclude international effects
-  - use higher discount rates (further down-weighting costs and benefits for future generations)
+  - Exclude the social costs of pollution 
+  - Exclude co-benefits of reducing pollution 
+  - Exclude international effects
+  - Use higher discount rates (further down-weighting costs and benefits for future generations)
   
 Sec. 7. Pause the disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act.^[On Jan 21, OMB [clarified](https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/) that this only applies to funds supporting programs, projects, or activities that may be implicated by the policy established in Section 2"]
 
-- especially no money for electric vehicle charging stations
+- Especially no money for electric vehicle charging stations
 
-Sec. 8. Approve liquefied natural gas export terminals
+Sec. 8. Approve gas export projects
 
 - Skip NEPA review if possible
 
-Sec. 9. Open public lands to mining
+Sec. 9. Help companies do more mining on public lands
 
-- more government funds to locate minerals for private companies to mine
-- more government funds for mining projects
-- increase National Defense Stockpile of minerals to increase demand and provide supply when there is scarcity in the market
+- More government funds to locate minerals for companies to mine
+- More government funds for mining projects
+- Increase National Defense Stockpile of minerals to increase demand and provide supply when there is scarcity in the market
 
 
 ## [Unleashing Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
 
 Government agencies should: 
 
-- Expedite permitting and leasing, especially for liquefied natural gas (LNG) export and pipelines
-- Exempt LNG export from regulations 
+- Expedite permitting and leasing, especially for gas export and pipelines
+- Exempt gas export from regulations 
 - Open Arctic National Wildlife Refuge to oil and gas extraction
 - Replace many 2024 Environmental Impact Statements with 2020 versions
 - Remove protections for subsistence resources
@@ -102,7 +103,7 @@ Government agencies should:
   - prevents consideration of any wind energy lease renewal
   - does not apply to oil, gas, minerals
 - Review existing permits/leases to identify legal bases for terminating existing wind energy leases
-- Impose a moratorium on all activities and rights of Magic Valley Energy granted by Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
+- Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
 - Require developers to pay for the removal of old windmills
 
 ## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/)

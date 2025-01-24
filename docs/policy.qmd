@@ -83,7 +83,7 @@ Sec. 9. Help companies do more mining on public lands
 - Increase National Defense Stockpile of minerals to increase demand and provide supply when there is scarcity in the market
 
 
-## [Unleashing Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
+## [Alaska's Resouces E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/) {background-opacity="0.2" background-image="https://1.bp.blogspot.com/-77DHTEAHfdE/TkXAzD8UDoI/AAAAAAAAASU/f3klXPyJjoo/s1600/alaska.jpg"}
 
 Government agencies should: 
 
@@ -108,7 +108,7 @@ Government agencies should:
 - Impose a moratorium on all activities and rights of Magic Valley Energy granted by the Bureau of Land Management's 2024 approval of the Lava Ridge Wind Project
 - Require developers to pay for the removal of old windmills
 
-## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/)
+## [International Environmental Agreements E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) {background-opacity="0.2" background-image="https://www.connect4climate.org/sites/default/files/images/event/unfccc-bonn_0.jpg"}
 
 Instructs agency officials to: 
 
@@ -125,7 +125,7 @@ More completely stop water from the  Sacramento and San Joaquin rivers from flow
 
 ## [Rescissions of "Harmful E.O.s" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
 
-Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like re-opening schools and offices after the pandemic]
+Rescinds nearly all Biden E.O.s^[including mundane things like the order of succession at the Department of Agriculture and outdated things like re-opening schools and offices after the pandemic] {background-opacity="0.2" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
 
 **Highlights:** Federal agencies should: 
  
@@ -145,7 +145,7 @@ Climate-Related E.O.s rescinded:
 - Executive Order 14094 of April 6, 2023 (Modernizing Regulatory Review).
 - Executive Order 14096 of April 21, 2023 (Revitalizing Our Nation’s Commitment to Environmental Justice for All).
 
-## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/)
+## [E.0. 13957 "Schedule F"](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/) {background-opacity="0.2" background-image="https://i0.wp.com/www10.aeccafe.com/blogs/arch-showcase/files/2011/03/EPA-press-book_sm_Page_04.jpg"}
 
 Reclassifies thousands (~50,000?) competitive civil servants (merit-based) positions as "Exempt --- more like political appointees who serve at the pleasure of the president and can be fired and replaced at any time
 

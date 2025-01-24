@@ -19,7 +19,7 @@ execute:
   engine: knitr
 ---
 
-# Jan. 20, 2025 E.O.s^[Note that Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that executive-branch officials have the statutory or constitutional authority to do some of these things.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
+# Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
 
 ## ["Energy Emergency" E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/) {background-opacity="0.3" background-image="https://www.gannett-cdn.com/-mm-/7943967a784f994f95931170ff2923f74c7e0899/c=0-139-2000-1269&r=x1683&c=3200x1680/local/-/media/2016/08/01/USATODAY/USATODAY/636056598017637651-AP-California-Wildfires.14.jpg"}
 
@@ -36,7 +36,7 @@ Sec. 3-6. Exempt projects from normal health/safety/cost review
   
 Sec. 7. Mobilize the military to build oil and gas infrastructure and aid oil and gas transport and refining 
 
-## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {.scrollable}
+## [American Energy E.O.](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/)  {background-opacity="0.3" background-image="https://heartlanddailynews.com/wp-content/uploads/2021/03/LNG-export-terminal.jpg"}
 
 To promote oil, gas, coal, hydro, biofuels, mining, and nuclear industries, government agencies should
 

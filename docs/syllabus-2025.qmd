@@ -177,7 +177,7 @@ Text extruded by large language models (LLMs) is, by construction, derivative of
 
 I am not yet sure if LLMs are a helpful tool for the craft of persuasive writing or for learning this craft. I worry that they may constrain creativity by focusing our attention on problems and solutions that already exist and have already been frequently linked in the source material on which the LLMs are trained. Additionally, in many fields, including political science, rich White men are disproportionately the authors of the source texts. Uncritically using LLMs trained on biased source material risks reproducing those biases.
 
-Good policy and political strategy rest on good evidence. Many LLMs fabricate evidence. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.--> 
+Good policy and political strategy rest on good evidence. Many LLMs fabricate evidence. Even when the sources are real, unless it is an exact quote, LLMs cannot guarantee a reasonable link between a claim an a source (LLMs don't reason), only a statistical correlation the words and word order. Exuded text is often sensible, but there is no guarantee. Be careful. Work submitted with <mark>fake sources or made-up facts will get a 0</mark> for similar reasons that other forms of academic dishonesty make work worse than worthless. <!--The key recommendation of experts studying how students can effectively use LLMs is to craft a solid bibliography first and constrain generative tools to those sources. You will still have to do significant work to make sure that sources are used and cited appropriately, but this is much easier than finding real evidence to replace fake evidence and *then* making sure it is used and cited correctly.-->  
 Thus, <mark>**references must be hyperlinked**</mark> whenever possible; I will check to make sure sources of evidence are used appropriately. 
 
 If you use people or tools other than your brain and spelling/grammar checkers to string words together, you should be prepared to comment on what you used them for, what they got right, and what they got wrong. 
@@ -827,7 +827,7 @@ Further Reading:
 >  To Discuss: ["Race, Class, Gender, and American Environmentalism. US Forest Service General Technical Report PNW-GTR-534" (2002) by Dorceta Taylor](https://doi.org/10.2737/PNW-GTR-534) <!--could also go under movements--> (1-41)
 
 
-> To Discuss: [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/)
+> To Discuss: [Executive Order on Revitalizing Our Nation’s Commitment to Environmental Justice for All](https://www.federalregister.gov/documents/2023/04/26/2023-08955/revitalizing-our-nations-commitment-to-environmental-justice-for-all)
 
 Further reading: 
 

@@ -9,6 +9,7 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
  revealjs:
+   footer: "(more at [judgelord.github.io/PP475/policy](https://judgelord.github.io/PP475/policy#/title-slide) )"
    incremental: false   
    smaller: false
    scrollable: true
@@ -21,7 +22,7 @@ execute:
 
 # Jan. 20, 2025 E.O.s^[Note: Executive Orders are generally not legally-binding policy, but rather orders to Executive Branch officials with policymaking authority spelled out in laws passed by Congress. Federal courts may or may not agree that these officials have the statutory or constitutional authority to do some of these things. E.O.s tend to be broad statements of policy wrapped in rhetorical flourish. Courts don't generally intervene until the details are worked out and specific effects are clear. These slides aim to summarize their intended effects in plain language.] {background-opacity="0.2" background-image="https://cdnph.upi.com/svc/sv/upi/5181737412928/2025/1/ba7cfd24d739668d1a4ab54268a90a04/President-Trump-signs-executive-orders-before-inaugural-crowd-at-Capital-One-Arena.jpg"}
 
-## TL;DR 
+## TL;DR
 
 - Big governmental support for oil, gas, and mining, including:
     - using the military to aid transport and refining
@@ -74,7 +75,7 @@ Sec. 3-4. Deregulate oil, gas, coal, hydro, biofuels, mining, and nuclear indust
 
 Sec. 5. Eliminate or expedite environmental review and permitting
 
-- Replace all binding rules implementing the National Environmental Policy Act with nonbinding guidance^[Environmental Impact Statements will still be required by NEPA (a statute), but I don't see anything in the [NEPA text](https://www.energy.gov/sites/default/files/2023-08/NEPA%20reg%20amend%2006-2023.pdf) requiring any agency to write binding rules governing EIS.] This probably means that NEPA will more often be decided by courts. 
+- Replace all binding rules implementing the National Environmental Policy Act with nonbinding guidance.^[Environmental Impact Statements will still be required by NEPA (a statute), but I don't see anything in the [NEPA text](https://www.energy.gov/sites/default/files/2023-08/NEPA%20reg%20amend%2006-2023.pdf) requiring any agency to write binding rules governing EIS.] (NEPA compliance will thus be more often decided by courts.) 
 - Reduce judicial review of legal compliance (e.g., NEPA)^[What courts can review is generally up to Congress and the courts (or so say the courts at least). I'm curious if there is a policy or legal argument here.]
 - Draft recommendations to Congress on pipeline permitting and construction
 
@@ -82,8 +83,8 @@ Sec. 5. Eliminate or expedite environmental review and permitting
 Sec. 6. Change cost-benefit analysis 
 
   - Exclude the [social costs of pollution](https://news.bloomberglaw.com/environment-and-energy/trump-aims-to-end-carbon-metric-that-puts-price-on-climate-harms)
-  - Exclude co-benefits of reducing pollution 
-  - Exclude international effects
+  - Exclude [co-benefits](https://www.sciencedirect.com/science/article/pii/S1462901115301064) of reducing pollution 
+  - Exclude [international effects](https://www.yalejreg.com/nc/internationalizing-regulatory-review-by-elena-chachko/)
   - Use higher discount rates (further down-weighting costs and benefits for future generations)
   
 Sec. 7. Pause the disbursement of funds appropriated through the Bipartisan Infrastructure Law and Inflation Reduction Act.^[On Jan 21, OMB [clarified](https://www.whitehouse.gov/briefings-statements/2025/01/omb-memo-m-25-11/) that this only applies to funds supporting programs, projects, or activities that may be implicated by the policy established in Section 2"]
@@ -182,6 +183,9 @@ Directs the Office of Personnel Management to rescind its 2024 rule “Upholding
 ## [Council to Assess the Federal Emergency Management Agency](https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/)	{background-opacity="0.2" background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/FEMA_-_34427_-_FEMA_community_relations_worker_helping_a_young_resident_in_New_Jersey.jpg"}
 
 Establishes a council to look for political bias in disaster responses chaired by [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) and [Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem)
+
+
+- On Jan. 24, Trump suggested [eliminating FEMA](https://www.nytimes.com/2025/01/24/briefing/trump-visits-disaster-areas-high-egg-prices.html)
 
 
 # Outstanding questions 

@@ -928,7 +928,9 @@ Recent policy efforts:
 
 >  To Discuss: Research: [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
 
-## Week 9: Political Economy
+## Week 9: Winter Break
+
+## Week 10: Political Economy
 
 ...as a force explaining action and inaction. 
 
@@ -981,7 +983,7 @@ Further Reading:
 - Tom Athanasiou on what the U.S. return to the Paris climate agreement means, and what Biden means for the climate (Nation article [here](https://www.thenation.com/article/environment/paris-agreement-us-goals/))
 
 
-## Week 10:  Indigenous Critique
+## Week 11:  Indigenous Critique
 
 - What is the indigenous critique? 
  - In the context of renewable energy siting? 
@@ -1016,7 +1018,7 @@ Background:
 
 
 
-## Week 11: Nationalist Critique
+## Week 12: Nationalist Critique
 
 
 <!--QUESTIONS TBD--> 
@@ -1027,7 +1029,9 @@ Military experts warn us our national security is threatened by massive waves of
 
 ### Monday:  Power and population
 
+<!--
 - Background on securitization: [All Hail The Planet: Military](https://www.aljazeera.com/features/longform/2024/6/20/all-hail-the-planet#military) (11:38)
+--> 
 
 Great power competition v. cooperation: 
 
@@ -1107,8 +1111,8 @@ Further Research:
 
 
 
-
-##  Week 12: Institutions 
+<!--
+##  Week 13: Institutions 
 
 - What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
@@ -1118,7 +1122,7 @@ Further Research:
 Collective action
 
 >  To Discuss: 
---> 
+
 
 
 Governing institutions:
@@ -1140,24 +1144,6 @@ Further reading:
 - Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.  
 
 
-### Wednesday: Regulation and Electoral Institutions
-
-- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
-
-
-> To Discuss: [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
-
-> To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
-
-> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP475/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas)`
-
-- Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
-
-
-> To Discuss: [How bad could Trump be for renewables? A previously unreported study predicts a massive decrease in solar, wind, and battery development if Trump adopts just one proposal in Project 2025.](https://open.substack.com/pub/heated/p/how-bad-could-trump-be-for-renewables)
-
-- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
-
 
 Electoral institutions: 
 
@@ -1170,13 +1156,8 @@ Further reading:
 
 - Research: [Ostrom, E. (2010). Beyond markets and states: polycentric governance of complex economic systems. *American Economic Review*, 100(3), 641-72.](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641)
 
-- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
 
-- [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
 
-- [For a Preview of Project 2025, Look to Argentina](https://drilled.media/news/Project2025-Argentina)
-
-- [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
 
 - [What a Divided Government Means for Climate Policy (Political Climate 2022)](https://www.politicalclimatepodcast.com/episodes/episode/22892844/what-a-divided-government-means-for-climate-policy)
 
@@ -1229,10 +1210,37 @@ Further reading:
 
 <!--TBD QUESTIONS--> 
 
-### Monday: Efficiency
+### Monday: Efficiency & Regulation
 
 > [Elizabeth Popp Berman on the "economic style of thinking" that consumed U.S. policy](https://www.volts.wtf/p/volts-podcast-elizabeth-popp-berman#details) 🎧  <!--OR [Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy (Selections TBD)](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist) `(Canvas)`-->
 
+- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
+
+
+> To Discuss: [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important) 🎧 
+
+<!--
+> To Discuss: [What Happens Next? The administrative state under a second Trump term](https://donmoynihan.substack.com/p/what-happens-next) 
+--> 
+
+> To Discuss: Read carefully [Project 2025 Climate Sections (short)](https://judgelord.github.io/PP475/2025-climate-sections-short.pdf) (8 pages) and skim the longer climate-related sections of [The The Heritage Foundation's *Mandate for Leadership: The Conservative Promise*](https://www.project2025.org/playbook/) `(Canvas)`
+
+- Optional background: [WSJ News Explainer: Project 2025](https://www.youtube.com/watch?v=y16SZhZJHkI)
+
+<!--
+> To Discuss: [How bad could Trump be for renewables? A previously unreported study predicts a massive decrease in solar, wind, and battery development if Trump adopts just one proposal in Project 2025.](https://open.substack.com/pub/heated/p/how-bad-could-trump-be-for-renewables)
+-->
+
+- As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different?  
+
+Further reading: 
+- [What Trump 2.0 Could Mean for the Environment - NYT](https://www.nytimes.com/2024/07/16/climate/trump-epa-regulation.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+- [Inside the Project 2025 plan to gut climate regs](https://www.eenews.net/articles/inside-the-project-2025-plan-to-gut-climate-regs/)
+
+- [For a Preview of Project 2025, Look to Argentina](https://drilled.media/news/Project2025-Argentina)
+
+- [Conservatives have already written a climate plan for Trump’s second term](https://www.politico.com/news/2023/07/28/far-right-climate-plans-00107498)
 
 
 <!--

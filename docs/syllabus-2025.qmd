@@ -798,6 +798,8 @@ Further Reading:
 
 - [*Under a White Sky: The Nature of the Future* by Elizabeth Kolbert](https://www.penguinrandomhouse.com/books/617060/under-a-white-sky-by-elizabeth-kolbert/)
 
+- [Mexican Government Announcement on Solar Geoengineering Ban](https://www.ciel.org/news/ciel-welcomes-mexican-government-announcement-on-solar-geoengineering-ban/)
+
 - [Dr. Ye Tao on a grand scheme to cool the Earth: Mirrors. Lots of mirrors.](https://www.volts.wtf/p/volts-podcast-dr-ye-tao-on-a-grand#details) 🎧 
 
 - [Why we shouldn’t shut nuclear power plants --- starts at minute 35](https://kpfa.org/player/?audio=377066) 🎧 
@@ -984,9 +986,16 @@ Further Reading:
 ## Week 10:  Indigenous Critique
 
 - What is the indigenous critique? 
- - In the context of renewable energy siting? 
- - In the context of adaptation?
- - In the context of greenhouse gas emissions? 
+  - In the context of renewable energy siting? 
+  - In the context of adaptation?
+  - In the context of greenhouse gas emissions? 
+  
+- How does Whyte distinguish:
+  - Reducing harm / injustices to indigenous peoples
+  - Indigenous participation/consent
+  - Indigenous leadership
+  - Self governance
+  
 - Whyte mainly discusses decisions affecting Indigenous lands, while Tunks focuses on Indigenous voice in settler policy processes (including international policymaking). What is the main argument for these two situations? 
 <!--
 - "Indigenous lands" are contested. Settler governments often ignore provisions of treaties, and many treaties were made under threat of violence. -->

@@ -1052,7 +1052,6 @@ Neo-Malthusian:
 
 - Background on population and the climate: [The population question - NYT Climate Forward](https://www.nytimes.com/2022/11/18/climate/the-population-question.html)
 
-- Background on climate migration: [Connecting the dots between climate, migration and the far-right - NPR Special Series on Climate, migration and the far right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)
 
 > To Discuss: ["The Tragedy of the Commons" by Garrett Hardin in *Science*, Vol. 162, No. 3859 (1968), p. 1243-1248](https://www.jstor.org/stable/1724745) (6 pages)
 
@@ -1063,11 +1062,9 @@ Neo-Malthusian:
 
 ### Wednesday: Immigration and ethno-nationalist critique
 
+- Background on climate migration: [Connecting the dots between climate, migration and the far-right - NPR Special Series on Climate, migration and the far right](https://www.npr.org/2022/10/03/1125746902/climate-change-migration-far-right-political-extremism)
 
 
-<!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
-
-- Background: Human rights perspective: --> 
 
 
 > To Discuss:  [*U.S. Immigration and the Environment* from the Federation for American Immigration Reform](https://www.fairus.org/sites/default/files/2017-08/FAIR_2016_Environmental_Report.pdf) (30 pages)
@@ -1082,14 +1079,23 @@ Also note that some factual claims in *U.S. Immigration and the Environment* con
 
 Critique of the nationalist critique: 
 
-> To Discuss: News: [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration)
+> To Discuss: News: [Climate denial is waning on the right. What’s replacing it might be just as scary](https://www.theguardian.com/environment/2021/nov/21/climate-denial-far-right-immigration) 
+
+  - This *Guardian* article discusses  [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197) (not required reading)
+
 
 > To Discuss: Opinion/Art: [The Welcome Table](https://www.thewelcometablefilm.com/) (minute 0-3:20)
 
 
 <!--
 > [*How fascism works.* By Sean Illing interview with Jason Stanley for Vox](https://www.vox.com/2018/9/19/17847110/how-fascism-works-donald-trump-jason-stanley)
---> 
+-->
+
+
+<!--- Background: Libertarian perspective: https://www.lesswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders
+
+- Background: Human rights perspective: --> 
+
 
 Further reading on climate migration: 
 
@@ -1104,8 +1110,6 @@ Further critique of neo-Malthusian ideas:
 Further Research: 
 
 - [Information about climate-induced migration spurs negative attitudes about immigrants by  Kaitlin Raimi](https://fordschool.umich.edu/news/2023/information-about-climate-induced-migration-spurs-negative-attitudes-about-immigrants)
-
-- [‘Ecobordering’: casting immigration control as environmental protection by Joe Turner and Dan Bailey](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1916197)
 
 - [The origins of totalitarianism by Hannah Arendt](https://search.lib.umich.edu/catalog/record/99187311787206381?query=Origins+of+Totalitarianism&utm_source=lib-home)
 
@@ -1178,11 +1182,11 @@ Further reading:
 
 - [The depthless stupidity of anti-ESG campaigns: A conversation with Kelly Mitchel](https://www.volts.wtf/p/the-depthless-stupidity-of-republicans) 🎧 
 
+--> 
 
 
 
-
-##  Week 13: Movements 
+## Week 13: Movements 
 
 - To what extent have climate movements been effective, and why?
 - To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
@@ -1195,7 +1199,7 @@ Further reading:
 
 > To Discuss: News: [What the Hell Is Going On at the Sierra Club? by Kate Aronoff](https://newrepublic.com/article/172784/sierra-club-layoffs-nlrb)
 
-### Wednesday: Issue framing
+Wednesday: Issue framing
 
 <!--
 > To Discuss: Research: [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (Pgs. 199-205)

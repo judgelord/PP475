@@ -1,5 +1,5 @@
 ---
-title: "PubPol 495 <br> Climate Change and Democracy"
+title: "PubPol 475 <br> Climate Change <br> Politics for the Anthropocene"
 title-block-banner: "#001B35" # banner.png
 title-block-banner-color: body-bg
 title-slide-attributes:
@@ -17,7 +17,8 @@ execute:
   echo: false
   engine: knitr
 ---
-<!--
+
+
 ## Questions 
 
 ### - What facts or arguments stuck with you? 
@@ -31,9 +32,6 @@ execute:
 ### - If you could waive a magic wand and change one aspect of policy or politics? 
 
 
-
---> 
-
 ## 1: Hope 
 
 ...in an unequal and chaotic world.
@@ -46,39 +44,17 @@ execute:
 [*We Can't Tackle Climate Change Without You: It's time to make a commitment to do more for the climate. Do what you're good at, and do your best.* - Mary Annaïse Heglar (Wired, 2020) ](https://www.wired.com/story/what-you-can-do-solve-climate-change/)
 
 
-
-
-## 1 Visions for the Future 
-
-- How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
-- How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
-- How do the Heritage Foundation's policy proposals implicitly respond to climate change and energy transition? 
-
-[A Climate Plan For the People - Kamala Harris Campaign ](https://subscriber.politicopro.com/f/?id=0000016c-f867-d730-abec-ffefc4660001)
-
-[Candidate Climate Plan Summary - Data For Progress](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
-
-[The Heritage Foundation's Project 2025 Mandate for Leadership]()
-
-## 2: Policy 
+## 2: The State of U.S. Climate Policy 
 
 > "The hope is that the [Inflation Reduction Act's] bundle of subsidies, tax breaks, infrastructure investment, and market protectionism will unite green-tech boosters with big capital, organized labor, and the beneficiaries of the growth-to-come. If this coalition-building is successful, more green-industrial policy will ensue...Climate is reshaping the terrain on which we will be fighting in the years to come." (Battistoni and Mann)
 
-
-The State of U.S. Climate Policy: 
-
+[What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
 
 [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs)  🎧
 
-[An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years)  🎧 
-OR 
-[Getting ready for IRA 2: A conversation with Costa Samaras.](https://www.volts.wtf/p/getting-ready-for-ira-2)  🎧 
+[An insider's view of the Biden years in clean energy policy: A conversation with Sonia Aggarwal (Volts, 2023)](https://www.volts.wtf/p/an-insiders-view-of-the-biden-years)  
 
 [Climate Bidenomics by Alyssa Battistoni and Geoff Mann in *New Left Review*](https://newleftreview.org/issues/ii143/articles/alyssa-battistoni-geoff-mann-climate-bidenomics) 
-
-[2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/)  🎧 
-
-[*All We Can Save*: Litigating in a Time of Crisis (51-59) and The Politics of Policy]()
 
 [The Farm Bill is the most important climate bill this Congress will pass (Volts, 2023)](https://www.volts.wtf/p/the-farm-bill-is-the-most-important)  🎧
 
@@ -95,34 +71,63 @@ OR
 
 [Michigan Gov. Gretchen Whitmer might notch a big climate win](https://www.washingtonpost.com/politics/2023/11/01/michigan-gov-gretchen-whitmer-might-notch-big-climate-win/)
 
+- Shifts power to approve clean energy projects to the state utility commission
+
 [Clean energy package policy changes earn a mixed response from environmental advocates](https://michiganadvance.com/2023/11/07/clean-energy-package-policy-changes-earn-mixed-response-from-environmental-advocates/)
 
-The State of Ann Arbor Climate Policy:
+- Includes gas with CCS and waste incineration
 
-[Carbon Neutrality --- $A^2ZERO$ --- Building a just transition to community-wide carbon neutrality by 2030.](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx)
 
 
 # How we got here  {background-opacity="0.5" background-image="https://eoimages.gsfc.nasa.gov/images/imagerecords/82000/82693/earthrise_vis_1092.jpg"}
 
-## 3: Politics 
+## 3: The Anthropocene Challenge 
 
-...in the Anthropocene
+- Politics vs. anti-politics
 
-
-World Views:
-
-- What is the "Anthropocene challenge" as described by Purdy? 
-- What does Purdy mean by politics and anti-politics? What are some examples? 
+[Purdy, Prologue and Introduction]() 
 
 > "In a purblindness that has marked all of human history before today, nature has been the thing without politics, the home of the principles that come before politics, whether those are the divine right of kings or the equality of all persons." (Purdy, p. 21)
 
-[Purdy, Prologue and Introduction (1-50)]()
-
-- What does Buck mean by the "constructive ambiguity" of net zero? 
-- Purdy discusses several forms of environmental imagination/ideology that shaped U.S. environmental policy and the "terrain" on which policy debates unfold. What kind of political terrain does net zero create? 
-
 
 [The trouble with net zero: A conversation with Holly Jean Buck](https://www.volts.wtf/p/the-trouble-with-net-zero) 🎧 
+
+
+- Constructive ambiguity net zero
+- "accounting is fundamentally kind of boring"
+
+## 3:  Politics 
+
+Visions for the Future
+
+- How does the Harris campaign's climate plan implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How does the Data For Progress implicitly define the scope of "climate policy"---what is included and what is left out? 
+- How do the Heritage Foundation's policy proposals implicitly respond to climate change and energy transition? 
+
+[A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://archive.org/details/6380614-Kamala-Harris-Climate-Plan)
+
+[Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
+
+[The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections](https://judgelord.github.io/PP475/2025-climate-sections-short.pdf)
+
+[Jan. 20, 2025 Executive Orders](https://judgelord.github.io/PP475/policy#/jan.-20-2025-e.o.s)
+
+## Jan. 20, 2025 Executive Orders, TL;DR {background-opacity="0.2" background-image="https://images.inc.com/uploaded_files/image/1920x1080/getty_635923424_360310.jpg"}
+
+- Big governmental support for oil, gas, and mining, including:
+    - using the military to aid transport and refining
+    - price supports and subsidies, including for private pipelines
+    - taking private property (e.g., for pipelines)
+- Ban offshore wind and redefine wind & solar as not "energy"
+- End support for water, fuel, or energy efficiency
+- Expedite pollution permits and health/safety/cost review^[Directing legal compliance questions to courts (but also reducing judicial oversight?)]
+- Expand oil, gas, and mining on public lands
+- Rescind requirements to disclose climate risks
+- End international cooperation on climate change
+- End environmental justice and cumulative impacts analysis
+- Emergency permits for oil and gas projects (e.g., Line 5)
+- Reclassify 50,000 merit-system career civil service positions as political appointees without civil service protection (Schedule F)
+
 
 ## 3: Public Opinion:
 
@@ -137,12 +142,12 @@ World Views:
 
 
 
-[Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223) via [the library](https://search.lib.umich.edu/articles/record/cdi_proquest_miscellaneous_2767571845)
+[Gaikwad, Nikhar, Federica Genovese, and Dustin Tingley. "Creating Climate Coalitions: Mass Preferences for Compensating Vulnerability in the World’s Two Largest Democracies." *American Political Science Review* (2022): 1-19.](https://doi.org/10.1017/S0003055422000223)
 
 [Climate change belief systems across political groups in the United States by Sanguk Lee, Matthew H. Goldberg, Seth A. Rosenthal, Edward W. Maibach, John E. Kotcher, and Anthony Leiserowitz. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0300048)
 
 
-
+<!--
 ## 4: God and Nature 
 
 The religious, colonial, and mystic foundations of Western environmental law and politics: 
@@ -155,7 +160,7 @@ The religious, colonial, and mystic foundations of Western environmental law and
 
 Purdy, Chapter 1: An Unequal Terrain (51-70) and Chapter 2: God's Avid Gardeners
 
- 
+
 
 Purdy, Chapter 4: Natural Utopias
 
@@ -220,28 +225,20 @@ Global Justice:  [The Fight for Climate Justice by Fernando Tormos-Aponte (SSN, 
 
 > "It is a curious feature of environmental politics...that its rhetorical fidelity to the past can trick an observer into overlooking how innovative it is...In this respect, environmental politics resembles many religious traditions and the constitutional politics of the United States." (Purdy, p. 194) 
 
-<!--
-> "Paradox, partiality, and the mixed-up character of everything have come after the grasp at wholeness that began the ecological age." (Purdy, p. 227)--> 
-
-
-
-
-
-
-
 Purdy, Chapter 6: A Wilderness Passage into Ecology 
 
 
 
 Purdy, Chapter 7: Environmental Law in the Anthropocene, and Chapter 8: What Kind of Democracy. 
 
+
+
 # Where we might go next   {background-opacity="0.5" background-image="https://eoimages.gsfc.nasa.gov/images/imagerecords/82000/82693/earthrise_vis_1092.jpg"}
 
 
+## 8: Ecofeminist Critique and Labor
 
-
-
-## 8:  Feminist Critiques   
+["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) / ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
 
 Battistoni asks if it is possible to increase people's quality of life while decreasing our impact on the environment (i.e., producing and consuming less material stuff). She finds answers in the feminist concept of carework. Her argument has many clear policy implications. 
 
@@ -251,13 +248,20 @@ Battistoni asks if it is possible to increase people's quality of life while dec
 
 > "Capitalism depends on the socially reproductive labor of the household, and by calling that work an act of love, makes it free...As with Wages for Housework, in which the concrete demand for payment acted as a provocative starting point, the demand for payment for work done to and by ecosystems was originally meant as an unsettling metaphor." (Battistoni, *Alive in the Sunshine*)
 
-Policy implications of valuing care work:
-
-["A Green New Deal for Care: Revaluing the Work of Social and Ecological Reproduction"](https://www.degruyter.com/document/doi/10.7312/calh20556-005/html?lang=en) **OR** ["Alive in the Sunshine"](https://jacobin.com/2014/01/alive-in-the-sunshine)  by Alyssa Battistoni 
 
 
+## 8: Labor and Climate
 
-##  9: Political Economy 
+[Building a Bigger Team: Explaining Organized Labor's Advocacy for Climate Policy in Washington State." by Geoffrey Henderson]() 
+
+- How do incentives to form coalitions and compromise change?
+- What does Henderson find regading the importance of mitigating uncertainty? 
+
+[*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+
+- What is double-representation? 
+
+##  10: Political Economy 
 
 Incumbent industries as a force explaining action and inaction. 
 
@@ -274,45 +278,44 @@ The global political economy of climate policy:
 
 [Aklin, M. and Mildenberger, M. 2020. “Prisoners of the wrong dilemma: Why distributive conflict, not collective action, characterizes the politics of climate change.” *Global Environmental Politics* 20(4): 4-27.](https://doi.org/10.1162/glep_a_00578)
 
-##  9: Political Economy 
+- Domestic distributive conflict, not international collective action problems explain climate action.
+
+##  10: Political Economy 
 
 
 U.S. political economy of climate policy: 
 
 [Coal power plants cost Americans millions when they didn’t have to](https://lailluminator.com/2024/07/25/coal-power-plants-cost-americans-millions-when-they-didnt-have-to-study-says/)
 
-["Building a Bigger Team: Explaining Organized Labor's Advocacy for Climate Policy in Washington State." by Geoffrey Henderson]()
-
-- When governments cannot pass climate policy due to legislative gridlock, environmentalists have a greater incentive to make policy concessions to organized labor 
-- Labor support policies that mitigate worker uncertainty
-
-[*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
-
 [*Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*, Chapter 3 An Institutional History of Electricity Politics and Climate Inaction](https://academic.oup.com/book/32159/chapter/268128410)
 
 ["Power Flows: Transmission Lines and Corporate Profits" by Catherine Hausman](https://www.nber.org/papers/w32091)
 
 
-
-
-## 10: Indigenous Critique  
-
-- What is the indigenous critique? 
-  - In the context of renewable energy siting? 
-  - In the context of adaptation?
-  - In the context of greenhouse gas emissions? 
-- Whyte mainly discusses decisions affecting Indigenous lands, while Tunks focuses on Indigenous voices in settler policy processes (including international policymaking). What is the main argument for these two situations? 
-- "Indigenous lands" are contested. Settler governments often ignored the provisions of treaties, and many treaties were made under threat of violence. 
-  - What are the implications of expanding or shrinking Indigenous governance for addressing climate change? 
-  - Conversely, what are the implications of various climate policies for indigenous governance?
-
+## 11: Indigenous Critique  
 
 [Indigenous Environmental Justice, Renewable Energy Transition, and the Infrastructure of Sovereignty by Kyle Whyte in *Environmental Justice in North America*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003214380-13/indigenous-environmental-justice-renewable-energy-transition-infrastructure-sovereignty-kyle-whyte)
 
 [Andrea Tunks, “Tangata Whenua Ethics and Climate Change”](https://heinonline.org/HOL/Page?handle=hein.journals/nzjel1&id=73&collection=journals&index=)
 
 
-## 11: Nationalist Critiques 
+What is the indigenous critique? 
+  - In the context of renewable energy siting? 
+  - In the context of adaptation?
+  - In the context of greenhouse gas emissions? 
+
+How does Whyte distinguish:
+  - Reducing harm / injustices to indigenous peoples
+  - Indigenous participation/consent
+  - Indigenous leadership
+  - Self governance
+  
+Whyte mainly discusses decisions affecting Indigenous lands, while Tunks focuses on Indigenous voices in settler policy processes (including international policymaking). What is the main argument for these two situations? 
+
+
+
+
+## 12: Nationalist Critiques 
 
 <!--QUESTIONS TBD--> 
 
@@ -320,7 +323,7 @@ U.S. political economy of climate policy:
 
 Military experts warn us our national security is threatened by massive waves of climate refugees destabilizing countries around the world. - Al Gore--> 
 
-Great power competition:
+Great power competition v. cooperation: 
 
 ["Climate-Trap Diplomacy: The desire for climate cooperation with China undermines American strategic objectives." by Jordan McGillis, City Journal](https://www.city-journal.org/article/china-is-no-climate-partner) (1 page)
 
@@ -342,7 +345,7 @@ Blood and Soil Nationalism:
 
 
 
-##  12: Institutions  
+<!--##  12: Institutions  
 
 - What kinds of institutions do you see as most and least responsive to demands to address climate change? Why? 
 
@@ -382,12 +385,13 @@ Electoral institutions:
 
 - Proportional electoral rules increase electoral safety, allowing politicians to impose short-term costs
 
+--> 
 
 ##  13: Movements  
 
-
-
 [McAdam, Doug. 2017. “Social Movement Theory and the Prospects for Climate Change Activism in the United States.” *Annual Review of Political Science* 20:189–2008](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052615-025801) (189-199)
+
+. . . 
 
 1. Opportunity Structure
 
@@ -401,8 +405,6 @@ Electoral institutions:
 
 3. Issue Framing
 
-
-
 [Chapter 1. Deva Woodly. 2015. The Politics of Common Sense: How Social Movements Use Public Discourse to Change Politics and Win Acceptance, Oxford University Press.](https://global.oup.com/academic/product/the-politics-of-common-sense-9780190203986?cc=us&lang=en&)  
 
 
@@ -410,7 +412,15 @@ Electoral institutions:
 - To what extent are the underlying features of U.S. climate politics outlined by McAdam in 2017 still true? 
 
 
-##  14: Markets 
+##  14:  Efficiency & Markets 
+
+[Thinking like an Economist: How Efficiency Replaced Equality in U.S. Public Policy](https://press.princeton.edu/books/hardcover/9780691167381/thinking-like-an-economist)
+
+ [The wonky but incredibly important changes Biden just made to regulatory policy: A conversation with Sabeel Rahman](https://www.volts.wtf/p/the-wonky-but-incredibly-important)
+ 
+ - As discussed by Rahman, the Biden administration attempted to affect how agencies make and evaluate policy (e.g., through circular A4). How is the Heritage Foundation's plan similar or different? 
+
+##  14:  Efficiency & Markets 
 
 - What would Hayek say? 
 
@@ -419,11 +429,12 @@ Electoral institutions:
   3. Tradable emissions credits? (as Ketcham & McGillis propose)
 - What information would city officials and building managers need in each scenario? 
 
-New Keynesian, neoliberal, and libertarian economics: 
 
 ["The Use of Knowledge in Society" By Friedrich A. Hayek in *American Economic Review*](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader)
 
 [Gotham’s Airheaded Carbon Law](https://www.city-journal.org/article/gothams-airheaded-carbon-law) 
+
+ [The Coordinated Attack on Shareholder Activism - Damages](https://podcasts.apple.com/us/podcast/damages/id1606039896?i=1000660221663) 
 
 
 
@@ -441,7 +452,7 @@ Carbon markets and pricing:
 ## 15: Planning for Change 
 
 - Why are our governing institutions so bad at planning ahead? 
-- What solutions do Jacob, Kraft, and Crawford offer? What do you think? 
+- What solutions do Jacob, Kraft, and Crawford offer? 
 
  [Preparing our cities for the climate crisis: Geophysicist Klaus Jacob on how we can adapt our cities to live with rising seas and heavier rains.](https://kpfa.org/player/?audio=365879) 🎧  at 34:00-57:00
 
@@ -452,9 +463,8 @@ Carbon markets and pricing:
 ## ["Environmental policymaking is a choice among futures." (Purdy, p. 264)]() 
 
 
-> ["Politics is the fulcrum, not because it is attractive or easy, but because the questions about what kind of world to make cannot be answered without collective choice." (Purdy, p. 266)]()
+> ["Politics is the fulcrum, not because it is attractive or easy, but because questions about what kind of world to make cannot be answered without collective choice." (Purdy, p. 266)]()
 
-<!--
 
 - [What facts or arguments stuck with you?]()
 
@@ -462,7 +472,7 @@ Carbon markets and pricing:
 
 - [How has your thinking changed?]()
 
-- [What connections do you see between your op-eds and the readings?]()
+- [What readings were most helpful for your developing your ope-ed ideas?]()
 
 - [If you could waive a magic wand and change one thing?]()
 

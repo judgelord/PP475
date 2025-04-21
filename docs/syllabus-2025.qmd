@@ -490,9 +490,7 @@ Background:
 
 - [2023 Year in Review: Energy and Environmental Policy, with Karen Palmer and Joseph Majkut (Resources Radio, 2023)](https://www.resources.org/resources-radio/2023-year-in-review-energy-and-environmental-policy-with-karen-palmer-and-joseph-majkut/) (35 min) 🎧 
 
-> To Discuss: [](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
-
-
+> To Discuss: [What Trump’s Cabinet Picks and Advisers Say About Climate Change](https://www.nytimes.com/2024/12/04/climate/trump-cabinet-stefanik-zeldin-wright.html)
 
 >  To Discuss: [Interview with Matto Mildenberger (SSN, 2023)](https://scholars.org/podcast/climate-health-care-and-irs) (minutes 2-13) 🎧
 
@@ -624,7 +622,7 @@ Further reading on net zero:
 
 > To Discuss: [A Climate Plan For the People - Kamala Harris Campaign (24 pages)](https://archive.org/details/6380614-Kamala-Harris-Climate-Plan)
 
->  To Discuss: [Candidate Climate Plan Summary - Data For Progress (4 pages)](https://www.filesforprogress.org/reports/gnd_scorecards/Harris.pdf) +  Skim: [Other Candidate Climate Plan Summaries](https://www.dataforprogress.org/gnd-candidates)
+>  To Discuss: [Candidate Climate Plan Summaries - *Data for Progress* ](https://www.dataforprogress.org/gnd-candidates)
 
 > To Discuss:  The Heritage Foundation's Project 2025 Mandate for Leadership climate-related selections (short version)  `(Canvas)` (8 pages)
 
@@ -928,7 +926,13 @@ Recent policy efforts:
 
 > To Discuss: Research: [Building a Bigger Team: Explaining Organized Labor's Advocacy for Climate Policy in Washington State." by Geoffrey Henderson]() `(Canvas)`
 
+- How do incentives to form coalitions and compromise change?
+- What does Henderson find regading the importance of mitigating uncertainty? 
+
 >  To Discuss: Research: [*Carbon Captured: How Business and Labor Control Climate Politics*, Chapter 2: The Logic of Double Representation by Matto Mildenberger](https://direct.mit.edu/books/book/4620/chapter/211959/The-Logic-of-Double-Representation)
+
+- What is double-representation? 
+
 
 ## Week 9: Winter Break
 

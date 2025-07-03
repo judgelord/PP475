@@ -408,6 +408,7 @@ Assessments of Climate Models:
 
 Sources of Greenhouse Gases:
 
+- [Watch Carbon Dioxide Move Through Earth’s Atmosphere - NASA](https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/)
 - [Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity - OXFAM](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
 
 <!--
@@ -415,6 +416,17 @@ Attribution Science
 
 - 
 --> 
+
+## Background on "Net-zero" Technology]()
+
+- [BBC series *Memories of the Future*](https://www.bbc.com/reel/playlist/2045-memories-of-the-future)
+
+  - [Energy](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29d1n)
+  - [Fashion](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29j76)
+  - [Cities](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29qsy)
+  - [Houseing](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29q4r)
+  - [Food](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29rgs)
+  - [Aviation](https://www.bbc.com/reel/playlist/2045-memories-of-the-future?vpid=p0b29sn1)
 
 ## Background on Climate Policy
 
@@ -1075,7 +1087,7 @@ Neo-Malthusian:
 
 
 ::: {.callout-warning}
-The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.splcenter.org/fighting-hate/extremist-files/group/federation-american-immigration-reform) and [Hardin as an Extreamist White Nationalist](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin). While all assigned readings have a perspective, these views most starkly contrast the University of Michigan's stated goals and policies. And yet, these views are increasingly prominent in climate policy discourse, so it is important to understand them.
+The Southern Poverty Law Center designates [FAIR as a Hate Group](https://www.splcenter.org/fighting-hate/extremist-files/group/federation-american-immigration-reform) and [Hardin as an Extreamist White Nationalist](https://www.splcenter.org/fighting-hate/extremist-files/individual/garrett-hardin). While all assigned readings have a perspective, these views most starkly contrast the University of Michigan's stated [goals](https://culturejourney.umich.edu/values/) and [policies](https://spg.umich.edu/policy/201.35). And yet, these views are increasingly prominent in climate policy discourse, so it is important to understand them.
 
 
 Also note that some factual claims in *U.S. Immigration and the Environment* contradict data from other sources like the [Congressional Budget Office](https://www.cbo.gov/publication/58347#_idTextAnchor003) and the [PEW research center](https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/?tabId=tab-eb7dc167-cc10-458b-9b05-36485deec7df).
